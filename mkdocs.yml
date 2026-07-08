@@ -3,8 +3,8 @@ site_description: Informace o skládce v Molitorově (Kouřim)
 site_author: skladka-molitorov@seznam.cz
 site_url: https://skladka-molitorov.github.io
 
-repo_name: skladka-molitorov
-repo_url: https://github.com/skladka-molitorov/skladka-molitorov.github.io.git
+#repo_name: skladka-molitorov
+#repo_url: https://github.com/skladka-molitorov/skladka-molitorov.github.io.git
 
 nav:
   - Úvod: index.md
