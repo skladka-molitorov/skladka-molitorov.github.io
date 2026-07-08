@@ -1,0 +1,50 @@
+[data-md-color-primary="custom-light"] {
+  --md-primary-fg-color: rgb(43, 43, 43);
+  --md-primary-fg-color--light: rgb(63, 63, 63);
+  --md-primary-fg-color--dark: rgb(23, 23, 23);
+}
+[data-md-color-primary="custom-dark"] {
+  --md-primary-fg-color: rgb(43, 43, 43);
+  --md-primary-fg-color--light: rgb(63, 63, 63);
+  --md-primary-fg-color--dark: rgb(23, 23, 23);
+
+  --md-typeset-a-color: rgb(120, 190, 255); /* odkazy v dark */
+  --md-accent-fg-color: rgb(120, 190, 255);
+}
+.md-header__title {
+    visibility: hidden;
+}
+.md-tabs__link {
+    text-transform: none !important;
+}
+.md-nav__link {
+    text-transform: none !important;
+}
+.md-typeset a {
+  text-decoration: underline;
+}
+[data-md-color-scheme="custom-light"] img[src$="#only-dark"],
+[data-md-color-scheme="custom-light"] img[src$="#gh-dark-mode-only"] {
+  display: none; /* Hide dark images in light mode */
+}
+
+.md-typeset .md-post + .md-post {
+  border-top: 2px solid var(--md-primary-fg-color);
+  padding-top: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+/* Nebo gradientní/decentní varianta */
+.md-typeset .md-post {
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+.md-typeset .md-post:not(:last-child)::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: var(--md-accent-fg-color);
+  margin: 2rem auto 0;
+}

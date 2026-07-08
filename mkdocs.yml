@@ -1,0 +1,117 @@
+site_name: Skládka Molitorov (Kouřim)
+site_description: Informace o skládce v Molitorově (Kouřim)
+site_author: skladka-molitorov@seznam.cz
+site_url: https://skladka-molitorov.github.io
+
+repo_name: skladka-molitorov
+repo_url: https://github.com/skladka-molitorov/skladka-molitorov.github.io.git
+
+nav:
+  - Úvod: index.md
+  - Informace o skládce:
+    - info/index.md
+
+theme:
+  name: material
+  language: cs
+  features:
+    - navigation.expand
+    #- navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    #- navigation.path
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+    - content.code.copy
+    - content.code.annotate
+    - content.code.select
+    - content.tooltips
+    - content.tabs.link
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom-light
+      accent: deep orange
+      toggle:
+        icon: material/lightbulb-outline
+        name: Přepnout na tmavý režim
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom-dark
+      accent: deep orange
+      toggle:
+        icon: material/lightbulb
+        name: Přepnout na světlý režim
+  icon:
+    repo: fontawesome/brands/git-alt
+    edit: material/pencil
+    view: material/eye
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+  - tags
+  - glightbox
+  - blog:
+      blog_dir: info
+      post_dir: "{blog}/prispevky"
+      archive: true
+      categories: true
+      pagination: true
+      pagination_per_page: 10
+      authors_profiles: false
+      authors: false
+      draft: false
+      draft_on_serve: true
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: date
+      locale: cs
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.blocks.caption
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+
+extra:
+  generator: false
+  homepage: https://skladka-molitorov.github.io
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
+copyright: >
+  &copy; 2026 skladka-molitorv@seznam.cz
