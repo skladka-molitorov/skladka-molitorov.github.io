@@ -13,9 +13,13 @@ Ve středu 8.7. od 17:00 proběhlo jednání zastupitelstva města.
 
 Návrh podaný den předem datovou schránkou byl schválen v poměru 9 hlasů pro z 11 přítomných.
 
+![Pohled na skládku ze serpentin u Bulánky](./assets/img/Skladka.jpg){ align=center }
+
 Město tím bylo zaúkolováno:
 
-- jako účastník řízení podat krajskému úřadu nesouhlasné stanovisko k povolení začízení na odpady v Molitorově
+<!-- more -->
+
+- jako účastník řízení podat krajskému úřadu nesouhlasné stanovisko k povolení zařízení na odpady v Molitorově
 - a do 30 dní má poslat podněty na stavební úřad, Českou inspekci životního prostředí, krajskou hygienu a krajský účad.
 - Kontrolní výbor má prověřit, proč dodnes není splněné usnesení z letošního února
 
