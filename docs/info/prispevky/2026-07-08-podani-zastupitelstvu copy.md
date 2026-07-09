@@ -30,9 +30,11 @@ Pro usnesení nehlasovali pouze pan starosta Luboš Čepelák a paní místostar
 
 Další plánované zasedání zastupitelstva je 26. 8. - poslední před volbami.
 
-
 ## Přílohy
 
 - [Návrh usnesení](../../assets/info/files/01_Navrh-usneseni-deponie-kourim.pdf)
+
+![Návrh usnesení deponie Kouřim 1. strana](../../assets/info/files/01_Navrh-usneseni-deponie-kourim-1.jpg){ align=center }
+![Návrh usnesení deponie Kouřim 2. strana](../../assets/info/files/01_Navrh-usneseni-deponie-kourim-2.jpg){ align=center }
 
 ![Pohled na skládku ze serpentin u Bulánky](../../assets/img/Skladka.jpg){ align=center }
