@@ -13,8 +13,6 @@ Ve středu 8.7. od 17:00 proběhlo jednání zastupitelstva města.
 
 Návrh podaný den předem datovou schránkou byl schválen v poměru 9 hlasů pro z 11 přítomných.
 
-![Pohled na skládku ze serpentin u Bulánky](../../assets/img/Skladka.jpg){ align=center }
-
 Město tím bylo zaúkolováno:
 
 <!-- more -->
@@ -36,3 +34,5 @@ Další plánované zasedání zastupitelstva je 26. 8. - poslední před volbam
 ## Přílohy
 
 - [Návrh usnesení](../../assets/info/files/01_Navrh-usneseni-deponie-kourim.pdf)
+
+![Pohled na skládku ze serpentin u Bulánky](../../assets/img/Skladka.jpg){ align=center }
