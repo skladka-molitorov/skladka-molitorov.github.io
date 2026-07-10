@@ -8,8 +8,9 @@ site_url: https://skladka-molitorov.github.io
 
 nav:
   - Úvod: index.md
-  - Informace o skládce:
-    - info/index.md
+  - Časová osa: casova-osa.md
+  - Detailní informace: info/index.md
+  - O webu: o-webu.md
 
 theme:
   name: material
@@ -114,4 +115,4 @@ extra_javascript:
   - javascripts/extra.js
 
 copyright: >
-  &copy; 2026 skladka-molitorv@seznam.cz
+  &copy; 2026 skladka-molitorov@seznam.cz

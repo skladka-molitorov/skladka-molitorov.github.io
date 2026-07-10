@@ -18,7 +18,7 @@ Město tím bylo zaúkolováno:
 <!-- more -->
 
 - jako účastník řízení podat krajskému úřadu nesouhlasné stanovisko k povolení zařízení na odpady v Molitorově
-- a do 30 dní má poslat podněty na stavební úřad, Českou inspekci životního prostředí, krajskou hygienu a krajský účad.
+- a do 30 dní má poslat podněty na stavební úřad, Českou inspekci životního prostředí, krajskou hygienu a krajský úřad.
 - Kontrolní výbor má prověřit, proč dodnes není splněné usnesení z letošního února
 
 Pro usnesení nehlasovali pouze pan starosta Luboš Čepelák a paní místostarostka Jana Strunecká.

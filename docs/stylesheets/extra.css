@@ -48,3 +48,172 @@
   background: var(--md-accent-fg-color);
   margin: 2rem auto 0;
 }
+
+[data-md-color-primary="custom-light"] {
+  --md-primary-fg-color: rgb(43, 43, 43);
+  --md-primary-fg-color--light: rgb(63, 63, 63);
+  --md-primary-fg-color--dark: rgb(23, 23, 23);
+}
+[data-md-color-primary="custom-dark"] {
+  --md-primary-fg-color: rgb(43, 43, 43);
+  --md-primary-fg-color--light: rgb(63, 63, 63);
+  --md-primary-fg-color--dark: rgb(23, 23, 23);
+
+  --md-typeset-a-color: rgb(120, 190, 255); /* odkazy v dark */
+  --md-accent-fg-color: rgb(120, 190, 255);
+}
+.md-header__title {
+    visibility: hidden;
+}
+.md-tabs__link {
+    text-transform: none !important;
+}
+.md-nav__link {
+    text-transform: none !important;
+}
+.md-typeset a {
+  text-decoration: underline;
+}
+[data-md-color-scheme="custom-light"] img[src$="#only-dark"],
+[data-md-color-scheme="custom-light"] img[src$="#gh-dark-mode-only"] {
+  display: none; /* Hide dark images in light mode */
+}
+
+.md-typeset .md-post + .md-post {
+  border-top: 2px solid var(--md-primary-fg-color);
+  padding-top: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+/* Nebo gradientní/decentní varianta */
+.md-typeset .md-post {
+  position: relative;
+  padding-bottom: 2rem;
+}
+
+.md-typeset .md-post:not(:last-child)::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: var(--md-accent-fg-color);
+  margin: 2rem auto 0;
+}
+
+/* ===================== ČASOVÁ OSA ===================== */
+
+/* barvy kategorií */
+:root {
+  --tl-rizeni:  #1e6fd9;  /* řízení KÚ - modrá */
+  --tl-mesto:   #2e9e44;  /* město/ZM - zelená */
+  --tl-podani:  #e07b00;  /* naše podání - oranžová */
+  --tl-kontext: #8a8a8a;  /* kontext - šedá */
+  --tl-budouci: #9a9a9a;  /* budoucí termíny */
+  --tl-line:    #c9c9c9;
+  --tl-period-bg: rgba(224, 123, 0, 0.07);
+}
+[data-md-color-scheme="slate"] {
+  --tl-rizeni:  #5b9bf0;
+  --tl-mesto:   #55c06a;
+  --tl-podani:  #f0993a;
+  --tl-kontext: #9a9a9a;
+  --tl-budouci: #8a8a8a;
+  --tl-line:    #555;
+  --tl-period-bg: rgba(240, 153, 58, 0.10);
+}
+
+/* svislá linka */
+.md-typeset .tl {
+  position: relative;
+  padding-left: 0.2rem;
+}
+.md-typeset .tl::before {
+  content: "";
+  position: absolute;
+  left: 0.55rem;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: var(--tl-line);
+}
+
+/* položka */
+.md-typeset .tl-item {
+  position: relative;
+  margin: 0 0 1.4rem 0;
+  padding: 0 0 0 2.2rem;
+}
+.md-typeset .tl-item > p {
+  margin: 0.25rem 0 0 0;
+}
+
+/* puntík */
+.md-typeset .tl-item::before {
+  content: "";
+  position: absolute;
+  left: 0.25rem;
+  top: 0.28rem;
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  background: var(--md-default-bg-color);
+  border: 3px solid var(--tl-kontext);
+}
+.md-typeset .tl-rizeni::before  { border-color: var(--tl-rizeni); }
+.md-typeset .tl-mesto::before   { border-color: var(--tl-mesto); }
+.md-typeset .tl-podani::before  { border-color: var(--tl-podani); }
+.md-typeset .tl-budouci::before { border-style: dashed; border-color: var(--tl-budouci); }
+
+/* datum a štítek */
+.md-typeset .tl-date {
+  font-weight: 700;
+  font-size: 0.8rem;
+  margin-right: 0.6rem;
+}
+.md-typeset .tl-tag {
+  display: inline-block;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  padding: 0.05rem 0.45rem;
+  border-radius: 0.8rem;
+  color: #fff;
+  background: var(--tl-kontext);
+  vertical-align: middle;
+}
+.md-typeset .tl-rizeni  .tl-tag { background: var(--tl-rizeni); }
+.md-typeset .tl-mesto   .tl-tag { background: var(--tl-mesto); }
+.md-typeset .tl-podani  .tl-tag { background: var(--tl-podani); }
+.md-typeset .tl-budouci .tl-tag {
+  background: transparent;
+  color: var(--tl-budouci);
+  border: 1px dashed var(--tl-budouci);
+}
+.md-typeset .tl-kontext .tl-tag {
+  background: transparent;
+  color: var(--tl-kontext);
+  border: 1px solid var(--tl-kontext);
+}
+
+/* kontextové položky - tlumené */
+.md-typeset .tl-kontext > p,
+.md-typeset .tl-budouci > p {
+  color: var(--md-default-fg-color--light);
+}
+
+/* pásmo období (řízení přerušeno) */
+.md-typeset .tl-period {
+  background: var(--tl-period-bg);
+  border-left: 3px dashed var(--tl-podani);
+  border-radius: 0 0.3rem 0.3rem 0;
+  margin: 0 0 1.4rem -0.35rem;
+  padding: 0.8rem 0.8rem 0.2rem 0.35rem;
+}
+.md-typeset .tl-period-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--tl-podani);
+  margin: 0 0 1rem 2.2rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
