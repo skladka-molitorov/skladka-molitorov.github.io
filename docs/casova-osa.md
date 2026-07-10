@@ -1,6 +1,7 @@
 ---
 title: Časová osa
 hide:
+  - navigation
   - toc
 ---
 
