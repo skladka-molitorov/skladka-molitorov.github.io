@@ -1,3 +1,3 @@
-# Zápisky
+# Detailní informace
 
-Časová osa dění okolo skládky v Molitorově - podání, odpovědi úřadů, dokumenty. Řazeno od nejnovějšího.
+Detailní informace okolo skládky v Molitorově - podání, odpovědi úřadů, dokumenty. Řazeno od nejnovějšího.
