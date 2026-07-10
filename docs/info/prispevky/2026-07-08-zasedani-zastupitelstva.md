@@ -2,7 +2,7 @@
 date: 2026-07-08
 slug: 2026-07-08-zasedani-zastupitelstva
 categories:
-  - Podání
+  - Město
 tags:
   - zastupitelstvo
 ---
