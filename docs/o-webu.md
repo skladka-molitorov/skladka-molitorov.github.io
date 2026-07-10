@@ -1,6 +1,7 @@
 ---
 title: O webu
 hide:
+  - navigation
   - toc
 ---
 
