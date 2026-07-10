@@ -124,13 +124,15 @@
 
 /* svislá linka */
 .md-typeset .tl {
+  --tl-axis: 0.6rem;        /* poloha osy - linka i puntíky se centrují sem */
   position: relative;
   padding-left: 0.2rem;
 }
 .md-typeset .tl::before {
   content: "";
   position: absolute;
-  left: 0.55rem;
+  left: var(--tl-axis);
+  transform: translateX(-50%);
   top: 0;
   bottom: 0;
   width: 2px;
@@ -151,10 +153,12 @@
 .md-typeset .tl-item::before {
   content: "";
   position: absolute;
-  left: 0.25rem;
+  left: var(--tl-axis);
+  transform: translateX(-50%);
   top: 0.28rem;
   width: 0.7rem;
   height: 0.7rem;
+  box-sizing: border-box;
   border-radius: 50%;
   background: var(--md-default-bg-color);
   border: 3px solid var(--tl-kontext);
@@ -206,14 +210,22 @@
   background: var(--tl-period-bg);
   border-left: 3px dashed var(--tl-podani);
   border-radius: 0 0.3rem 0.3rem 0;
-  margin: 0 0 1.4rem -0.35rem;
-  padding: 0.8rem 0.8rem 0.2rem 0.35rem;
+  margin: 0 0 1.4rem 1.4rem;
+  padding: 0.8rem 0.8rem 0.2rem 0.8rem;
 }
 .md-typeset .tl-period-label {
   font-size: 0.72rem;
   font-weight: 700;
   color: var(--tl-podani);
-  margin: 0 0 1rem 2.2rem;
+  margin: 0 0 1rem 0;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+}
+
+/* položky uvnitř pásma: text zarovnaný s ostatními, puntík zpět na osu */
+.md-typeset .tl-period .tl-item {
+  padding-left: 0;
+}
+.md-typeset .tl-period .tl-item::before {
+  left: calc(var(--tl-axis) - 2.2rem);
 }
