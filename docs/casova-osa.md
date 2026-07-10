@@ -40,7 +40,9 @@ Proběhla dvě zasedání zastupitelstva. Ve zveřejněných zápisech **není o
 </div>
 
 <div class="tl-period" markdown>
-<p class="tl-period-label">9. 12. 2025 - 31. 10. 2026 · Řízení přerušeno. Zařízení nemá povolení a nesmí být provozováno.</p>
+<p class="tl-period-label">9. 12. 2025 - 31. 10. 2026 · Řízení přerušeno.
+Zařízení nemá povolení a nesmí být provozováno.</p>
+</div>
 
 <div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">9. 12. 2025</span><span class="tl-tag">Řízení KÚ</span>
