@@ -35,6 +35,7 @@ Zveřejněné údaje vycházejí z veřejně dostupných dokumentů, vlastní do
 
 ## Kontakt
 
-E-mail: [skladka-molitorov@seznam.cz](mailto:skladka-molitorov@seznam.cz)
+- E-mail: [skladka-molitorov@seznam.cz](mailto:skladka-molitorov@seznam.cz)
+- Telefon: +420 777 452 160
 
 Podněty, doplnění nebo opravy nepřesností uvítám.
