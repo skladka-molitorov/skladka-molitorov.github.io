@@ -12,13 +12,21 @@ dokument nebo zápisek, ze kterého vychází. Šedě označené položky jsou
 kontext, čárkovaně budoucí termíny.
 
 <div class="tl" markdown>
-
 <div class="tl-item tl-kontext" markdown>
 <span class="tl-date">2003-2026</span><span class="tl-tag">Kontext</span>
 
 Satelitní fotomapy ukazují růst od roku 2023 do 2026
 
 [Mapa](./assets/img/2023-2026.jpg)
+</div>
+
+<div class="tl-item tl-kontext" markdown>
+<span class="tl-date">2019-2025</span><span class="tl-tag">Kontext</span>
+
+Územní plán města Kouřim ve verzi z r. 2019 a i po aktualizacích v r. 2025 stále celou oblast kde je skládka označuje jako "REKREACE JINÁ".
+
+Více viz zápisek [Územní plán](info/prispevky/2026-07-15-uzemni-plan.md)
+
 </div>
 
 
