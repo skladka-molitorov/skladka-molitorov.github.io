@@ -67,6 +67,7 @@ plugins:
   - search
   - tags
   - glightbox
+  - mkdocs-video
   - blog:
       blog_dir: info
       post_dir: "{blog}/prispevky"
