@@ -15,3 +15,7 @@ Natočeno v pátek 17.7.2026 ráno v 8h z Molitorova od rodinných domků, asi 4
 
 ![type:video](../../assets/video/IMG_0928.MOV)
 ![Metadata videa](../../assets/info/files/Lokace_videa.jpg){ width="300", align=center }
+
+Od jednoho ze sousedů jsem získal video drtičky z blízka:
+
+![type:video](../../assets/video/Drticka.mp4)
