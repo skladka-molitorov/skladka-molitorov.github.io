@@ -19,6 +19,7 @@ Pokud v textu najdete chybu nebo nepřesnost, napište nám - opravíme ji.
 
 ## Co můžete udělat vy
 
+- [Podpořte petici](/info/category/petice/) svým podpisem!
 - Pošlete nám fotografie navážky nebo záznamy hluku s datem a místem pořízení.
 - Přijďte na zasedání Zastupitelstva města Kouřim - jsou veřejná.
 - Sdílejte odkaz na tento web, ne screenshoty - obsah průběžně aktualizujeme a opravujeme.
