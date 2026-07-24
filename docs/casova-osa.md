@@ -129,6 +129,11 @@ Datovou schránkou podány žádosti o informace
 [Detailní informace o žádostech](info/prispevky/2026-07-16-zadost-o-poskytnuti-informaci-106.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">24. 7. 2026</span><span class="tl-tag">Petice</span>
+
+Spuštěna petice [STOP skládce v Molitorově](/info/category/petice/) (papír + ePetice).
+</div>
 
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>

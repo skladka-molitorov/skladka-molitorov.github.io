@@ -16,6 +16,8 @@ V Molitorově, v areálu Golf Molitorov u Kouřimi je provozována deponie stave
     Spustili jsme petici za zastavení nepovoleného provozu skládky.
     **[Více informací o petici](/info/category/petice/)**
 
+    ePetice k podpisu: [STOP skládce v Molitorově](https://gov.cz/e-petice/1947-stop-skladce-v-molitorove) (je třeba přihlášení identitou občana)
+
 Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., o odpadech. U Krajského úřadu Středočeského kraje teprve probíhá řízení o povolení (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK). Toto řízení bylo v prosinci 2025 přerušeno pro zásadní vady žádosti a lhůta k doplnění byla prodloužena do 31. 10. 2026. Skládka je přesto fakticky provozována.
 
 !!! warning "Stav k 23. 7. 2026"
