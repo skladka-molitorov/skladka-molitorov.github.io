@@ -7,14 +7,14 @@ tags:
   - petice
 ---
 
-# Místa pro podpis petice
+# Místa pro podpis petice "STOP skládce v Molitorově"
 
 Petici lze podpořit elektronicky nebo vlastnoručně na podpisovém archu. Každý podepisující by měl petici podpořit pouze jedním z těchto způsobů.
 
 ## Kdo může podepsat
 
 Každý - petiční právo není vázáno na věk, státní občanství ani bydliště. Podepsat tedy
-může i cizinec nebo návštěva odjinud. Největší váhu ale mají podpisy obyvatel okolních obcí, proto se soustřeďte hlavně na ně.
+může i cizinec nebo návštěva odjinud.
 
 ## Petice je k podpisu na následujících místech
 
