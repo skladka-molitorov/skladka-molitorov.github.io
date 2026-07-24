@@ -52,6 +52,7 @@ Ochrana přírody a krajiny, ochrana životního prostředí a ochrana veřejné
 - Spisová značka: L 82331 vedená u Městského soudu v Praze
 - Sídlo: Kouřim
 - IČ: 29794269
+- Datová schránka: rc3a94a
 - E-mail: [skladka-molitorov@seznam.cz](mailto:skladka-molitorov@seznam.cz)
 - Telefon: +420 777 452 160
 
