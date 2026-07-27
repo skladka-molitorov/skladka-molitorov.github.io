@@ -13,7 +13,7 @@ kontext, čárkovaně budoucí termíny.
 
 <div class="tl" markdown>
 <div class="tl-item tl-kontext" markdown>
-<span class="tl-date">2003-2026</span><span class="tl-tag">Kontext</span>
+<span class="tl-date">2023-2026</span><span class="tl-tag">Kontext</span>
 
 Satelitní fotomapy ukazují růst od roku 2023 do 2026
 
@@ -39,6 +39,14 @@ Web sgrecyklace.cz zveřejňuje **ceník příjmu stavebního odpadu** pro provo
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">10. 7. 2025</span><span class="tl-tag">Kontrola KÚ</span>
+
+Krajský úřad provádí **kontrolu přímo v areálu** (kontrolní úkony č. j. 098123/2025/KUSK a 098125/2025/KUSK). O kontrole a jejích závěrech jsme se dozvěděli až 27. 7. 2026 z odpovědi na žádost dle z. 106.
+
+[Zápisek k protokolům](info/prispevky/2026-07-27-protokoly-krajskeho-uradu.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">22. 9. 2025</span><span class="tl-tag">Řízení KÚ</span>
 
 Společnost ŠTOCHL GROUP INVEST s.r.o. podává ke Krajskému úřadu Středočeského kraje **žádost o povolení provozu zařízení** k nakládání s odpady dle § 21 zákona č. 541/2020 Sb.
@@ -50,6 +58,14 @@ Společnost ŠTOCHL GROUP INVEST s.r.o. podává ke Krajskému úřadu Středoč
 Krajský úřad **oznamuje zahájení řízení** (č. j. 135287/2025/KUSK). Město Kouřim je účastníkem řízení.
 
 [Oznámení KÚSK (PDF)](assets/info/files/03_135287_2025_KUSK_20251002.pdf)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">září a listopad 2025</span><span class="tl-tag">Kontrola KÚ</span>
+
+Krajský úřad uzavírá kontrolu protokoly (č. j. 150678/2025/KUSK a 127350/2025/KUSK): zařízení je **provozováno bez povolení**, potvrzení o "staveništi" byla vydána **"pouze obcházením zákona"** a jen za roky 2023-2024 bylo navezeno **425 389 tun** odpadu. Protokoly předává ČIŽP a pražskému magistrátu. Zveřejněno až 27. 7. 2026 na základě žádosti dle z. 106.
+
+[Zápisek k protokolům](info/prispevky/2026-07-27-protokoly-krajskeho-uradu.md)
 </div>
 
 <div class="tl-item tl-mesto" markdown>
@@ -138,9 +154,9 @@ Spuštěna petice [STOP skládce v Molitorově](/info/category/petice/) (papír 
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">27. 7. 2026</span><span class="tl-tag">106</span>
 
-Dorazila odpověd na 106 z Krajského úřadu
+Dorazila odpověď na 106 z Krajského úřadu. Součástí jsou **protokoly z kontrol potvrzující přestupek** - provoz bez povolení, 425 389 tun odpadu za roky 2023-2024. Provozovatel navíc úřadu doložil **"souhlasné vyjádření města Kouřim"**, o kterém zastupitelstvo nikdy nehlasovalo.
 
-[Odpověď krajského úřadu na dotazy](info/prispevky/2026-07-27-odpoved-ku-na-106.md)
+[Odpověď krajského úřadu na dotazy](info/prispevky/2026-07-27-odpoved-ku-na-106.md) · [Úřad o nelegálním provozu ví už rok](info/prispevky/2026-07-27-protokoly-krajskeho-uradu.md)
 </div>
 
 <div class="tl-item tl-podani" markdown>
@@ -155,6 +171,12 @@ Poslány žádosti o informace také na [Město Kouřim, KHS a Pražský magistr
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
 
 Konec **30denní lhůty** pro podání podnětů a stanoviska města dle usnesení z 8. 7. 2026. Budeme sledovat, zda město lhůtu dodrželo.
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">20. 8. 2026</span><span class="tl-tag">Termín</span>
+
+**Konec sběru podpisů** petice [STOP skládce v Molitorově](/info/category/petice/).
 </div>
 
 <div class="tl-item tl-budouci" markdown>
