@@ -146,9 +146,9 @@ Dorazila odpověd na 106 z Krajského úřadu
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">27. 7. 2026</span><span class="tl-tag">106</span>
 
-Podána druhá žádost o informace na Krajský úřad
+Podána druhá žádost o informace na Krajský úřad - [Druhá žádost o informace zaslaná na Krajský úřad](info/prispevky/2026-07-27-zadost-o-dalsi-informace.md).
 
-[Druhá žádost o informace zaslaná na Krajský úřad](info/prispevky/2026-07-27-zadost-o-dalsi-informace.md)
+Poslány žádosti o informace také na [Město Kouřim, KHS a Pražský magistrát](info/prispevky/2026-07-27-zadost-o-dalsi-informace2.md).
 </div>
 
 <div class="tl-item tl-budouci" markdown>
