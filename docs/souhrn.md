@@ -10,14 +10,14 @@ hide:
 
 Stav k 27. 7. 2026
 
-Všechny informace jsou průběžně zveřejňované na webu https://skladka-molitorov.cz
+Všechny informace jsou průběžně zveřejňované na webu [https://skladka-molitorov.cz](https://skladka-molitorov.cz)
 
 ## O co jde
 
 Do areálu Golf Molitorov u Kouřimi (okres Kolín) se od roku 2022 naváží stavební odpad pod hlavičkou "výstavby golfového hřiště". Jen za roky 2023 a 2024 sem podle ročních hlášení přijelo 425 389 tun odpadů - zeminy, betonu a demoličního odpadu z desítek staveb včetně pražského metra D.
 Zemní těleso má podle projektu vyrůst až o 27 metrů. Zařízení na příjem a drcení odpadu přitom nikdy nedostalo povolení, které zákon o odpadech vyžaduje. Provozovatel navíc odpad od ledna 2025 komerčně přijímá podle veřejného ceníku - o povolení požádal až o devět měsíců později.
 
-Množství odpadů, chybějící povolení i obcházení podmínek konstatoval Krajský úřad Středočeského kraje ve dvou protokolech o kontrole z podzimu 2025, které spolek získal na základě žádosti o informace. Protokoly jsou dostupné https://skladka-molitorov.cz/info/2026/07/27/2026-07-27-odpoved-ku-na-106/
+Množství odpadů, chybějící povolení i obcházení podmínek konstatoval Krajský úřad Středočeského kraje ve dvou protokolech o kontrole z podzimu 2025, které spolek získal na základě žádosti o informace. Protokoly jsou dostupné na stránce [Odpověď krajského úřadu na dotazy](./info/prispevky/2026-07-27-odpoved-ku-na-106.md)
 
 ## Dokumenty se kterými pracujeme
 
@@ -32,7 +32,7 @@ Potvrzení stavebních firem, že areál Molitorov je "součástí staveniště"
 ## Proč to ještě běží
 
 Krajský úřad zjistil přestupek už v létě 2025, protokoly předal České inspekci životního prostředí (k potrestání) a Magistrátu hl. m. Prahy (ke zpřísnění povolení) - a od té doby není veřejně známý žádný výsledek.
-Drtička v Molitorově jela i v červenci 2026, včetně sobot a státního svátku, hluk je slyšet 1,4 km daleko v Kouřimi. https://skladka-molitorov.cz/info/2026/07/17/2026-07-17-provoz-drticky-tridicky/
+Drtička v Molitorově jela i v červenci 2026, včetně sobot a státního svátku, hluk je slyšet 1,4 km daleko v Kouřimi. [Video provozu drtičky/třídičky](./info/prispevky/2026-07-17-provoz-drticky.md)
 Souběžně u krajského úřadu běží dvě řízení o dodatečné povolení provozu (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK) - obě přerušená, protože žádosti mají zásadní vady. Zdá se, že krajský úřad v protokolech naznačuje vstřícnost k legalizaci ("společenská škodlivost nemusí být značná").
 
 ## Role města Kouřim
