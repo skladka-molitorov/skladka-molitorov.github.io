@@ -8,6 +8,7 @@ site_url: https://skladka-molitorov.github.io
 
 nav:
   - Úvod: index.md
+  - Souhrn: souhrn.md
   - Časová osa: casova-osa.md
   - Detailní informace:
     - info/index.md
