@@ -5,6 +5,7 @@ categories:
   - Skládka
 tags:
   - video
+  - kontext
 ---
 
 # Video provozu drtičky/třídičky

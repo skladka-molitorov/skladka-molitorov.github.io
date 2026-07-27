@@ -3,9 +3,11 @@ date: 2026-07-07
 slug: 2026-07-07-podani-zastupitelstvu
 categories:
   - Podání
+  - Město
 tags:
   - zastupitelstvo
   - datová schránka
+  - podání
 ---
 
 # Podání datovou schránkou: žádost o projednání skládky na zastupitelstvu
