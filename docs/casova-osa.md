@@ -143,6 +143,14 @@ Dorazila odpověd na 106 z Krajského úřadu
 [Odpověď krajského úřadu na dotazy](info/prispevky/2026-07-27-odpoved-ku-na-106.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">27. 7. 2026</span><span class="tl-tag">106</span>
+
+Podána druhá žádost o informace na Krajský úřad
+
+[Druhá žádost o informace zaslaná na Krajský úřad](info/prispevky/2026-07-27-zadost-o-dalsi-informace.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
 
