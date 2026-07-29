@@ -29,7 +29,7 @@ Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., 
     - 16.7.2026 jsme [podali žádosti](./info/prispevky/2026-07-16-zadost-o-poskytnuti-informaci-106.md) podle § 106 na 5 institucí (město, KÚSK,
       MŽP, Praha, DPP), běží 15denní lhůta pro odpověď.
     - 27.8.2026 KÚSK [zaslal odpověď](./info/prispevky/2026-07-27-odpoved-ku-na-106.md), rovnou jsme podali [doplňující žádost](./info/prispevky/2026-07-27-zadost-o-dalsi-informace.md).
-    - Další zasedání zastupitelstva: **26. 8. 2026**.
+    - Další zasedání zastupitelstva: **26. 8. 2026 v 18:00**.
 
 ![Skladka mezi roky 2023 a 2026](./assets/img/2023-2026.jpg){ align=center }
 
