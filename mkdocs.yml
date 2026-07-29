@@ -1,7 +1,7 @@
 site_name: Skládka Molitorov (Kouřim)
 site_description: Informace o skládce v Molitorově (Kouřim)
 site_author: skladka-molitorov@seznam.cz
-site_url: https://skladka-molitorov.github.io
+site_url: https://skladka-molitorov.cz
 
 #repo_name: skladka-molitorov
 #repo_url: https://github.com/skladka-molitorov/skladka-molitorov.github.io.git
@@ -111,7 +111,7 @@ markdown_extensions:
 
 extra:
   generator: false
-  homepage: https://skladka-molitorov.github.io
+  homepage: https://skladka-molitorov.cz
 
 extra_css:
   - stylesheets/extra.css
