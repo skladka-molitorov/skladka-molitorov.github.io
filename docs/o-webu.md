@@ -53,7 +53,7 @@ Ochrana přírody a krajiny, ochrana životního prostředí a ochrana veřejné
 - Sídlo: Kouřim
 - IČ: 29794269
 - Datová schránka: rc3a94a
-- E-mail: [skladka-molitorov@seznam.cz](mailto:skladka-molitorov@seznam.cz)
+- E-mail: skladka-molitorov@seznam.cz
 - Telefon: +420 777 452 160
 
 Podněty, doplnění nebo opravy nepřesností uvítám.
