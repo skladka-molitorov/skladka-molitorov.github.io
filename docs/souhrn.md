@@ -8,7 +8,7 @@ hide:
 
 # Molitorov - stovky tisíc tun odpadu v zařízení, které nikdo nepovolil
 
-Stav k 27. 7. 2026
+Stav k 29. 7. 2026
 
 Všechny informace jsou průběžně zveřejňované na webu [https://skladka-molitorov.cz](https://skladka-molitorov.cz)
 
@@ -27,7 +27,7 @@ Potvrzení stavebních firem, že areál Molitorov je "součástí staveniště"
 
 **Ceník provozovatele**: společnost ŠTOCHL GROUP recyklace s.r.o. na webu sgrecyklace.cz inzeruje provozovnu "MOLITOROV" s ceníkem přejímky odpadů účinným od 2. 1. 2025. Stránky jsou archivovány na web.archive.org. Živnostenský rejstřík přitom u společnosti žádnou provozovnu neeviduje.
 
-**Metro D**: podle protokolu byl na hlukový val směrem ke Kouřimi použit materiál ze stavby metra D (dokumentace Metrostav a.s. z 24. 6. 2022).
+**Metro D a "papírová staveniště"**: podle protokolu byl na hlukový val směrem ke Kouřimi použit materiál ze stavby metra D (dokumentace Metrostav a.s. z 24. 6. 2022). Hlavně ale firma úřadu předložila přes dvacet potvrzení, že pole u Molitorova je "součástí staveniště" staveb od metra D přes klášter Sázava po ulice v Kolíně - tak obcházela podmínku, že mobilní drtička smí pracovat jen na staveništi konkrétní stavby. Podrobně v článku [Metro D končí v Kouřimi](./info/prispevky/2026-07-29-metro-d-konci-v-kourimi.md).
 
 ## Proč to ještě běží
 
@@ -54,6 +54,27 @@ Zastupitelstvo v únoru 2026 uložilo věc prošetřit - úkol je v zápisech op
 - 26.8. 2026 - poslední zasedání zastupitelstva Kouřimi před volbami
 - 31.10. 2026 - končí lhůta provozovatele k doplnění vadných žádostí o povolení
 - Podle protokolu krajského úřadu z podzimu 2025 zpracovatel avizoval přípravu upravené dokumentace pro nové zjišťovací řízení EIA. V informačním systému EIA zatím žádné řízení není. Sledujeme to - a až se objeví, spolek se zapojí a bude požadovat plné posouzení vlivů.
+
+## Spis - klíčové dokumenty s č. j.
+
+- [Protokol o kontrole KÚ č. j. 150678/2025/KUSK](./assets/info/files/106_ku/Protokol_o_kontrole_-_STOCHL_GROUP_s.r.o..pdf) (5. 11. 2025, ŠTOCHL GROUP s.r.o.) - seznam 20+ potvrzení "součást staveniště" vč. metra D na str. 4-5, hodnocení "pouze obcházením zákona" na str. 8, závěr o přestupku na str. 11
+- [Protokol o kontrole KÚ č. j. 127350/2025/KUSK](./assets/info/files/106_ku/Protokol_o_kontrole_STOCHL_GROUP_invest_s.r.o.pdf) (25. 9. 2025, ŠTOCHL GROUP invest s.r.o.)
+- [Sdělení KÚ č. j. 105371/2026/KUSK](./assets/info/files/106_ku/Sdeleni_-_Molitorov.pdf) (23. 7. 2026) - odpověď na naši žádost o informace: žádné stacionární povolení nevydáno, dvě běžící řízení
+- Rozhodnutí o povolení zdroje znečišťování ovzduší [č. j. 013700/2023/KUSK](./assets/info/files/106_ku/Rozhodnuti_STOCHL_GROUP_invest_s.r.o..pdf) (8. 3. 2023) a [č. j. 104898/2024/KUSK](./assets/info/files/106_ku/Rozhodnuti_STOCHL_GROUP_recyklace_s.r.o..pdf) (26. 8. 2024) - zaslána bez provozních řádů, které jsou dle vlastního textu jejich "nedílnou součástí"
+- Povolení MHMP č. j. MHMP 1517437/2023 pro mobilní drtičku vč. podmínky č. 3 - kopii jsme si vyžádali od Magistrátu hl. m. Prahy (znění podmínky je citováno v protokolu KÚ)
+- Rozhodnutí Stavebního úřadu Kouřim č. j. KOU-487/2021 (17. 8. 2021) - dodatečné povolení terénních úprav "golfové hřiště"
+- Přerušení řízení č. j. 167123/2025/KUSK (9. 12. 2025) a prodloužení lhůty č. j. 040352/2026/KUSK (18. 3. 2026, do 31. 10. 2026) - dokumentuje i záměnu žadatele uprostřed řízení
+- [Zjišťovací řízení EIA kód STC2385](https://portal.cenia.cz/eiasea/detail/EIA_STC2385) - drcení ani skutečné tonáže neřešilo
+- Archiv webu sgrecyklace.cz s ceníkem účinným od 2. 1. 2025 (web.archive.org, archivováno 7. 7. 2026)
+- Usnesení zastupitelstva Kouřimi č. 16/2026 (25. 2. 2026, opakovaně nesplněné) a č. 45/2026 (8. 7. 2026, přijato 9-0-2)
+
+## Otevřené otázky, na které zatím nikdo neodpověděl
+
+- **Česká inspekce životního prostředí:** co udělala s protokoly, které jí krajský úřad předal v listopadu 2025? Běží řízení o přestupku?
+- **Magistrát hl. m. Prahy:** zpřísnil podmínky povolení mobilních drtiček, jak mu krajský úřad výslovně doporučil? Jak kontroluje, kde jeho "mobilní" zařízení reálně stojí?
+- **Město Kouřim:** kdo a kdy vydal "souhlasné vyjádření města ke zřízení stacionárního zařízení", o kterém zastupitelstvo nikdy nehlasovalo? Proč je usnesení 16/2026 půl roku nesplněné? Bude do 7. 8. podáno nesouhlasné stanovisko dle usnesení 45/2026?
+- **Krajský úřad Středočeského kraje:** proč vede řízení o dodatečné povolení, místo aby vymohl zastavení nepovoleného provozu? Co znamená formulace "společenská škodlivost nemusí být značná"?
+- **Metrostav / Dopravní podnik hl. m. Prahy:** kolik materiálu ze stavby metra D skončilo v Molitorově a v jakém režimu?
 
 ## Kdo jsme
 
