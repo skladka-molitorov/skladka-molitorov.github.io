@@ -30,6 +30,12 @@ Více viz zápisek [Územní plán](info/prispevky/2026-07-15-uzemni-plan.md)
 </div>
 
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">17. 8. 2021</span><span class="tl-tag">Stavební úřad</span>
+
+Stavební úřad v Kouřimi vydává **dodatečné povolení terénních úprav "golfové hřiště"** (č. j. KOU-487/2021), právní moc 26. 8. 2021. Podle protokolů krajského úřadu se rozhodnutí vztahuje jen na část dnes zavezených pozemků.
+</div>
+
 <div class="tl-item tl-kontext" markdown>
 <span class="tl-date">2. 1. 2025</span><span class="tl-tag">Kontext</span>
 
@@ -146,6 +152,12 @@ Datovou schránkou podány žádosti o informace
 </div>
 
 <div class="tl-item tl-podani" markdown>
+<span class="tl-date">18. 7. 2026</span><span class="tl-tag">Spolek</span>
+
+Do spolkového rejstříku je zapsán **Spolek Za Molitorov**. Od té doby jednáme s úřady jako spolek, ne jako jednotliví občané.
+</div>
+
+<div class="tl-item tl-podani" markdown>
 <span class="tl-date">24. 7. 2026</span><span class="tl-tag">Petice</span>
 
 Spuštěna petice [STOP skládce v Molitorově](/info/category/petice/) (papír + ePetice).
@@ -167,6 +179,22 @@ Podána druhá žádost o informace na Krajský úřad - [Druhá žádost o info
 Poslány žádosti o informace také na [Město Kouřim, KHS a Pražský magistrát](info/prispevky/2026-07-27-zadost-o-dalsi-informace2.md).
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">30. 7. 2026</span><span class="tl-tag">106</span>
+
+Odpověď Magistrátu hl. m. Prahy (sp. zn. S-MHMP 723439/2026). Magistrát sděluje, že **od 1. 1. 2022 do dneška neprovedl u zhotovitelů stavby metra I.D ani u investora žádnou kontrolu** na úseku odpadového hospodářství. Dva body žádosti - roční hlášení o odpadech a otázku, kolik odpadu skončilo v Kouřimi - odepřel samostatným rozhodnutím (č. j. MHMP 756065/2026) s odkazem na zákon o odpadech.
+
+[Zápisek k odpovědi magistrátu](info/prispevky/2026-07-31-odpoved-magistratu-prahy.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">3. 8. 2026</span><span class="tl-tag">106</span>
+
+Odpověď Dopravního podniku hl. m. Prahy (č. j. DP/1320/26/900200/JK). **Poprvé přímo od investora stavby metra D doloženo, že zemina a beton ze zkušebních šachet - celkem 7 600 tun - putovaly už na podzim 2021 firmě ŠTOCHL GROUP s.r.o.** (dodací listy v příloze). Doklady končí u „mobilní sběrny" bez stálého místa provozu; kam materiál jel dál, je v evidencích přístupných jen úřadům. O zemině z hlavní ražby investor doklady nemá - podle smluv je dostane až po dokončení stavby.
+
+[Zápisek k odpovědi DPP](info/prispevky/2026-08-03-odpoved-dpp.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
 
@@ -182,7 +210,7 @@ Konec **30denní lhůty** pro podání podnětů a stanoviska města dle usnesen
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">26. 8. 2026</span><span class="tl-tag">Termín</span>
 
-**Poslední zasedání zastupitelstva** před komunálními volbami.
+**Poslední zasedání zastupitelstva** před volbami.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
