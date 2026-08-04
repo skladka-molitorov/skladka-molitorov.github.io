@@ -112,6 +112,9 @@ markdown_extensions:
 extra:
   generator: false
   homepage: https://skladka-molitorov.cz
+  analytics:
+    provider: google
+    property: G-7TVXVSRCBP
 
 extra_css:
   - stylesheets/extra.css
