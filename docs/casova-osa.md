@@ -188,12 +188,21 @@ Odpověď Magistrátu hl. m. Prahy (sp. zn. S-MHMP 723439/2026). Magistrát sdě
 </div>
 
 <div class="tl-item tl-podani" markdown>
+<span class="tl-date">31. 7. 2026</span><span class="tl-tag">106</span>
+
+Odpověď města Kouřim a jeho stavebního úřadu (č. j. KOU-2117/2026), patnáct stran. **Město samo doložilo regulativy územního plánu, podle kterých jsou v této ploše skládky a skládkování materiálu nepřípustným využitím - a stejný zákaz platil i v roce 2021**, kdy stavební úřad terénní úpravy dodatečně povolil s odůvodněním, že jsou „v souladu s regulativy platného územního plánu". Z odpovědi dále vyplývá, že lhůta k dokončení úprav uplynula v srpnu 2024 a někdo ji prodloužil do 26. 8. 2026; rozhodnutí o prodloužení úřad neposkytl a vůbec je nezmiňuje. Nedodal ani ověřenou projektovou dokumentaci a k pozemkům 1454 a 1459 neodpověděl nic.
+
+[Zápisek k odpovědi města](info/prispevky/2026-08-07-odpoved-mesta-kourim.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
 <span class="tl-date">3. 8. 2026</span><span class="tl-tag">106</span>
 
 Odpověď Dopravního podniku hl. m. Prahy (č. j. DP/1320/26/900200/JK). **Poprvé přímo od investora stavby metra D doloženo, že zemina a beton ze zkušebních šachet - celkem 7 600 tun - putovaly už na podzim 2021 firmě ŠTOCHL GROUP s.r.o.** (dodací listy v příloze). Doklady končí u „mobilní sběrny" bez stálého místa provozu; kam materiál jel dál, je v evidencích přístupných jen úřadům. O zemině z hlavní ražby investor doklady nemá - podle smluv je dostane až po dokončení stavby.
 
 [Zápisek k odpovědi DPP](info/prispevky/2026-08-03-odpoved-dpp.md)
 </div>
+
 
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
