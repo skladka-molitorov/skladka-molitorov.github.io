@@ -71,7 +71,7 @@ U stížností evidovaných městem není datum a jak byly vyřízeny.
 
 Krajský úřad oznámil věc městu 2. října 2025. Zastupitelstvo bylo podle odpovědi informováno 29. dubna 2026. Mezi tím uplynulo téměř sedm měsíců a konalo se několik zasedání zastupitelstva. Jakou formou se to zastupitelé dozvěděli, odpověď neuvádí.
 
-V [zápisu ze zasedání](../../assets/info/files/106_mesto/Zápis%20č.%203%20ZM%2029.04.2026_AN.pdf) zastupitelstva je pouze:
+V [zápisu ze zasedání](../../assets/info/files/106_mesto/Zapis_c_3_ZM_29042026_AN.pdf) zastupitelstva je pouze:
 
 > Výstavba odpaliště (Golf Molitorov) a její dopady na obyvatele Kouřimi a okolí
 >

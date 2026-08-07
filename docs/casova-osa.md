@@ -203,6 +203,22 @@ Odpověď Dopravního podniku hl. m. Prahy (č. j. DP/1320/26/900200/JK). **Popr
 [Zápisek k odpovědi DPP](info/prispevky/2026-08-03-odpoved-dpp.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
+
+Rozhodnutí Ministerstva životního prostředí (č. j. MZP/2026/270/816 z 5. 8. 2026) o žádosti ze 16. 7. **Ministerstvo potvrdilo, že roční hlášení o odpadech v systému ISPOP má - a odmítlo je vydat** s odkazem na § 96 odst. 6 zákona o odpadech, stejně jako předtím pražský magistrát. K plnění podmínek EIA stavby metra D podle svých slov nemá žádné informace.
+
+[Zápisek k rozhodnutí MŽP](info/prispevky/2026-08-08-odpoved-mzp.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">7. 8. 2026</span><span class="tl-tag">Podání</span>
+
+**Rozklad k ministrovi životního prostředí** proti rozhodnutí MZP/2026/270/816, jedenáct důvodů. Stejnou právní otázku (smí zákon o odpadech vyloučit veřejnost z informací o životním prostředí?) ministerstvo řeší souběžně i jako odvolací orgán ve věci magistrátu.
+
+[Rozklad v anonymizované podobě](assets/info/files/rozklad_mzp_20260807/Rozklad_MZP_270_816_20260807.pdf)
+</div>
+
 
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
