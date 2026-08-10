@@ -15,6 +15,7 @@ Firma ŠTOCHL GROUP recyklace s.r.o. má na svém webu provozovnu „MOLITOROV" 
 ## Dokumenty
 
 - [Poskytnutí informace, MěÚ Kolín, č. j. MUKOLIN/KU 127979/26-kus ze 7. 8. 2026](../../assets/info/files/106_zu_kolin_20260807/MUKOLIN_127979_2026_poskytnuti_informace.pdf) (pdf)
+- [Poskytnutí informace, ÚMČ Praha 4, zn. 153/106/2026 z 10. 8. 2026](../../assets/info/files/106_zu_praha4_20260810/153_106_2026_poskytnuti_informace.pdf) (pdf)
 
 <!-- more -->
 
@@ -79,6 +80,12 @@ Krajský úřad tam kontroloval a sepsal dva protokoly. Pražský magistrát [ne
 ## Co bude dál
 
 Živnostenský úřad v Kolíně nám má do 30 dnů od doručení podnětu (do konce srpna) sdělit, jak s ním naložil - zda kontrolu provede, nebo věc odloží a z jakého důvodu. Stejný podnět a stejné otázky jsme podali i živnostenskému odboru Úřadu městské části Praha 4, který je příslušný podle sídla všech tří firem. Doplnění z 10. srpna šlo oběma úřadům současně a samostatně, s žádostí, aby si věc navzájem nepostupovaly.
+
+## Aktualizace 10. 8. večer: odpověděla i Praha 4
+
+Odpověděl i Úřad městské části Praha 4, příslušný podle sídla všech tří firem (zn. 153/106/2026). Sdělil, že uvedené společnosti „nemají v Registru živnostenského podnikání ohlášenou žádnou provozovnu". Rejstřík je celostátní - firmy tedy nemají ohlášenou provozovnu nikde v republice.
+
+Odpovědi obou úřadů se tak doplňují: úřad místa činnosti potvrdil, že provozovna není evidována v Kouřimi, úřad sídla firem, že není evidována vůbec. Podnět, aby úřady provedly živnostenskou kontrolu, zůstává u obou v běhu.
 
 ## Petice
 
