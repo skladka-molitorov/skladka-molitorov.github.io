@@ -220,10 +220,30 @@ Rozhodnutí Ministerstva životního prostředí (č. j. MZP/2026/270/816 z 5. 8
 </div>
 
 
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">cca 7. 8. 2026</span><span class="tl-tag">Termín</span>
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">7. 8. 2026</span><span class="tl-tag">106</span>
 
-Konec **30denní lhůty** pro podání podnětů a stanoviska města dle usnesení z 8. 7. 2026. Budeme sledovat, zda město lhůtu dodrželo.
+Odpověď živnostenského úřadu MěÚ Kolín (č. j. MUKOLIN/KU 127979/26-kus), sedm dní od podání. **V živnostenském rejstříku není u žádné ze tří firem skupiny ŠTOCHL GROUP evidována provozovna na území katastru Kouřim** - přestože firma ŠTOCHL GROUP recyklace s.r.o. provozovnu „MOLITOROV" inzeruje na svém webu včetně otevírací doby a ceníku. Úřad zároveň sdělil, že u těchto firem od 1. 1. 2022 neprovedl živnostenskou kontrolu.
+
+[Zápisek k odpovědi živnostenského úřadu](info/prispevky/2026-08-10-odpoved-zivnostenskeho-uradu.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">7. 8. 2026</span><span class="tl-tag">Termín</span>
+
+Uplynula **30denní lhůta** pro podání podnětů a nesouhlasného stanoviska města dle usnesení zastupitelstva č. 45/2026 z 8. 7. 2026. Na elektronické úřední desce ani v aktualitách města nebylo k plnění usnesení toho dne zveřejněno nic; totéž jsme ověřili znovu 10. srpna ráno.
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">10. 8. 2026</span><span class="tl-tag">Podání</span>
+
+Tři podání v jednom dni: **žádost městu Kouřim o informace o plnění usnesení č. 45/2026** (deset bodů, u každého uloženého úkonu zvlášť), **žádost krajskému úřadu**, zda do obou správních řízení nějaké podání města skutečně došlo, a **doplnění podnětu oběma živnostenským úřadům** o sedm ohlášení provozu za roky 2023 až 2026, v nichž firmy samy uvádějí jako místo provozu pozemky v katastru Kouřim.
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
+
+Konec lhůty pro odpovědi města a krajského úřadu na žádosti z 10. 8. - den před zasedáním zastupitelstva.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
