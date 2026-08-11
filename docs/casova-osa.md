@@ -238,6 +238,8 @@ Uplynula **30denní lhůta** pro podání podnětů a nesouhlasného stanoviska 
 <span class="tl-date">10. 8. 2026</span><span class="tl-tag">Podání</span>
 
 Tři podání v jednom dni: **žádost městu Kouřim o informace o plnění usnesení č. 45/2026** (deset bodů, u každého uloženého úkonu zvlášť), **žádost krajskému úřadu**, zda do obou správních řízení nějaké podání města skutečně došlo, a **doplnění podnětu oběma živnostenským úřadům** o sedm ohlášení provozu za roky 2023 až 2026, v nichž firmy samy uvádějí jako místo provozu pozemky v katastru Kouřim.
+
+[Zápisek k žádostem o plnění usnesení](info/prispevky/2026-08-11-plneni-usneseni-45-2026.md)
 </div>
 
 <div class="tl-item tl-budouci" markdown>
