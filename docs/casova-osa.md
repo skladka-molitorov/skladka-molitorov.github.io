@@ -211,6 +211,26 @@ Rozhodnutí Ministerstva životního prostředí (č. j. MZP/2026/270/816 z 5. 8
 [Zápisek k rozhodnutí MŽP](info/prispevky/2026-08-08-odpoved-mzp.md)
 </div>
 
+<!-- ODKOMENTOVAT při publikaci článku o KHS (2026-08-12-odpoved-khs.md):
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
+
+Sdělení KHS Středočeského kraje (č. j. KHSSC 56113/2026). **Za celou dobu provozu neproběhlo žádné měření hluku** a žádné není v plánu - a o hygienické stanovisko, které je povinným podkladem běžících řízení o povolení, do 6. 8. nikdo nepožádal, ani osm měsíců od výzvy krajského úřadu.
+
+[Zápisek k odpovědi KHS](info/prispevky/2026-08-12-odpoved-khs.md)
+</div>
+-->
+
+<!-- ODKOMENTOVAT při publikaci článku o limitu (2026-08-12-limit-10000-tun.md):
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
+
+Odbor ŽP MěÚ Kolín poskytl **závazné stanovisko č. j. MUKOLIN/OZPZ 26582/21-Ze z 24. 3. 2021** s podmínkou: odpady nejvýše 10 000 tun. Na stanovisko odkazuje podmínka pravomocného povolení terénních úprav. Podle ročních hlášení samotných firem bylo jen za roky 2023-2024 přijato 425 389 tun odpadů.
+
+[Zápisek k závaznému stanovisku](info/prispevky/2026-08-12-limit-10000-tun.md)
+</div>
+-->
+
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">7. 8. 2026</span><span class="tl-tag">Podání</span>
 
@@ -242,6 +262,14 @@ Tři podání v jednom dni: **žádost městu Kouřim o informace o plnění usn
 [Zápisek k žádostem o plnění usnesení](info/prispevky/2026-08-11-plneni-usneseni-45-2026.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">12. 8. 2026</span><span class="tl-tag">106</span>
+
+Odpověď města Kouřim a jeho stavebního úřadu (č. j. KOU-2216/2026), 29 stran. **Městu chodí každý leden ohlášení, že na pozemcích v Molitorově poběží celý rok drtičky** - poskytlo šest ohlášení z let 2023 až 2025, žádné o ukončení provozu. **Stavební úřad provedl dvě kontrolní prohlídky, poslední 9. listopadu 2023.** Pozemky jsou podle jeho sdělení i dnes v ploše, kde je skládkování materiálu nepřípustné. Lhůta k dokončení terénních úprav je stanovena **do 26. 8. 2026**.
+
+[Zápisek k odpovědi](info/prispevky/2026-08-12-odpoved-mesta-a-stavebniho-uradu.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
 
@@ -257,7 +285,9 @@ Konec lhůty pro odpovědi města a krajského úřadu na žádosti z 10. 8. - d
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">26. 8. 2026</span><span class="tl-tag">Termín</span>
 
-**Poslední zasedání zastupitelstva** před volbami.
+**Uplyne lhůta k dokončení terénních úprav** podle dodatečného povolení z roku 2021. Původní lhůta skončila 26. 8. 2024 a byla prodloužena o dva roky; závěrečná kontrolní prohlídka, kterou povolení ukládá provést po dokončení, se dosud nekonala. Sděleno městem 10. 8. 2026 (č. j. KOU-2216/2026).
+
+Týž den se koná **poslední zasedání zastupitelstva** před volbami.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
