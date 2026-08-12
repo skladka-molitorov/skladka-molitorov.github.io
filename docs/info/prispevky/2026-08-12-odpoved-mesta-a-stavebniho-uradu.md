@@ -39,9 +39,9 @@ Město nám poskytlo šest ohlášení provozu mobilních zařízení k využív
 
 Ohlášení pro rok 2026 v této sadě není, přestože jsme se ptali na období do dne vyřízení žádosti. Obě ohlášení z 13. ledna 2026 přitom máme od krajského úřadu a město je i v jejich rozdělovníku. Zeptali jsme se proto města znovu, samostatnou žádostí z 10. srpna.
 
-Za pozornost stojí i to, co v sadě chybí úplně. Povolení, na jejichž základě drtičky jezdí, ukládají oznámit obecnímu úřadu nejméně pět pracovních dnů předem **každé zahájení i ukončení** provozu v lokalitě. Město nám poslalo pouze oznámení o zahájení. Ani jedno o ukončení.
+Za pozornost stojí i to, co v sadě chybí úplně. Povolení, na jejichž základě drtičky fungují, ukládají oznámit obecnímu úřadu nejméně pět pracovních dnů předem **každé zahájení i ukončení** provozu v lokalitě. Město nám poslalo pouze oznámení o zahájení. Ani jedno o ukončení.
 
-Zařízení se v ohlášeních označují jako **mobilní**, tedy technika, která přijede na stavbu, odvede práci a odjede. Zde se ohlašují na stále stejné tři pozemky, čtvrtým rokem po sobě, vždy na celý kalendářní rok.
+Zařízení se v ohlášeních označují jako **mobilní**. Tedy technika, která přijede na stavbu, odvede práci a odjede. Zde se ohlašují na stále stejné tři pozemky, čtvrtým rokem po sobě, vždy na celý kalendářní rok.
 
 ## Dvě kontrolní prohlídky za pět let
 
