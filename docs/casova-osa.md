@@ -270,6 +270,14 @@ Odpověď města Kouřim a jeho stavebního úřadu (č. j. KOU-2216/2026), 29 s
 [Zápisek k odpovědi](info/prispevky/2026-08-12-odpoved-mesta-a-stavebniho-uradu.md)
 </div>
 
+<div class="tl-item tl-mesto" markdown>
+<span class="tl-date">13. 8. 2026</span><span class="tl-tag">Město</span>
+
+Město Kouřim zveřejnilo na úřední desce tři dokumenty k bodu II. odst. 1 usnesení č. 45/2026: dodatečné povolení terénních úprav z roku 2021 a dvě rozhodnutí kraje k ochraně ovzduší. **Povolení provozu zařízení pro nakládání s odpady mezi nimi není a nebylo zveřejněno ani sdělení, že neexistuje.** Chybí i povolený rozsah úprav a rozhodnutí, kterým byla prodloužena lhůta k dokončení.
+
+[Zápisek ke zveřejnění](info/prispevky/2026-08-13-mesto-zverejnilo-dokumenty.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
 
