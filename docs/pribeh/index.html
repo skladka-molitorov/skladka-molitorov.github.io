@@ -12,14 +12,14 @@
 :root{
   --pozadi:#fdfcfa; --karta:#ffffff; --text:#212121; --text2:#5f6368;
   --linka:#d7ccc8; --akcent:#ff5722; --stin:0 1px 3px rgba(0,0,0,.12);
+  --v-ted:#546e7a;
+  --v-mesto:#ef6c00;
+  --v-obcane:#2e7d32;
   --v-rust:#795548;
   --v-povoleni:#1565c0;
   --v-kontroly:#6a1b9a;
   --v-prestupek:#c62828;
-  --v-mesto:#ef6c00;
   --v-firmy:#00695c;
-  --v-obcane:#2e7d32;
-  --v-ted:#546e7a;
 
 }
 @media (prefers-color-scheme: dark){
@@ -120,7 +120,7 @@ mark.blik{background:color-mix(in srgb,var(--akcent) 25%,transparent)}
   <h1>Příběh skládky v&nbsp;Molitorově</h1>
   <p class="uvod">Jak se z&nbsp;ovocného sadu stala navážka o&nbsp;rozloze přes pět hektarů.
   Každá událost na téhle ose se opírá o&nbsp;úřední dokument nebo jiný doložitelný pramen -
-  rozklikněte podrobnosti. Vrstvy si můžete zapínat a&nbsp;vypínat a&nbsp;udělat si vlastní obrázek.</p>
+  rozklikněte podrobnosti. Témata si můžete zapínat a&nbsp;vypínat a&nbsp;udělat si vlastní obrázek.</p>
 </header>
 
 <section class="graf">
@@ -132,11 +132,11 @@ mark.blik{background:color-mix(in srgb,var(--akcent) 25%,transparent)}
 
 <nav class="filtr" aria-label="Filtr časové osy">
   <div class="rezim">
-    <span class="f-pop">Úroveň detailu:</span>
+    <span class="f-pop">Filtr:</span>
     <button id="btn-hlavni" class="aktivni" type="button">Jen to hlavní</button>
     <button id="btn-vse" type="button">Všechny události</button>
   </div>
-  <div class="chipy" id="chipy"><span class="f-pop">Vrstvy:</span><button class="chip" type="button" data-vrstva="rust" style="--b:#795548" title="Co je vidět z družic, leteckých snímků a z místa.">Skládka roste</button><button class="chip" type="button" data-vrstva="povoleni" style="--b:#1565c0" title="Co úřady povolily, co ne a o co se kdy žádalo.">Povolení a žádosti</button><button class="chip" type="button" data-vrstva="kontroly" style="--b:#6a1b9a" title="Kdo, kdy a jak kontroloval - a co úřady písemně potvrdily.">Kontroly a odpovědi úřadů</button><button class="chip" type="button" data-vrstva="prestupek" style="--b:#c62828" title="Úředně zjištěný provoz bez povolení a co s ním úřady udělaly.">Přestupek</button><button class="chip" type="button" data-vrstva="mesto" style="--b:#ef6c00" title="Co město vědělo, kdy to vědělo a jak jednalo.">Město Kouřim</button><button class="chip" type="button" data-vrstva="firmy" style="--b:#00695c" title="Kdo za navážkou stojí, kdy vznikaly firmy a smlouvy.">Firmy a obchod</button><button class="chip" type="button" data-vrstva="obcane" style="--b:#2e7d32" title="Petice, spolek, žádosti o informace a podněty úřadům.">Občané se brání</button><button class="chip" type="button" data-vrstva="ted" style="--b:#546e7a" title="Lhůty a termíny, které právě běží.">Co běží teď</button><button
+  <div class="chipy" id="chipy"><span class="f-pop">Co vás zajímá:</span><button class="chip" type="button" data-vrstva="ted" style="--b:#546e7a" title="Lhůty a termíny, které právě běží.">Co běží teď</button><button class="chip" type="button" data-vrstva="mesto" style="--b:#ef6c00" title="Co město vědělo, kdy to vědělo a jak jednalo.">Město Kouřim</button><button class="chip" type="button" data-vrstva="obcane" style="--b:#2e7d32" title="Petice, spolek, žádosti o informace a podněty úřadům.">Občané se brání</button><button class="chip" type="button" data-vrstva="rust" style="--b:#795548" title="Co je vidět z družic, leteckých snímků a z místa.">Skládka roste</button><button class="chip" type="button" data-vrstva="povoleni" style="--b:#1565c0" title="Co úřady povolily, co ne a o co se kdy žádalo.">Povolení a žádosti</button><button class="chip" type="button" data-vrstva="kontroly" style="--b:#6a1b9a" title="Kdo, kdy a jak kontroloval - a co úřady písemně potvrdily.">Kontroly a odpovědi úřadů</button><button class="chip" type="button" data-vrstva="prestupek" style="--b:#c62828" title="Úředně zjištěný provoz bez povolení a co s ním úřady udělaly.">Přestupek</button><button class="chip" type="button" data-vrstva="firmy" style="--b:#00695c" title="Kdo za navážkou stojí, kdy vznikaly firmy a smlouvy.">Firmy a obchod</button><button
     id="btn-zrusit" class="chip chip-akce" type="button">Zrušit výběr</button></div>
   <div class="pocet" id="pocet"></div>
 </nav>
