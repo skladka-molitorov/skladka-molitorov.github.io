@@ -14,6 +14,7 @@
 | `docs/index.md` | Úvodní stránka |
 | `docs/souhrn.md` | Souhrn kauzy |
 | `docs/casova-osa.md` | Časová osa událostí - doplňovat při každém novém podání/odpovědi |
+| `docs/pribeh/index.html` | „Příběh skládky" - interaktivní veřejná osa s vrstvami a grafem. **Needitovat ručně**: generuje se v repu spolek (`mapa-vztahu/generuj_osu_web.py` z `data/08-osa-web.yaml`) a sem se jen kopíruje; v nav vedena absolutní URL |
 | `docs/o-webu.md` | O webu |
 | `docs/info/prispevky/` | Blogové články, formát `YYYY-MM-DD-slug.md` (plugin blog, kategorie: Skládka, Město, Petice, KÚ, KHS, MŽP, DPP, Praha, Podání) |
 | `docs/assets/info/files/` | Přílohy: PDF podání (zadost-106-*), protokoly KÚ (`106_ku/`), 106 z 27. 7. (`106_20260727/`), zápisy ZM, výřezy ÚP, petice, situační mapka |
@@ -24,5 +25,17 @@
 
 1. Vytvořit `docs/info/prispevky/YYYY-MM-DD-slug.md` (frontmatter s date a categories dle existujících článků).
 2. Přílohy do `docs/assets/info/files/`.
-3. Případně doplnit `docs/casova-osa.md`.
+3. Případně doplnit `docs/casova-osa.md` - **a při každé úpravě časové osy zvážit i doplnění „Příběhu skládky"** (viz níže). Je-li událost vhodná pro laiky, doplnit vždy.
 4. `mkdocs build` a commit včetně `site/`.
+
+## Příběh skládky - aktualizace (docs/pribeh/index.html)
+
+Zdroj dat je v repu **spolek**, tady se jen přijímá vygenerované HTML. Postup:
+
+1. V repu spolek doplnit událost do `mapa-vztahu/data/08-osa-web.yaml` (laický text 1-2 věty, č. j. do `detail`, odkaz jen na publikovaný obsah webu - **ne na draft články**; embarga a nedoložené věci `skryto: true` - pravidla v hlavičce souboru).
+2. `python3 mapa-vztahu/generuj_osu_web.py --kontrola`, pak `--vystup <toto-repo>/docs/pribeh/index.html`.
+3. V tomto repu `mkdocs build` a commit včetně `site/`.
+
+**Ruční kroky Zdeňka vždy explicitně vypsat na konci odpovědi** (sandbox je nesmí/neumí): `git commit` + `push` v obou repech; pokud Claude stavěl web v sandboxu přes /tmp (nemůže mazat v `site/`), doporučit před commitem lokální `mkdocs build` na vyčištění starých souborů.
+
+Čekající úpravy příběhu (stav 14. 8. 2026): odkrýt `skryto` u ČIŽP/dodatku 101134 (po konci embarga ~15. 9.); k darům doplnit data podpisů a usnesení o přijetí z odpovědi na doplňující 106 na město; po publikaci draft článků `2026-08-12-limit-10000-tun` a `2026-08-12-odpoved-khs` přesměrovat dva provizorní odkazy (komentáře v YAML).

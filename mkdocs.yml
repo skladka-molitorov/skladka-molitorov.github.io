@@ -9,6 +9,7 @@ site_url: https://skladka-molitorov.cz
 nav:
   - Úvod: index.md
   - Souhrn: souhrn.md
+  - Příběh skládky: https://skladka-molitorov.cz/pribeh/
   - Časová osa: casova-osa.md
   - Detailní informace:
     - info/index.md

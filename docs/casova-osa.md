@@ -11,6 +11,11 @@ Klíčové milníky případu deponie v Molitorově. Každá událost odkazuje n
 dokument nebo zápisek, ze kterého vychází. Šedě označené položky jsou
 kontext, čárkovaně budoucí termíny.
 
+!!! tip "Nové: interaktivní příběh skládky"
+    Přehlednější verzi časové osy s grafem růstu a zapínatelnými vrstvami
+    (povolení, kontroly, firmy, město…) najdete na stránce
+    [Příběh skládky](https://skladka-molitorov.cz/pribeh/).
+
 <div class="tl" markdown>
 <div class="tl-item tl-kontext" markdown>
 <span class="tl-date">2023-2026</span><span class="tl-tag">Kontext</span>
@@ -179,6 +184,12 @@ Podána druhá žádost o informace na Krajský úřad - [Druhá žádost o info
 Poslány žádosti o informace také na [Město Kouřim, KHS a Pražský magistrát](info/prispevky/2026-07-27-zadost-o-dalsi-informace2.md).
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">28. 7. 2026</span><span class="tl-tag">Katastr</span>
+
+Ke katastru byl podán **návrh na převod vlastnictví a zřízení práva stavby** přesně k parcelám s navážkou (1454, 1455, 1457, 1459) - z Reality Molitorov, s.r.o. na čtvrt roku starou Molitorov range s.r.o. Vkladové řízení V-6690/2026-204 běží; právní účinky případného vkladu nastanou zpětně k 28. 7. 2026.
+</div>
+
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">30. 7. 2026</span><span class="tl-tag">106</span>
 
@@ -221,7 +232,6 @@ Sdělení KHS Středočeského kraje (č. j. KHSSC 56113/2026). **Za celou dobu 
 </div>
 -->
 
-<!-- ODKOMENTOVAT při publikaci článku o limitu (2026-08-12-limit-10000-tun.md):
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
 
@@ -229,7 +239,6 @@ Odbor ŽP MěÚ Kolín poskytl **závazné stanovisko č. j. MUKOLIN/OZPZ 26582/
 
 [Zápisek k závaznému stanovisku](info/prispevky/2026-08-12-limit-10000-tun.md)
 </div>
--->
 
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">7. 8. 2026</span><span class="tl-tag">Podání</span>
@@ -268,6 +277,18 @@ Tři podání v jednom dni: **žádost městu Kouřim o informace o plnění usn
 Odpověď města Kouřim a jeho stavebního úřadu (č. j. KOU-2216/2026), 29 stran. **Městu chodí každý leden ohlášení, že na pozemcích v Molitorově poběží celý rok drtičky** - poskytlo šest ohlášení z let 2023 až 2025, žádné o ukončení provozu. **Stavební úřad provedl dvě kontrolní prohlídky, poslední 9. listopadu 2023.** Pozemky jsou podle jeho sdělení i dnes v ploše, kde je skládkování materiálu nepřípustné. Lhůta k dokončení terénních úprav je stanovena **do 26. 8. 2026**.
 
 [Zápisek k odpovědi](info/prispevky/2026-08-12-odpoved-mesta-a-stavebniho-uradu.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">12. 8. 2026</span><span class="tl-tag">106</span>
+
+Odpověď odboru životního prostředí MěÚ Kolín (č. j. MUKOLIN/OZPZ 130815/26-Ze) - úřadu, který v roce 2021 závazně stanovil limit 10 000 tun. **Od 1. 1. 2021 neprovedl žádnou vlastní kontrolu**, závěrečné doložení nezávadnosti materiálu mu nebylo nikdy předloženo a o vyjádření k prodloužení lhůty k dokončení nebyl ani požádán.
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">13. 8. 2026</span><span class="tl-tag">106</span>
+
+Krajský úřad poskytl kopii **souhlasu s odnětím zemědělské půdy** z 6. 4. 2021 (č. j. 042319/2021/KUSK, sdělení 113990/2026/KUSK). Souhlas kryje jen **1,9038 ha** - část parcely 1455 a parcelu 1607/2; **pro zavezené parcely 1458, 1459 a 1468 souhlas vydán nebyl.** Z odnímané půdy bývalého sadu je 1,8889 ha ve II. třídě ochrany. Jako orgán ochrany půdy úřad od 1. 1. 2022 neprovedl žádnou kontrolu.
 </div>
 
 <div class="tl-item tl-mesto" markdown>
