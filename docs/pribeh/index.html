@@ -8,6 +8,20 @@
 <meta property="og:title" content="Příběh skládky v Molitorově">
 <meta property="og:description" content="Jak se z ovocného sadu stala pětihektarová navážka - časová osa s dokumenty.">
 <meta property="og:url" content="https://skladka-molitorov.cz/pribeh/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://skladka-molitorov.cz/assets/img/Skladka2.jpg">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1152">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="https://skladka-molitorov.cz/assets/img/favicon.png">
+<!-- Google Analytics - stejná property jako zbytek webu (mkdocs.yml) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7TVXVSRCBP"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-7TVXVSRCBP');
+</script>
 <style>
 :root{
   --pozadi:#fdfcfa; --karta:#ffffff; --text:#212121; --text2:#5f6368;
@@ -32,7 +46,9 @@ body{margin:0;background:var(--pozadi);color:var(--text);
 a{color:var(--akcent)}
 .obal{max-width:780px;margin:0 auto;padding:0 16px 48px}
 header.hlava{padding:28px 0 6px}
-header.hlava .zpet{font-size:.85rem;text-decoration:none;color:var(--text2)}
+header.hlava .zpet{font-size:.85rem;text-decoration:none;color:var(--text2);
+  display:inline-flex;align-items:center;gap:8px}
+header.hlava .zpet img{width:36px;height:36px;border-radius:50%}
 h1{font-size:1.7rem;line-height:1.25;margin:.4em 0 .3em}
 .uvod{color:var(--text2);margin:0 0 18px}
 /* graf */
@@ -116,7 +132,9 @@ mark.blik{background:color-mix(in srgb,var(--akcent) 25%,transparent)}
 <body>
 <div class="obal">
 <header class="hlava">
-  <a class="zpet" href="https://skladka-molitorov.cz/">← skladka-molitorov.cz</a>
+  <a class="zpet" href="https://skladka-molitorov.cz/"><img
+    src="https://skladka-molitorov.cz/assets/img/logo.png" alt="Logo Spolku Za Molitorov"
+    width="36" height="36">← skladka-molitorov.cz</a>
   <h1>Příběh skládky v&nbsp;Molitorově</h1>
   <p class="uvod">Jak se z&nbsp;ovocného sadu stala navážka o&nbsp;rozloze přes pět hektarů.
   Každá událost na téhle ose se opírá o&nbsp;úřední dokument nebo jiný doložitelný pramen -

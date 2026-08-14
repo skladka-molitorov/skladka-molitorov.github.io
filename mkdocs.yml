@@ -9,7 +9,7 @@ site_url: https://skladka-molitorov.cz
 nav:
   - Úvod: index.md
   - Souhrn: souhrn.md
-  - Příběh skládky: https://skladka-molitorov.cz/pribeh/
+  - Příběh skládky: /pribeh/
   - Časová osa: casova-osa.md
   - Detailní informace:
     - info/index.md
@@ -18,8 +18,8 @@ nav:
 theme:
   name: material
   language: cs
-  #logo: assets/img/logo.jpg
-  #favicon: assets/img/logo.jpg
+  logo: assets/img/logo.png
+  favicon: assets/img/favicon.png
   features:
     - navigation.expand
     #- navigation.footer
