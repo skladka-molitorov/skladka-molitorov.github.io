@@ -222,15 +222,13 @@ Rozhodnutí Ministerstva životního prostředí (č. j. MZP/2026/270/816 z 5. 8
 [Zápisek k rozhodnutí MŽP](info/prispevky/2026-08-08-odpoved-mzp.md)
 </div>
 
-<!-- ODKOMENTOVAT při publikaci článku o KHS (2026-08-12-odpoved-khs.md):
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
 
-Sdělení KHS Středočeského kraje (č. j. KHSSC 56113/2026). **Za celou dobu provozu neproběhlo žádné měření hluku** a žádné není v plánu - a o hygienické stanovisko, které je povinným podkladem běžících řízení o povolení, do 6. 8. nikdo nepožádal, ani osm měsíců od výzvy krajského úřadu.
+Sdělení KHS Středočeského kraje (č. j. KHSSC 56113/2026). **Za celou dobu provozu neproběhlo žádné měření hluku** a žádné není v plánu - a o hygienické stanovisko, které je povinným podkladem běžících řízení o povolení, do 6. 8. nikdo nepožádal, přestože řízení běží od října 2025.
 
-[Zápisek k odpovědi KHS](info/prispevky/2026-08-12-odpoved-khs.md)
+[Zápisek k odpovědi KHS](info/prispevky/2026-08-17-odpoved-khs.md)
 </div>
--->
 
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>

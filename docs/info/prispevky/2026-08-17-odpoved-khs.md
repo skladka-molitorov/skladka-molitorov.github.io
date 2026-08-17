@@ -1,26 +1,17 @@
 ---
-date: 2026-08-12 09:00:00
-slug: 2026-08-12-odpoved-khs
-draft: true
+date: 2026-08-17 10:00:00
+slug: 2026-08-17-odpoved-khs
 categories:
   - KHS
 tags:
   - 106
 ---
 
-<!-- PŘED PUBLIKACÍ (checklist):
-1) Publikovat až PO odeslání doplnění vyjádření ke SZ_130814/130820 (okno 10.-15. 8.) - citace KHS je jeho součástí, argument má být dřív ve spisu než na webu.
-2) Anonymizovat přílohu KHSSC_56113_2026_sdeleni.pdf v assets/info/files/106_khs_20260806/ (zkontrolovat osobní údaje) a nahradit originál.
-3) Nastavit skutečné datum publikace (date + název souboru + slug) a smazat "draft: true".
-4) Odkomentovat položku 6. 8. (KHS) v casova-osa.md.
-5) mkdocs build + commit včetně site/.
--->
-
 # Hluk z drtičky za celou dobu nikdo úředně nezměřil. Hygiena potvrdila proč
 
 Drtička v Molitorově je slyšet přes kilometr daleko, někdy i přes zavřená okna. Zeptali jsme se proto krajské hygienické stanice - úřadu, který má hluk na starosti - co o tom ví. [Ptali jsme se](./2026-07-27-zadost-o-dalsi-informace2.md) na čtyři věci: jestli někdo požádal o její posudek pro běžící povolování provozu, co k místu kdy vydala, kolik dostala stížností na hluk a jestli někdy měřila.
 
-Odpověď přišla 6. srpna, rychle a úplná. A říká tři věci. Hluk tady **nikdy nikdo úředně nezměřil** a žádné měření se nechystá. O posudek hygieny, bez kterého kraj nemůže provoz povolit, si **za osm měsíců nikdo neřekl**. A od 1. ledna 2023 do 30. července 2026 hygiena **nedostala jediný podnět na hluk** z této lokality - první je až ten náš, podaný 31. července (č. j. KHSSC 55616/2026).
+Odpověď přišla 6. srpna, rychle a úplná. A říká tři věci. Hluk tady **nikdy nikdo úředně nezměřil** a žádné měření se nechystá. O závazné stanovisko hygieny, bez kterého kraj nemůže provoz povolit, **nikdy nikdo nepožádal** - přestože řízení o povolení běží od loňského října. A od 1. ledna 2023 do 30. července 2026 hygiena **nedostala jediný podnět na hluk** z této lokality - první je až ten náš, podaný 31. července (č. j. KHSSC 55616/2026).
 
 ## Dokumenty
 
@@ -28,11 +19,11 @@ Odpověď přišla 6. srpna, rychle a úplná. A říká tři věci. Hluk tady *
 
 <!-- more -->
 
-## Osm měsíců a ani první krok
+## O povinné stanovisko si za deset měsíců nikdo neřekl
 
-Krajský úřad loni v prosinci povolování provozu pozastavil a firmám vyjmenoval, co v žádostech chybí. Mezi chybějícími podklady je i posudek hygieny. Ta teď písemně potvrdila, že o něj do 6. srpna nepožádal nikdo - ani firmy, ani jejich zástupce, ani krajský úřad.
+Dvě firmy ze skupiny žádají krajský úřad o povolení provozu zařízení pro nakládání s odpady. Řízení běží od loňského října a dosud neskončila. Závazné stanovisko hygieny patří k podkladům, bez kterých takové povolení vydat nelze. Hygiena teď písemně potvrdila, že o ně do 6. srpna nepožádal nikdo - ani firmy, ani jejich zástupce, ani krajský úřad.
 
-Firmy tedy za osm měsíců neudělaly ani první krok k tomu, aby chybějící podklad doplnily. Drtička přitom jede.
+Za deset měsíců běžícího řízení tedy neudělal nikdo ani první krok k podkladu, který v žádostech chybí. Drtička/třídička přitom jede.
 
 ## Měření: žádné nebylo a žádné se nechystá
 
@@ -52,4 +43,4 @@ Jediné hygienické posouzení místa je z roku 2021: vyjádření č. j. KHSSC 
 
 Ohlášení provozu drtiček, o kterých píšeme [jinde](./2026-08-12-odpoved-mesta-a-stavebniho-uradu.md), chodí každý leden i krajské hygienické stanici - je uvedena v jejich rozdělovníku spolu s inspekcí, krajským úřadem a městem Kouřim. Hygiena tedy od roku 2023 každoročně věděla, že na pozemcích poběží celý rok drtící a třídící technika.
 
-To jí samo o sobě povinnost konat nezakládá, a proto to nepíšeme jako výtku. Ukazuje to ale, jak celý systém funguje: čtyři úřady dostávají každý leden papír, že se v lokalitě bude celý rok drtit odpad, a žádný z nich z toho sám od sebe nic nevyvozuje.
+To jí samo o sobě povinnost konat nezakládá, a proto to nepíšeme jako výtku. Ukazuje to ale, jak celý systém funguje: čtyři úřady dostávají každý leden papír, že se v lokalitě bude celý rok drtit odpad, a žádný z nich na to sám od sebe nereaguje.
