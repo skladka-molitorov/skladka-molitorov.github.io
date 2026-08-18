@@ -38,4 +38,13 @@ Zdroj dat je v repu **spolek**, tady se jen přijímá vygenerované HTML. Postu
 
 **Ruční kroky Zdeňka vždy explicitně vypsat na konci odpovědi** (sandbox je nesmí/neumí): `git commit` + `push` v obou repech; pokud Claude stavěl web v sandboxu přes /tmp (nemůže mazat v `site/`), doporučit před commitem lokální `mkdocs build` na vyčištění starých souborů.
 
-Čekající úpravy příběhu (stav 14. 8. 2026): odkrýt `skryto` u ČIŽP/dodatku 101134 (po konci embarga ~15. 9.); k darům doplnit data podpisů a usnesení o přijetí z odpovědi na doplňující 106 na město; po publikaci draft článku `2026-08-12-odpoved-khs` přesměrovat provizorní odkaz u události k-khs-2026 (komentář v YAML); aktualizovat událost f-vklad-2026 po rozhodnutí katastru (lhůta 18. 8.). Článek o limitu publikován 14. 8. (`2026-08-14-limit-10000-tun`), odkazy v příběhu přesměrovány.
+Čekající úpravy příběhu (stav 17. 8. 2026):
+
+- odkrýt `skryto` u ČIŽP/dodatku 101134 - **po konci embarga ~15. 9.**;
+- k darům doplnit data podpisů a usnesení o přijetí z odpovědi na doplňující 106 na město (odchází do 20. 8.);
+- aktualizovat událost `f-vklad-2026` po rozhodnutí katastru o vkladu V-6690/2026 (**lhůta 18. 8.**);
+- po publikaci článku o družicových snímcích (embargo do prvních dnů září) doplnit událost k rozsahu plochy a odkaz.
+
+Hotovo: článek o limitu publikován 14. 8. (`2026-08-14-limit-10000-tun`), článek o hygieně 17. 8. (`2026-08-17-odpoved-khs`) - **odkaz u události `k-khs-2026` už na něj míří**, provizorní cíl přesměrován.
+
+Publikované články k 17. 8. 2026 (nepřepisovat zpětně, nové zprávy jako nové články): odpověď živnostenského úřadu 10. 8., plnění usnesení 45/2026 11. 8., odpověď města a stavebního úřadu 12. 8., zveřejnění dokumentů městem 13. 8., limit 10 000 tun 14. 8., odpověď KHS 17. 8. Drafty čekající na vydání jsou v repu spolek ve `verejnost/web_k_publikaci/`, vydané v jeho podsložce `_vydane/` - **do `docs/` se kopírují teprve v den publikace** (MkDocs kopíruje celé `docs/assets/` do `site/`, takže příloha nevydaného článku by byla živá na doméně).

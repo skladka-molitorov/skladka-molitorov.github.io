@@ -235,7 +235,7 @@ Sdělení KHS Středočeského kraje (č. j. KHSSC 56113/2026). **Za celou dobu 
 
 Odbor ŽP MěÚ Kolín poskytl **závazné stanovisko č. j. MUKOLIN/OZPZ 26582/21-Ze z 24. 3. 2021** s podmínkou: odpady nejvýše 10 000 tun. Na stanovisko odkazuje podmínka pravomocného povolení terénních úprav. Podle ročních hlášení samotných firem bylo jen za roky 2023-2024 přijato 425 389 tun odpadů.
 
-[Zápisek k závaznému stanovisku](info/prispevky/2026-08-12-limit-10000-tun.md)
+[Zápisek k závaznému stanovisku](info/prispevky/2026-08-14-limit-10000-tun.md)
 </div>
 
 <div class="tl-item tl-podani" markdown>
@@ -295,6 +295,20 @@ Krajský úřad poskytl kopii **souhlasu s odnětím zemědělské půdy** z 6. 
 Město Kouřim zveřejnilo na úřední desce tři dokumenty k bodu II. odst. 1 usnesení č. 45/2026: dodatečné povolení terénních úprav z roku 2021 a dvě rozhodnutí kraje k ochraně ovzduší. **Povolení provozu zařízení pro nakládání s odpady mezi nimi není a nebylo zveřejněno ani sdělení, že neexistuje.** Chybí i povolený rozsah úprav a rozhodnutí, kterým byla prodloužena lhůta k dokončení.
 
 [Zápisek ke zveřejnění](info/prispevky/2026-08-13-mesto-zverejnilo-dokumenty.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">14. 8. 2026</span><span class="tl-tag">Podání</span>
+
+Magistrát hl. m. Prahy **zamítl podnět ke změně nebo zrušení povolení** mobilních zařízení
+(č. j. MHMP 806869/2026). Obě povolení dál platí a řízení o jejich zrušení zahájeno nebylo.
+V téže listině ale úřad napsal, že mají-li být v místě drceny zeminy z jiných staveb,
+**„nelze tak činit v režimu mobilních zařízení povolených OCP MHMP“** a bylo by potřeba
+povolení stabilního zařízení, a že navážet lze **„pouze v množství odpovídajícím potřebě
+dané povoleným projektem stavebního záměru“**. Kontrolu u firem stavějících metro I.D
+úřad v plánu kontrol na rok 2026 nemá.
+
+[Zápisek k odpovědi Magistrátu](info/prispevky/2026-08-18-magistrat-zamitl-podnet.md)
 </div>
 
 <div class="tl-item tl-budouci" markdown>
