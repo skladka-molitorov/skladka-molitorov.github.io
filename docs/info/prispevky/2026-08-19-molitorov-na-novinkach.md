@@ -49,11 +49,12 @@ Firmy samy za roky 2023 a 2024 nahlásily úřadům **425 389 tun**, a to práv�
 
 ## Co s tím děláme
 
-Od července jsme podali podněty na krajský úřad, Magistrát hl. m. Prahy, krajskou hygienickou stanici, živnostenské úřady a ministerstvo životního prostředí a k tomu řadu žádostí o informace. Odpovědi zveřejňujeme tady na webu i s dokumenty, ať si každý přečte původní listinu, ne jen naši větu o ní. Přehled je v [časové ose](../../casova-osa.md) a v [Příběhu skládky](/pribeh/).
+Od července jsme podali podněty na krajský úřad, Magistrát hl. m. Prahy, krajskou hygienickou stanici, živnostenské úřady a ministerstvo životního prostředí a k tomu řadu žádostí o informace. Odpovědi zveřejňujeme tady na webu i s dokumenty, ať si každý může přečíst původní listinu. Přehled je v [časové ose](../../casova-osa.md) a v [Příběhu skládky](/pribeh/).
 
-Několik řízení běží dál a nemáme zatím v ruce všechny listiny - o kopie rozhodnutí, která zmiňuje článek na Novinkách, jsme požádali a zveřejníme je, až je dostaneme. 
+Několik řízení běží dál a nemáme zatím v ruce všechny listiny - o kopie rozhodnutí, která zmiňuje článek na Novinkách, jsme požádali a zveřejníme je, až je dostaneme.
 
 ---
 
-Do čtvrtka 20. srpna se ještě sbírají podpisy pod [petici STOP skládce v Molitorově](/info/category/petice/).\
+Do čtvrtka 20. srpna se ještě sbírají podpisy pod [petici STOP skládce v Molitorově](/info/category/petice/).
+
 Zastupitelstvo města Kouřim jedná **26. srpna**, jednání je veřejné, tak přijďte.
