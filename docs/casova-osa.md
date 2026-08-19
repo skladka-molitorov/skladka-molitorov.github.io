@@ -311,6 +311,18 @@ dané povoleným projektem stavebního záměru“**. Kontrolu u firem stavějí
 [Zápisek k odpovědi Magistrátu](info/prispevky/2026-08-18-magistrat-zamitl-podnet.md)
 </div>
 
+<div class="tl-item tl-kontext" markdown>
+<span class="tl-date">16. 8. 2026</span><span class="tl-tag">Média</span>
+
+O Molitorově psaly **Novinky.cz** - první text o kauze v celostátním médiu. Jednatel
+provozovatele v něm označuje místo za **„recyklační zařízení"** a zároveň uvádí, že firma
+**„má povolení na terénní úpravy"**; podle něj se má na místě pracovat s více než milionem
+tun materiálu. Povolení provozu zařízení k nakládání s odpady podle § 21 zákona o odpadech
+pro lokalitu vydáno nebylo a závazné stanovisko z roku 2021 stanovilo limit 10 000 tun.
+
+[Co k článku patří doplnit](info/prispevky/2026-08-19-molitorov-na-novinkach.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
 
