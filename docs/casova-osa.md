@@ -340,7 +340,9 @@ Konec lhůty pro odpovědi města a krajského úřadu na žádosti z 10. 8. - d
 
 **Uplyne lhůta k dokončení terénních úprav** podle dodatečného povolení z roku 2021. Původní lhůta skončila 26. 8. 2024 a byla prodloužena o dva roky; závěrečná kontrolní prohlídka, kterou povolení ukládá provést po dokončení, se dosud nekonala. Sděleno městem 10. 8. 2026 (č. j. KOU-2216/2026).
 
-Týž den se koná **poslední zasedání zastupitelstva** před volbami.
+Týž den se koná **poslední zasedání zastupitelstva** před volbami, od 18.00 v sálu v přízemí radnice.
+
+[Zápisek k zasedání](info/prispevky/2026-08-22-zasedani-26-srpna.md)
 </div>
 
 <div class="tl-item tl-budouci" markdown>
