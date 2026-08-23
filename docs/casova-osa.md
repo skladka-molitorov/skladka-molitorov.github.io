@@ -323,6 +323,19 @@ pro lokalitu vydáno nebylo a závazné stanovisko z roku 2021 stanovilo limit 1
 [Co k článku patří doplnit](info/prispevky/2026-08-19-molitorov-na-novinkach.md)
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">23. 8. 2026</span><span class="tl-tag">Podání</span>
+
+**Žádost Krajské správě a údržbě silnic Středočeského kraje k opravám silnice III/33420.**
+Kraj v roce 2024 zaplatil dvě opravy povrchu v úseku Molitorov - Bulánka za **10 153 983 Kč**
+s DPH, druhou z nich pět měsíců po první a vedenou jako havarijní. Mezi oběma opravami si
+objednal **diagnostiku vozovky za 364 950 Kč**, jejíž zpráva veřejná není. Starostka sousední
+Olešky přitom už ve zpravodaji obce 1/2024 popsala, že vozovku poškozují přetížené nákladní
+automobily se zeminou z metra mířící do areálu golfového hřiště.
+
+[Článek o opravách silnice](info/prispevky/2026-08-23-silnice-kourim-molitorov.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
 
