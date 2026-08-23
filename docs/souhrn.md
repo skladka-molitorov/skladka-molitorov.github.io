@@ -74,7 +74,15 @@ Souběžně u krajského úřadu běží dvě řízení o dodatečné povolení 
 
 ## Role města Kouřim
 
-Zastupitelstvo v únoru 2026 uložilo věc prošetřit - úkol je v zápisech opakovaně veden jako nesplněný. V červenci 2026 zastupitelstvo 9 hlasy uložilo podat nesouhlasné stanovisko (starosta a místostarostka pro nehlasovali). **Třicetidenní lhůta uplynula 7. 8. 2026; na úřední desce ani na webu města k tomu nebyla žádná informace ke dni uplynutí lhůty a nebyla tam ani 10. srpna ráno.** Zda a jak bylo usnesení splněno, jsme se 10. srpna zeptali dvěma cestami současně: žádostí o informace městu (u každého uloženého úkonu zvlášť) a žádostí krajskému úřadu, zda do obou správních řízení nějaké podání města skutečně došlo. Odpovědi mají přijít do 25. srpna, den před zasedáním zastupitelstva. **Město mezitím 13. srpna vyvěsilo na úřední desku tři dokumenty** - dodatečné povolení terénních úprav z roku 2021 a dvě rozhodnutí krajského úřadu o povolení zdroje znečišťování ovzduší. Žádný z nich není nový, spolek je má od konce července, a k povolení podle zákona o odpadech ani k povolenému rozsahu město nezveřejnilo nic. Podrobně v článku [Město zveřejnilo dokumenty](./info/prispevky/2026-08-13-mesto-zverejnilo-dokumenty.md). V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjádření města Kouřim ke zřízení stacionárního zařízení" - dokument, o kterém žádné usnesení zastupitelstva nerozhodlo, pokud je nám známo. Kdo ho za město vydal a na základě čeho, je otevřená otázka; spolek žádá kopii podle zákona o svobodném přístupu k informacím.
+Zastupitelstvo v únoru 2026 uložilo věc prošetřit - úkol je v zápisech opakovaně veden jako nesplněný. V červenci 2026 zastupitelstvo 9 hlasy uložilo starostovi celkem sedm úkonů, mimo jiné podat nesouhlasné stanovisko do správních řízení (starosta a místostarostka pro nehlasovali).
+
+Usnesení rozlišuje dvě skupiny úkolů. U části z nich stanovilo **třicetidenní lhůtu, která uplynula 7. srpna 2026** - patří sem právě podání do řízení. U vyžádání a zveřejnění informací o tom, jaká povolení byla pro záměr vydána, žádnou lhůtu nestanovilo.
+
+**Město 13. srpna vyvěsilo na úřední desku tři dokumenty** a samo je označilo za plnění té části usnesení, která lhůtu nemá. Jsou to dodatečné povolení terénních úprav z roku 2021 a dvě rozhodnutí krajského úřadu o povolení zdroje znečišťování ovzduší. Žádný z nich není nový, spolek je má od konce července. **K povolení podle zákona o odpadech, které usnesení jmenuje výslovně, město nezveřejnilo nic**, stejně jako k povolenému rozsahu záměru, tedy ke kubatuře, výšce a ploše. Podrobně v článku [Město zveřejnilo dokumenty](./info/prispevky/2026-08-13-mesto-zverejnilo-dokumenty.md).
+
+Jestli byly splněny ty úkoly, které lhůtu měly, z veřejných zdrojů zjistit nelze. Zeptali jsme se proto 10. srpna dvěma cestami současně: žádostí o informace městu, u každého uloženého úkonu zvlášť, a žádostí krajskému úřadu, zda do obou správních řízení nějaké podání města skutečně došlo. Odpovědi mají přijít do 25. srpna, den před zasedáním zastupitelstva.
+
+V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjádření města Kouřim ke zřízení stacionárního zařízení" - dokument, o kterém žádné usnesení zastupitelstva nerozhodlo, pokud je nám známo. Kdo ho za město vydal a na základě čeho, je otevřená otázka. Spolek žádá kopii podle zákona o svobodném přístupu k informacím.
 
 ## Kauza v médiích a rozbitá silnice
 
@@ -125,7 +133,7 @@ Zastupitelstvo v únoru 2026 uložilo věc prošetřit - úkol je v zápisech op
 
 - **Česká inspekce životního prostředí:** co udělala s protokoly, které jí krajský úřad předal v listopadu 2025? Běží řízení o přestupku?
 - **Magistrát hl. m. Prahy:** zpřísnil podmínky povolení mobilních drtiček, jak mu krajský úřad výslovně doporučil? Jak kontroluje, kde jeho "mobilní" zařízení reálně stojí? A proč za čtyři a půl roku nezkontroloval ani jednu firmu vozící zeminu z metra?
-- **Město Kouřim:** kdo a kdy vydal "souhlasné vyjádření města ke zřízení stacionárního zařízení", o kterém zastupitelstvo nikdy nehlasovalo? Proč je usnesení 16/2026 půl roku nesplněné? Bylo splněno usnesení 45/2026, jehož lhůta uplynula 7. 8.?
+- **Město Kouřim:** kdo a kdy vydal "souhlasné vyjádření města ke zřízení stacionárního zařízení", o kterém zastupitelstvo nikdy nehlasovalo? Proč je usnesení 16/2026 půl roku nesplněné? Byly splněny ty body usnesení 45/2026, pro které usnesení stanovilo třicetidenní lhůtu do 7. 8., a pod jakými čísly jednacími?
 - **Stavební úřad Kouřim:** jak se navážka srovnává se zákazem skládkování v územním plánu?
 - **Krajský úřad Středočeského kraje:** proč vede řízení o dodatečné povolení, místo aby vymohl zastavení nepovoleného provozu? Co znamená formulace "společenská škodlivost nemusí být značná"?
 - **Metrostav / Dopravní podnik hl. m. Prahy:** kolik materiálu ze stavby metra D skončilo v Molitorově a v jakém režimu?
