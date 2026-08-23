@@ -86,11 +86,11 @@ Zastupitelstvo v únoru 2026 uložilo věc prošetřit - úkol je v zápisech op
 ## Co bude dál
 
 - srpen 2026: Petici "STOP skládce v Molitorově" předáme krajskému úřadu po ukončení sběru podpisů 20. 8. 2026.
-- 25. 8. 2026 - konec lhůty pro odpovědi města a krajského úřadu na naše žádosti z 10. 8. (plnění usnesení č. 45/2026 a to, zda do správních řízení nějaké podání města skutečně došlo), den před zasedáním zastupitelstva.
-- 26. 8. 2026 - poslední zasedání zastupitelstva Kouřimi před volbami; týž den končí prodloužená lhůta k dokončení terénních úprav.
+- 25.8. 2026 - konec lhůty pro odpovědi města a krajského úřadu na naše žádosti z 10. 8. (plnění usnesení č. 45/2026 a to, zda do správních řízení nějaké podání města skutečně došlo), den před zasedáním zastupitelstva.
+- 26.8. 2026 - poslední zasedání zastupitelstva Kouřimi před volbami; týž den končí prodloužená lhůta k dokončení terénních úprav.
 - konec srpna 2026 - živnostenské úřady v Kolíně a na Praze 4 nám mají sdělit, jak naložily s podnětem k provedení kontroly provozovny (doplněn 10. 8. o sedm ohlášení provozu, která firmy samy podaly krajskému úřadu).
 - konec srpna nebo září 2026 - rozhodnutí Ministerstva životního prostředí o našem odvolání a rozhodnutí ministra o rozkladu ve věci hlášení o odpadech z metra
-- 31. 10. 2026 - končí lhůta provozovatele k doplnění vadných žádostí o povolení
+- 31.10. 2026 - končí lhůta provozovatele k doplnění vadných žádostí o povolení
 - Podle protokolu krajského úřadu z podzimu 2025 zpracovatel avizoval přípravu upravené dokumentace pro nové zjišťovací řízení EIA. Krajský úřad 5. 8. 2026 potvrdil, že žádnou dosud neobdržel (č. j. 111303/2026/KUSK). Sledujeme to - a až se objeví, spolek se zapojí a bude požadovat plné posouzení vlivů.
 
 ## Spis - klíčové dokumenty s č. j.
