@@ -9,32 +9,26 @@ hide:
 
 ## O co jde
 
-V Molitorově, v areálu Golf Molitorov u Kouřimi je provozována deponie stavebního odpadu bez povolení . Odhadem jde o tisíce tun materiálu a navážku vysokou desítky metrů. V areálu běží drtící a třídící zařízení stavebního odpadu, jehož hluk a prašnost obtěžují obyvatele přilehlých obcí. Molitorova, Kouřimi, Bulánky - obytná zástavba je 400-1300m od zdroje.
+V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drcení stavebního odpadu, které nikdy nedostalo povolení podle zákona o odpadech. Jen za roky 2023 a 2024 sem podle vlastních hlášení firem přijelo **425 389 tun** odpadů, terén má podle projektové dokumentace vyrůst až o 27 metrů. Hluk a prašnost obtěžují obyvatele Molitorova, Kouřimi a Bulánky. Nejbližší domy v Molitorově jsou 300 až 400 metrů od zdroje, do Kouřimi je drtičku slyšet na 1,4 kilometru.
 
-!!! tip "Podpořte petici"
+!!! note "Petice - sběr podpisů skončil"
 
-    Spustili jsme petici za zastavení nepovoleného provozu skládky.
-    **[Více informací o petici](/info/category/petice/)**
+    Sběr podpisů pod petici **STOP skládce v Molitorově** skončil 20. 8. 2026.
+    Po sečtení podpisů petici předáme Krajskému úřadu Středočeského kraje.
+    Děkujeme všem, kdo ji podepsali.
 
-    ePetice k podpisu: [STOP skládce v Molitorově](https://gov.cz/e-petice/1947-stop-skladce-v-molitorove) (je třeba přihlášení identitou občana)
+    **[Co petice obsahovala a jak to dopadlo](/info/category/petice/)**
 
 Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., o odpadech. U Krajského úřadu Středočeského kraje teprve probíhá řízení o povolení (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK). Toto řízení bylo v prosinci 2025 přerušeno pro zásadní vady žádosti a lhůta k doplnění byla prodloužena do 31. 10. 2026. Skládka je přesto fakticky provozována.
 
-!!! warning "Stav k 11. 8. 2026"
+!!! warning "Stav k 23. 8. 2026"
 
-    - Zařízení nemá povolení provozu dle § 21 zákona o odpadech, řízení u KÚSK
-      je přerušeno. Lhůta pro doplnění žádosti běží do **31. 10. 2026**.
-    - Lhůta z usnesení zastupitelstva č. 45/2026 (nesouhlasné stanovisko kraji
-      a podněty dozorovým orgánům) uplynula **7. 8.** - město dosud nezveřejnilo
-      nic o jeho splnění. 10. 8. jsme se proto [zeptali města i kraje](./info/prispevky/2026-08-11-plneni-usneseni-45-2026.md)
-      podle zákona č. 106/1999 Sb.
-    - Město [samo doložilo](./info/prispevky/2026-08-07-odpoved-mesta-kourim.md),
-      že územní plán na místě skládkování zakazuje. [MŽP potvrdilo](./info/prispevky/2026-08-08-odpoved-mzp.md),
-      že hlášení o odpadech existují, ale odmítlo je vydat.
-    - [Živnostenské úřady potvrdily](./info/prispevky/2026-08-10-odpoved-zivnostenskeho-uradu.md),
-      že žádná z firem skupiny nemá v živnostenském rejstříku evidovanou
-      provozovnu - v Molitorově ani nikde jinde.
-    - Další zasedání zastupitelstva: **26. 8. 2026 v 18:00**.
+    - **Ve středu 26. 8. od 18:00 se koná poslední zasedání zastupitelstva Kouřimi před volbami.** [Podrobnosti k zasedání](./info/prispevky/2026-08-22-zasedani-26-srpna.md)
+    - Zařízení nemá povolení provozu dle § 21 zákona o odpadech, řízení u KÚSK je přerušeno. Lhůta pro doplnění žádosti běží do **31. 10. 2026**.
+    - Magistrát hl. m. Prahy [14. 8. zamítl podnět](./info/prispevky/2026-08-18-magistrat-zamitl-podnet.md) ke změně nebo zrušení povolení mobilních drtiček. Obě povolení dál platí.
+    - Kraj v roce 2024 zaplatil za opravy silnice do Molitorova
+      [10,15 milionu korun](./info/prispevky/2026-08-23-silnice-kourim-molitorov.md). 1.8. jsme se správy silnic zeptali, co má k příčině poškození.
+    - 16.8. o kauze psaly [Novinky.cz](./info/prispevky/2026-08-19-molitorov-na-novinkach.md)
 
 ![Skladka mezi roky 2023 a 2026](./assets/img/2023-2026.jpg){ align=center }
 
