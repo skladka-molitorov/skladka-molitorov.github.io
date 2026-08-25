@@ -131,6 +131,14 @@ V zápisech ze zasedání je usnesení č. 16/2026 **vedeno jako nesplněné**.
 [Zápis ze zasedání 25.3.2026](assets/info/files/Zapis%20c.%202%20ZM%2025.03.2026_AN.pdf) · [Zápis ze zasedání 29.4.2026](assets/info/files/Zapis%20c.%203%20ZM%2029.04.2026_AN.pdf)
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">24. 4. 2026</span><span class="tl-tag">ČIŽP</span>
+
+**Pokuta 800 000 Kč je pravomocná.** Česká inspekce životního prostředí ji rozhodnutím č. j. ČIŽP/41/2026/890 z 20. 2. 2026 uložila společnosti ŠTOCHL GROUP invest za to, že v letech 2023 a 2024 provozovala v Molitorově mobilní zařízení v rozporu s povolením - fakticky jako zařízení stacionární - a přijala v něm **168 736 tun** odpadů (jedno zařízení, dva roky). Odvolání firmy zamítlo Ministerstvo životního prostředí 22. 4. 2026. Polovina pokuty, **400 000 Kč**, je podle zákona příjmem rozpočtu města Kouřim. O rozhodnutí jsme se dozvěděli až v srpnu 2026.
+
+[Článek k rozhodnutí](info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md)
+</div>
+
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">7. 7. 2026</span><span class="tl-tag">Podání</span>
 
@@ -321,6 +329,14 @@ tun materiálu. Povolení provozu zařízení k nakládání s odpady podle § 2
 pro lokalitu vydáno nebylo a závazné stanovisko z roku 2021 stanovilo limit 10 000 tun.
 
 [Co k článku patří doplnit](info/prispevky/2026-08-19-molitorov-na-novinkach.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">20. 8. 2026</span><span class="tl-tag">106</span>
+
+Inspekce nám na žádost z 6. 8. poslala **kopii pravomocného rozhodnutí o pokutě 800 000 Kč** i rozhodnutí ministerstva, které zamítlo odvolání (sdělení ČIŽP/41/2026/8353). Z téže odpovědi plyne, že ČIŽP vedla i druhé přestupkové řízení, se společností ŠTOCHL GROUP s.r.o. - rozhodnutí v něm zatím pravomocné není a jeho obsah neznáme.
+
+[Článek k rozhodnutí](info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md)
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
