@@ -352,26 +352,36 @@ automobily se zeminou z metra mířící do areálu golfového hřiště.
 [Článek o opravách silnice](info/prispevky/2026-08-23-silnice-kourim-molitorov.md)
 </div>
 
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">25. 8. 2026</span><span class="tl-tag">Termín</span>
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">20. 8. 2026</span><span class="tl-tag">Petice</span>
 
-Konec lhůty pro odpovědi města a krajského úřadu na žádosti z 10. 8. - den před zasedáním zastupitelstva.
+**Sběr podpisů pod petici [STOP skládce v Molitorově](/info/category/petice/) byl uzavřen.** Podpisy se sečetly a ověřily. Petici s ověřenými podpisy předáme krajskému úřadu.
 </div>
 
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">20. 8. 2026</span><span class="tl-tag">Termín</span>
+<div class="tl-item tl-mesto" markdown>
+<span class="tl-date">25. 8. 2026</span><span class="tl-tag">Odpovědi</span>
 
-**Konec sběru podpisů** petice [STOP skládce v Molitorově](/info/category/petice/).
+**Město i krajský úřad odpověděly na žádosti z 10. srpna, oba v poslední den lhůty a den před zasedáním zastupitelstva.**
+
+Krajský úřad potvrdil, že **město podalo 4. srpna do obou povolovacích spisů nesouhlasná vyjádření** (č. j. 115752/2026/KUSK). Město pak přiložilo jejich kopie k vlastní odpovědi (č. j. KOU-2332/2026) a je z nich vidět, jak věc popsalo jako účastník řízení: zařízení podle města „jsou fakticky provozována bez povolení" a terénní úpravy jsou „v nesouladu s územním plánem města".
+
+Součástí odpovědi města je i **třináct listů ohlášení mobilních zařízení z let 2023 až 2026** - každý rok předem ohlášený celoroční provoz na týchž pozemcích.
 </div>
 
-<div class="tl-item tl-budouci" markdown>
+<div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">26. 8. 2026</span><span class="tl-tag">Termín</span>
 
-**Uplyne lhůta k dokončení terénních úprav** podle dodatečného povolení z roku 2021. Původní lhůta skončila 26. 8. 2024 a byla prodloužena o dva roky; závěrečná kontrolní prohlídka, kterou povolení ukládá provést po dokončení, se dosud nekonala. Sděleno městem 10. 8. 2026 (č. j. KOU-2216/2026).
+**Uplynula lhůta k dokončení terénních úprav** podle dodatečného povolení z roku 2021. Původní lhůta skončila 26. 8. 2024 a byla prodloužena o dva roky. Závěrečná kontrolní prohlídka, kterou povolení ukládá provést po dokončení, se dosud nekonala - sděleno městem 10. 8. 2026 (č. j. KOU-2216/2026). Ptáme se stavebního úřadu, zda stavebník dokončení oznámil a zda požádal o další prodloužení.
 
-Týž den se koná **poslední zasedání zastupitelstva** před volbami, od 18.00 v sálu v přízemí radnice.
+Týž den se konalo **poslední zasedání zastupitelstva** před volbami.
 
 [Zápisek k zasedání](info/prispevky/2026-08-22-zasedani-26-srpna.md)
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">během září</span><span class="tl-tag">Termín</span>
+
+**Předání petice krajskému úřadu.** Kolik podpisů se sešlo a co petice žádá, napíšeme, až bude předána.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
