@@ -21,13 +21,15 @@ V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drc
 
 Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., o odpadech. U Krajského úřadu Středočeského kraje teprve probíhá řízení o povolení (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK). Toto řízení bylo v prosinci 2025 přerušeno pro zásadní vady žádosti a lhůta k doplnění byla prodloužena do 31. 10. 2026. Skládka je přesto fakticky provozována.
 
-!!! warning "Stav k 23. 8. 2026"
+!!! warning "Stav k 27. 8. 2026"
 
-    - **Ve středu 26. 8. od 18:00 se koná poslední zasedání zastupitelstva Kouřimi před volbami.** [Podrobnosti k zasedání](./info/prispevky/2026-08-22-zasedani-26-srpna.md)
+    - **26. 8. proběhlo poslední řádné zasedání zastupitelstva před volbami.** Poprvé přišli i zástupci firem, na část otázek odmítli odpovědět a před koncem jednání odešli. Starosta uvedl, že povolení dle § 21 pro Molitorov "není". Dva návrhy usnesení k Molitorovu neprošly, druhému chyběl jediný hlas. [Rekapitulace zasedání](./info/prispevky/2026-08-27-zasedani-rekapitulace.md)
+    - Město podle starosty neobdrželo svůj podíl **400 000 Kč** z [pravomocné pokuty ČIŽP](./info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md) a o rozhodnutí "oficiálně neví".
+    - **Mimořádné zasedání zastupitelstva bude ve čtvrtek 1. 10. 2026.**
+    - 26. 8. uplynula lhůta k dokončení terénních úprav podle dodatečného povolení z roku 2021. Ptáme se stavebního úřadu, co bude dál.
     - Zařízení nemá povolení provozu dle § 21 zákona o odpadech, řízení u KÚSK je přerušeno. Lhůta pro doplnění žádosti běží do **31. 10. 2026**.
     - Magistrát hl. m. Prahy [14. 8. zamítl podnět](./info/prispevky/2026-08-18-magistrat-zamitl-podnet.md) ke změně nebo zrušení povolení mobilních drtiček. Obě povolení dál platí.
-    - Kraj v roce 2024 zaplatil za opravy silnice do Molitorova
-      [10,15 milionu korun](./info/prispevky/2026-08-23-silnice-kourim-molitorov.md). 1.8. jsme se správy silnic zeptali, co má k příčině poškození.
+    - Kraj v roce 2024 zaplatil za opravy silnice do Molitorova [10,15 milionu korun](./info/prispevky/2026-08-23-silnice-kourim-molitorov.md). 1.8. jsme se správy silnic zeptali, co má k příčině poškození.
     - 16.8. o kauze psaly [Novinky.cz](./info/prispevky/2026-08-19-molitorov-na-novinkach.md)
 
 ![Skladka mezi roky 2023 a 2026](./assets/img/2023-2026.jpg){ align=center }
