@@ -373,9 +373,9 @@ Součástí odpovědi města je i **třináct listů ohlášení mobilních zař
 
 **Uplynula lhůta k dokončení terénních úprav** podle dodatečného povolení z roku 2021. Původní lhůta skončila 26. 8. 2024 a byla prodloužena o dva roky. Závěrečná kontrolní prohlídka, kterou povolení ukládá provést po dokončení, se dosud nekonala - sděleno městem 10. 8. 2026 (č. j. KOU-2216/2026). Ptáme se stavebního úřadu, zda stavebník dokončení oznámil a zda požádal o další prodloužení.
 
-Týž den se konalo **poslední zasedání zastupitelstva** před volbami.
+Týž den se konalo **poslední řádné zasedání zastupitelstva** před volbami. Poprvé na něj přišli i zástupci firem, na část otázek odmítli odpovědět a před koncem jednání odešli. Starosta uvedl, že povolení k nakládání s odpady podle § 21 pro Molitorov "není" a že město neobdrželo svůj podíl 400 000 Kč z pravomocné pokuty ČIŽP. Dva návrhy usnesení k Molitorovu neprošly, druhému chyběl jediný hlas. Mimořádné zasedání bude 1. října.
 
-[Zápisek k zasedání](info/prispevky/2026-08-22-zasedani-26-srpna.md)
+[Pozvánka na zasedání](info/prispevky/2026-08-22-zasedani-26-srpna.md) · [Rekapitulace zasedání](info/prispevky/2026-08-27-zasedani-rekapitulace.md)
 </div>
 
 <div class="tl-item tl-budouci" markdown>
