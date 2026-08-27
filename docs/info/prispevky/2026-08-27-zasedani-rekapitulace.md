@@ -32,7 +32,7 @@ Na poslední řádné zasedání zastupitelstva Kouřimi před volbami přišlo 
 
     - Zda má firma povolení k provozu stacionárního zařízení, jehož provoz bez povolení konstatoval ve dvou protokolech krajský úřad ("Nebudeme odpovídat").
     - Zda firma odstraní navezený materiál na vlastní náklady, pokud povolení nedostane ("Co to je za otázku?!").
-    - Kolik tun materiálu už v lokalitě je ("Ne" na otázku, zda o tom mají hosté představu).
+    - Kolik tun materiálu už v lokalitě je ("Ne" na otázku, zda o tom mají zástupci ŠG představu).
     - Zda město v běžících krajských řízeních navrhne podmínky vylučující další navážení ("Nebudeme odpovídat").
     - Jak vypadá projektová dokumentace ("Tak vzhledem k tomu, jak se chováte, tak vám to určitě neposkytneme.").
     - Kdo zaplatí případné odstranění navážky. Návrh, aby se město na to zeptalo kraje a inspekce, neprošel o jeden hlas.
@@ -40,18 +40,18 @@ Na poslední řádné zasedání zastupitelstva Kouřimi před volbami přišlo 
 
 ## Kdo přišel
 
-Starosta Luboš Čepelák v úvodu bodu přivítal "zástupce realizační firmy STOCHL GROUP pana Faltyse a pana Skočdopoleho". Asi o hodinu později se jeden z hostů proti tomu ohradil: "Já nejsem zástupce firmy ŠTOCHL GROUP, ale jsem spolumajitelem firmy Golf Academy, který má zájem na tom, aby se to dodělalo, aby se to řádně dodělalo a co nejdříve."
+Starosta Luboš Čepelák v úvodu bodu přivítal "zástupce realizační firmy STOCHL GROUP pana Faltyse a pana Skočdopoleho". Asi o hodinu později se jeden ze zástupců ŠG proti tomu ohradil: "Já nejsem zástupce firmy ŠTOCHL GROUP, ale jsem spolumajitelem firmy Golf Academy, který má zájem na tom, aby se to dodělalo, aby se to řádně dodělalo a co nejdříve."
 
 
 > **Jiří Faltys** - podle obchodního rejstříku 50% společník Academy Golf Molitorov s.r.o., tedy firmy, která je objednatelem stavby. Starosta ho na zasedání uvedl jako zástupce realizační firmy ŠTOCHL GROUP, on sám se o hodinu později označil za spolumajitele golfové firmy.
 >
 > **Tomáš Skočdopole** - jednatel Academy Golf Molitorov s.r.o. od jejího vzniku 1. března 2021. V květnu téhož roku zpracoval oznámení EIA k záměru golfového hřiště a v tomto řízení zastupoval oznamovatele, tedy vlastníka pozemků Reality Molitorov s.r.o. Právě v tom oznámení stojí, že se použije nejvýše 10 000 tun nezávadné zeminy. Na zasedání vystupoval za golfový klub, což je jiná právnická osoba (GOLF CLUB MOLITOROV z.s.), a uvedl, že "vyřizoval stavební povolení".
 
-Z nahrávky nebylo vždy rozlišitelné, kdo z obou hostů právě mluví. Kde to nevíme jistě, píšeme "zástupci firem". Pokud v článku narazíte na chybu, napište - obratem ji opravíme.
+Z nahrávky nebylo vždy rozlišitelné, kdo z obou zástupců ŠG právě mluví. Kde to nevíme jistě, píšeme "zástupci firem". Pokud v článku narazíte na chybu, napište - obratem ji opravíme.
 
 ## "Nebudeme odpovídat"
 
-První otázky padly hned v úvodním informačním bloku, kde starosta předal hostům slovo. Za spolek jsme se zeptali na to, co ve dvou protokolech konstatoval krajský úřad, tedy na provoz stacionárního zařízení bez povolení. Má k němu firma povolení?
+První otázky padly hned v úvodním informačním bloku, kde starosta předal zástupcům ŠG slovo. Za spolek jsme se zeptali na to, co ve dvou protokolech konstatoval krajský úřad, tedy na provoz stacionárního zařízení bez povolení. Má k němu firma povolení?
 
 Odpověď: "Nebudeme odpovídat."
 
@@ -73,7 +73,7 @@ Na otázku, zda s tímto výkladem obstojí před soudem, odpověděl: "Samozře
 
 Jejich výklad je na záznamu veřejného zasedání. Posoudit ho budou muset úřady.
 
-Ptali se i lidé v sále. Jedna z otázek zněla, zda mají hosté představu, kolik tun materiálu už je v lokalitě navezeno.
+Ptali se i lidé v sále. Jedna z otázek zněla, zda mají zástupci ŠG představu, kolik tun materiálu už je v lokalitě navezeno.
 
 "Ne."
 
@@ -81,7 +81,7 @@ Ptali se i lidé v sále. Jedna z otázek zněla, zda mají hosté představu, k
 
 Nejdůležitější odpověď večera padla na dotaz, zda pro Molitorov existuje povolení provozu zařízení k nakládání s odpady podle § 21 zákona o odpadech.
 
-Na otázku, která mířila na město, začal odpovídat jeden z hostů (pan Faltys): "Za mě to je otázka přece na životní prostředí…" Po upozornění, že se ptáme města, označil položené otázky za "naprosto nesmyslný" a dodal, že jsou "možná vyvozeny možná z nějaký AI, která vám to tam sestavila".
+Na otázku, která mířila na město, začal odpovídat jeden z ze zástupců ŠG (pan Faltys): "Za mě to je otázka přece na životní prostředí…" Po upozornění, že se ptáme města, označil položené otázky za "naprosto nesmyslný" a dodal, že jsou "možná vyvozeny možná z nějaký AI, která vám to tam sestavila".
 
 O dvě minuty později tutéž otázku zodpověděl starosta: "Za mě, asi zde k dispozici není, zeptejte se na ORPčko Kolín životní prostředí, jestli tam něco mají. Za nás tady nic není." A na upřesňující dotaz, zda tedy takové povolení není: "Není."
 
@@ -107,7 +107,7 @@ U řady dalších otázek starosta odkázal jinam nebo na později. Na dotaz, zd
 
 Zastupitel Josef Šmejkal se zeptal na to, co lidé v okolí vnímají nejvíc: "Je zvýšená prašnost, myslím si, že si toho všímáme opravdu všichni. Máte nějaké opatření proti tý prašnosti?" Zástupci firem odpověděli, že se komunikace kropí a je na to kropicí vůz. Na doplňující dotaz, zda existuje nějaké zařízení, které by obyvatele Molitorova a okolí chránilo, odkázali na zhotovitele stavby a na proběhlé kontroly. V téže odpovědi zaznělo i hodnocení: "My to spíš vnímáme, že to je tady náká volební agitace, do které jsme byli bohužel zataženi."
 
-Na otázku z publika, kdy bude hřiště hotové, odpověděl jeden z hostů, že by chtěli, "aby to do těch dvou let bylo dodělaný", a dodal, že "ta stavba automaticky se prodlužuje dál". Na námitku, že automaticky se žádná stavba neprodlužuje, odpověděl: "Já vám na to odpovím: doptejte se na stavebním úřadu."
+Na otázku z publika, kdy bude hřiště hotové, odpověděl jeden ze zástupců ŠG, že by chtěli, "aby to do těch dvou let bylo dodělaný", a dodal, že "ta stavba automaticky se prodlužuje dál". Na námitku, že automaticky se žádná stavba neprodlužuje, odpověděl: "Já vám na to odpovím: doptejte se na stavebním úřadu."
 
 ## "Určitě vám to neposkytneme"
 
