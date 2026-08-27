@@ -133,7 +133,7 @@ Oba návrhy na zasedání přečetl Jan Bug.
 
 **První návrh** ukládal starostovi, aby město jako účastník obou krajských řízení navrhlo podmínky, jimiž by bylo do pravomocného rozhodnutí vyloučeno další přijímání materiálu do lokality a jeho drcení a třídění.
 
-Pro hlasovalo pět zastupitelů: Jan Bug, Vladimír Rišling, Josef Šmejkal, Petr Němec a Sylva Kroužilová. Pět se zdrželo: Jiří Jeneš, Josef Hasil, Libor Chmel, starosta Čepelák a místostarostka Strunecká. Proti nebyl nikdo.
+Pro hlasovalo pět zastupitelů: Jan Bug, Vladimír Rišlink, Josef Šmejkal, Petr Němec a Sylva Kroužilová. Pět se zdrželo: Jiří Jeneš, Josef Hasil, Libor Chmel, starosta Čepelák a místostarostka Strunecká. Proti nebyl nikdo.
 
 Po hlasování jsme požádali starostu, aby zastupitele, kteří se zdrželi, představil jménem. Zastupitel Libor Chmel při tom uvedl, že se s návrhem před hlasováním nestihl seznámit, a proto se zdržel.
 
@@ -145,7 +145,7 @@ Druhému návrhu tedy chyběl k přijetí jediný hlas. Nešlo přitom o nic ví
 
 ## Mimořádné zasedání 1. října
 
-Ke konci jednání otevřeli zastupitelé Josef Šmejkal a Vladimír Rišling otázku mimořádného zasedání. Po krátké rozpravě padl termín čtvrtek 1. října, starosta termín přijal a tajemník uvedl, že se to dá do zápisu. O svolání se nehlasovalo, starosta prohlásil, že zasedání k 1. říjnu svolá.
+Ke konci jednání otevřeli zastupitelé Josef Šmejkal a Vladimír Rišlink otázku mimořádného zasedání. Po krátké rozpravě padl termín čtvrtek 1. října, starosta termín přijal a tajemník uvedl, že se to dá do zápisu. O svolání se nehlasovalo, starosta prohlásil, že zasedání k 1. říjnu svolá.
 
 Jednání skončilo ve 19:46.
 
