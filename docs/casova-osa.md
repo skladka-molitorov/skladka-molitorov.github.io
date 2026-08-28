@@ -339,6 +339,12 @@ Inspekce nám na žádost z 6. 8. poslala **kopii pravomocného rozhodnutí o po
 [Článek k rozhodnutí](info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">20. 8. 2026</span><span class="tl-tag">Petice</span>
+
+**Sběr podpisů pod petici [STOP skládce v Molitorově](/info/category/petice/) byl uzavřen.** Podpisy se sečetly a ověřily. Petici s ověřenými podpisy předáme krajskému úřadu.
+</div>
+
 <div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">23. 8. 2026</span><span class="tl-tag">Podání</span>
 
@@ -350,12 +356,6 @@ Olešky přitom už ve zpravodaji obce 1/2024 popsala, že vozovku poškozují p
 automobily se zeminou z metra mířící do areálu golfového hřiště.
 
 [Článek o opravách silnice](info/prispevky/2026-08-23-silnice-kourim-molitorov.md)
-</div>
-
-<div class="tl-item tl-podani" markdown>
-<span class="tl-date">20. 8. 2026</span><span class="tl-tag">Petice</span>
-
-**Sběr podpisů pod petici [STOP skládce v Molitorově](/info/category/petice/) byl uzavřen.** Podpisy se sečetly a ověřily. Petici s ověřenými podpisy předáme krajskému úřadu.
 </div>
 
 <div class="tl-item tl-mesto" markdown>
@@ -378,10 +378,18 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Pozvánka na zasedání](info/prispevky/2026-08-22-zasedani-26-srpna.md) · [Rekapitulace zasedání](info/prispevky/2026-08-27-zasedani-rekapitulace.md)
 </div>
 
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">během září</span><span class="tl-tag">Termín</span>
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">28. 8. 2026</span><span class="tl-tag">Petice</span>
 
-**Předání petice krajskému úřadu.** Kolik podpisů se sešlo a co petice žádá, napíšeme, až bude předána.
+**Petice [STOP skládce v Molitorově](/info/category/petice/) předána krajskému úřadu.** Osobně na podatelně ve Zborovské ulici, spolu s originály 44 podpisových archů a tiskem uzavřeného seznamu z portálu e-petice. Celkem **703 platných podpisů, z toho 600 ze Středočeského kraje**. Průvodní dopis žádá, aby úřad k petici přihlédl v obou povolovacích řízeních, a o sdělení čísla jednacího - to nám při převzetí sděleno nebylo.
+
+[Článek o předání petice](info/prispevky/2026-08-28-petice-predana-703-podpisu.md)
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">do 29. 9. 2026</span><span class="tl-tag">Termín</span>
+
+**Odpověď krajského úřadu na petici.** Petiční zákon dává úřadu 30 dnů na to, aby obsah petice posoudil a písemně odpověděl. Odpověď zveřejníme.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
