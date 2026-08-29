@@ -21,6 +21,8 @@ V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drc
 
 Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., o odpadech. U Krajského úřadu Středočeského kraje teprve probíhá řízení o povolení (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK). Toto řízení bylo v prosinci 2025 přerušeno pro zásadní vady žádosti a lhůta k doplnění byla prodloužena do 31. 10. 2026. Skládka je přesto fakticky provozována.
 
+![Zařízení žádající teprve o povolení](./assets/img/skladka_20260826.jpg){ align=center }
+
 !!! warning "Stav k 28. 8. 2026"
 
     - **28. 8. jsme předali kraji petici se 703 podpisy.** Úřad na ni musí do 30 dnů písemně odpovědět. [Článek o předání](./info/prispevky/2026-08-28-petice-predana-703-podpisu.md)
