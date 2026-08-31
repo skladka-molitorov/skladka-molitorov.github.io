@@ -342,7 +342,7 @@ Inspekce nám na žádost z 6. 8. poslala **kopii pravomocného rozhodnutí o po
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">20. 8. 2026</span><span class="tl-tag">Petice</span>
 
-**Sběr podpisů pod petici [STOP skládce v Molitorově](/info/category/petice/) byl uzavřen.** Podpisy se sečetly a ověřily. Petici s ověřenými podpisy předáme krajskému úřadu.
+**Uzávěrka sběru podpisů pod petici [STOP skládce v Molitorově](/info/category/petice/).** Papírové archy se uzavřely 20. srpna, elektronická petice 26. srpna. Po sečtení a ověření zůstalo 703 platných podpisů - petice byla 28. srpna předána krajskému úřadu.
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
@@ -356,6 +356,14 @@ Olešky přitom už ve zpravodaji obce 1/2024 popsala, že vozovku poškozují p
 automobily se zeminou z metra mířící do areálu golfového hřiště.
 
 [Článek o opravách silnice](info/prispevky/2026-08-23-silnice-kourim-molitorov.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">24. 8. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Krajský úřad odpověděl na podnět k zastavení provozu a na dotaz ke kontrolám.** V odpovědi na podnět z 31. července (č. j. 114900/2026/KUSK) úřad napsal, že provoz zařízení bez povolení "nemá defakto jak zastavit", že dodržení projektu má kontrolovat stavební úřad v Kouřimi a že hodnocení rizika dosud nebylo předloženo. V samostatné odpovědi (č. j. 115218/2026/KUSK) uvedl, že protiprávní stav zjištěný kontrolou trvá, že mu není známo, zda provoz pokračoval, že pokuty ukládat nemůže a že nemá vnitřní předpis pro postup po takovém zjištění. Na místě byl kraj naposledy 10. července 2025.
+
+[Článek o odpovědích kraje](info/prispevky/2026-08-31-kraj-nema-jak-zastavit.md)
 </div>
 
 <div class="tl-item tl-mesto" markdown>
@@ -384,6 +392,26 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 **Petice [STOP skládce v Molitorově](/info/category/petice/) předána krajskému úřadu.** Osobně na podatelně ve Zborovské ulici, spolu s originály 44 podpisových archů a tiskem uzavřeného seznamu z portálu e-petice. Celkem **703 platných podpisů, z toho 600 ze Středočeského kraje**. Průvodní dopis žádá, aby úřad k petici přihlédl v obou povolovacích řízeních, a o sdělení čísla jednacího - to nám při převzetí sděleno nebylo.
 
 [Článek o předání petice](info/prispevky/2026-08-28-petice-predana-703-podpisu.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">28. 8. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Hygiena potvrdila, že koná.** Krajská hygienická stanice k našemu podnětu z 31. července sdělila, že 13. srpna zahájila kontrolu provozovatele spojenou s obhlídkou stavby a vyzvala ho k zajištění kontrolního měření hluku v nejbližších chráněných venkovních prostorech staveb (č. j. KHSSC 62379/2026). Hluk z lokality se tak bude poprvé skutečně měřit. Výsledek zatím není, KHS bude po ukončení kontroly informovat.
+</div>
+
+<div class="tl-item tl-kontext" markdown>
+<span class="tl-date">29. 8. 2026</span><span class="tl-tag">Video</span>
+
+**Zveřejnili jsme video z místa.** Natočeno 26. srpna - v den, kdy podle prodlouženého povolení měla být stavba "golfového hřiště" dokončena.
+
+[Článek s videem](info/prispevky/2026-08-29-video-staveniste-golfu.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">30. 8. 2026</span><span class="tl-tag">106</span>
+
+**Žádost stavebnímu úřadu ke konci lhůty.** Osm otázek k rozhodnutí KOU-487/2021: zda stavebník oznámil dokončení terénních úprav, zda požádal o další prodloužení, zda proběhla nebo je nařízena závěrečná kontrolní prohlídka, kdy a čím byla lhůta naposledy prodloužena a co obsahuje spis. Lhůta na odpověď běží do 14. září.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
