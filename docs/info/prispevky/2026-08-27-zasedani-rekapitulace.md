@@ -156,7 +156,7 @@ Na zasedání jsme předsedajícímu a zapisovateli předali v listinné podobě
 - [Otázky přednesené v diskusi (PDF)](../../assets/info/files/zasedani_zm_20260826/otazky-predane-20260826.pdf) - sedm okruhů
 - [Doplňující otázky (PDF)](../../assets/info/files/zasedani_zm_20260826/otazky-doplnujici-20260826.pdf) - pět okruhů
 
-Zápis ze zasedání musí město podle § 95 odst. 2 zákona o obcích vyhotovit do deseti dnů, tedy do 5. září, a uložit na úřadě k nahlédnutí.
+Zápis ze zasedání musí město podle § 95 odst. 2 zákona o obcích vyhotovit do patnácti dnů, tedy do 10. září, a uložit na úřadě k nahlédnutí.
 
 ## Co dál
 

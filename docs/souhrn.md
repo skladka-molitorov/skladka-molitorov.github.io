@@ -111,7 +111,7 @@ V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjád
 
 - Petici "STOP skládce v Molitorově" podepsalo **703 lidí, z toho 600 ze Středočeského kraje**. **28. 8. 2026 byla předána** na podatelně krajského úřadu i s originály 44 podpisových archů. Úřad má podle petičního zákona 30 dnů na písemnou odpověď, tedy do konce září.
 - 26. 8. 2026 **uplynula prodloužená lhůta k dokončení terénních úprav**. Závěrečná kontrolní prohlídka dosud neproběhla, ptáme se stavebního úřadu, zda stavebník dokončení oznámil.
-- do 5. 9. 2026 - město musí vyhotovit zápis ze zasedání 26. 8. a uložit ho k nahlédnutí. Porovnáme ho s vlastním záznamem.
+- do 10. 9. 2026 - město musí vyhotovit zápis ze zasedání 26. 8. a uložit ho k nahlédnutí. Porovnáme ho s vlastním záznamem.
 - začátek září 2026 - starosta na zasedání slíbil "během příštího týdne" písemně sdělit kraji, že město souhlasné vyjádření nevydalo, a vyžádat si kopii listiny ze spisu. Sledujeme.
 - konec srpna 2026 - živnostenské úřady v Kolíně a na Praze 4 nám mají sdělit, jak naložily s podnětem k provedení kontroly provozovny (doplněn 10. 8. o sedm ohlášení provozu, která firmy samy podaly krajskému úřadu).
 - konec srpna nebo září 2026 - rozhodnutí Ministerstva životního prostředí o našem odvolání a rozhodnutí ministra o rozkladu ve věci hlášení o odpadech z metra
