@@ -376,6 +376,14 @@ Krajský úřad potvrdil, že **město podalo 4. srpna do obou povolovacích spi
 Součástí odpovědi města je i **třináct listů ohlášení mobilních zařízení z let 2023 až 2026** - každý rok předem ohlášený celoroční provoz na týchž pozemcích.
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">25. 8. 2026</span><span class="tl-tag">Podání</span>
+
+**Upozornili jsme město na náklady odstranění navážky.** Podle orientačního propočtu z veřejných ceníků vychází odstranění na **190 až 260 milionů korun bez DPH**, kontrolní propočet jen z ohlášených 425 389 tun na zhruba 120 milionů. Zákon o odpadech ukládá odstranění nejprve tomu, kdo odpad soustředil, pak vlastníkovi pozemku a nakonec veřejným rozpočtům - a účetní závěrky odpovědných firem ve sbírce listin na takový náklad nestačí. Upozornění šlo datovou schránkou městu a týž den e-mailem všem zastupitelům. Dva ze čtyř požadavků se den nato staly obsahem návrhů usnesení, ani jeden nezískal potřebných osm hlasů.
+
+[Článek o upozornění](info/prispevky/2026-09-01-upozorneni-mesto-naklady.md)
+</div>
+
 <div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">26. 8. 2026</span><span class="tl-tag">Termín</span>
 
@@ -412,6 +420,34 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 <span class="tl-date">30. 8. 2026</span><span class="tl-tag">106</span>
 
 **Žádost stavebnímu úřadu ke konci lhůty.** Osm otázek k rozhodnutí KOU-487/2021: zda stavebník oznámil dokončení terénních úprav, zda požádal o další prodloužení, zda proběhla nebo je nařízena závěrečná kontrolní prohlídka, kdy a čím byla lhůta naposledy prodloužena a co obsahuje spis. Lhůta na odpověď běží do 14. září.
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">31. 8. 2026</span><span class="tl-tag">Podání</span>
+
+**Odvolali jsme se proti tomu, že nám kraj odepřel listiny ze spisu kontroly.** Krajský úřad koncem srpna odmítl vydat část dokumentů ze spisu své vlastní kontroly v Molitorově - mimo jiné vyjádření města a projektovou dokumentaci - s odůvodněním, že jde o informace získané od třetích osob. Odvolání stojí na pěti důvodech, z nichž hlavní je ten, že listiny, které kontrolovaná osoba předložila na základě zákonné povinnosti při kontrole, nejsou dobrovolně poskytnuté informace třetí osoby. O odvolání rozhoduje Ministerstvo životního prostředí. Kraj má do konce září buď sám vyhovět, nebo spis ministerstvu předat.
+
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">31. 8. 2026</span><span class="tl-tag">106</span>
+
+**Tři žádosti o informace v jednom dni.** Praze 4 jako dotčenému orgánu pro stavbu metra I.D: bilance zemních prací a doklady o tom, do jakých zařízení měl vytěžený materiál jít. Městskému úřadu Kolín na úseku ochrany zemědělského půdního fondu: rozhodnutí o odvodech za odnětí půdy a doklady o skrývce ornice. Dopravnímu podniku hl. m. Prahy: čím a kdy bylo vymezeno staveniště obou staveb metra - odpověď „vymezeno nebylo" je pro nás stejně cenná jako kopie vymezení, protože potvrzení o tom, že materiál je „součástí staveniště", je jedním z důvodů, proč se navážka v Molitorově vykazovala jinak než jako odpad. Lhůty u všech tří běží do 15. září.
+
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">1. 9. 2026</span><span class="tl-tag">106</span>
+
+**Ptáme se kraje, kolikrát musel kouřimský stavební úřad popohnat.** Krajský úřad je nadřízeným orgánem stavebního úřadu v Kouřimi a správní řád mu dává nástroj proti nečinnosti podřízeného úřadu - může mu přikázat, aby konal, nebo si věc vzít sám. Žádáme přehled všech takových opatření od 1. ledna 2015 ve věcech, kde byl stavebním úřadem MěÚ Kouřim, přehled podnětů, které kraj v těchto věcech dostal, a informaci, zda je ve spisech doklad o splnění. Lhůta na odpověď běží do 16. září.
+
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">1. 9. 2026</span><span class="tl-tag">Podnět</span>
+
+**Poslali jsme inspekci, jak to v lokalitě vypadalo v srpnu.** Česká inspekce životního prostředí nám 19. srpna napsala, že věc šetří a shromažďuje podklady. Doplnili jsme jí proto vlastní dokumentaci srpnového provozu: dva letecké snímky z 26. srpna, video s nakládkou nákladního vozidla a dva záznamy zvuku drticí techniky z 21. a 31. srpna. Nová lhůta tím nevzniká, materiál jde do šetření zahájeného kontrolou z 30. července.
+
 </div>
 
 <div class="tl-item tl-budouci" markdown>
