@@ -16,3 +16,5 @@ docs/assets/video/molitorov_20260826.mp4 filter=lfs diff=lfs merge=lfs -text
 site/assets/video/molitorov_20260826.mp4 filter=lfs diff=lfs merge=lfs -text
 docs/assets/info/files/sz.zip filter=lfs diff=lfs merge=lfs -text
 site/assets/info/files/sz.zip filter=lfs diff=lfs merge=lfs -text
+docs/assets/info/odpad/metro_odpad.zip filter=lfs diff=lfs merge=lfs -text
+site/assets/info/odpad/metro_odpad.zip filter=lfs diff=lfs merge=lfs -text
