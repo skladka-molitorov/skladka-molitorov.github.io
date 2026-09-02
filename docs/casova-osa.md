@@ -246,6 +246,14 @@ Odbor ŽP MěÚ Kolín poskytl **závazné stanovisko č. j. MUKOLIN/OZPZ 26582/
 [Zápisek k závaznému stanovisku](info/prispevky/2026-08-14-limit-10000-tun.md)
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">6. a 12. 8. 2026</span><span class="tl-tag">Rozbor</span>
+
+Zpracovány dva rozbory z veřejných dat. Časová řada družicových snímků Sentinel-2 (program Copernicus, EU), 37 termínů od září 2019 do srpna 2026: **plocha bez souvislé vegetace vzrostla z nuly na 5,06 hektaru**, přičemž projektová dokumentace, o kterou se dodatečné povolení opírá, řeší podle protokolu KÚ č. j. 150678/2025/KUSK území o rozloze 3,26 hektaru. Půl hektaru je obnaženo už v květnu 2020, patnáct měsíců před vydáním dodatečného povolení. Výškové modely ČÚZK k tomu dávají třetí rozměr: **povrch navážky je 23 až 29 m nad okolním terénem, průměrná mocnost 9 m a objem přibližně 419 000 m³**, orientačně 0,7 až 0,8 milionu tun.
+
+[Zápisek k měření navážky](info/prispevky/2026-09-02-mereni-navazky.md)
+</div>
+
 <div class="tl-item tl-podani" markdown>
 <span class="tl-date">7. 8. 2026</span><span class="tl-tag">Podání</span>
 
