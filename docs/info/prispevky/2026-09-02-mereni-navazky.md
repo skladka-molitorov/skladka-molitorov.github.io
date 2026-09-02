@@ -77,6 +77,12 @@ Všechna výšková čísla platí ke dni snímkování, tedy k 18. červnu 2025
 
 ## Krok třetí: objem a hmotnost
 
+!!! note "Proč tak opatrně?"
+    ![3D model](../../assets/img/3d_navazka_2025.png){ align=center }
+    3D vizualizace výškového modelu
+
+    Obdélník 4,65 hektaru leží celý uvnitř tělesa a průměrování přes něj poctivě započítává i místa, kde je navážky málo. Co leží mimo obdélník, nepočítáme vůbec, přestože výšková data ukazují, že těleso pokračuje dál, hlavně směrem ke Kouřimi. Když jsme si zkusmo sečetli celé souvislé těleso, vyšlo kolem 670 tisíc kubíků a při stejném přepočtu hmotnost sahající až k milionu tun. To číslo ale nepoužíváme: model povrchu zahrnuje i koruny stromů kolem lokality a každé jeho čištění stojí na volbách, které se dají zpochybnit. Držíme se proto dolní hranice 419 tisíc kubíků, o které spor vést nejde. Skutečný objem je vyšší a přesně ho určí jen geodetické zaměření.
+
 Když víme, kde navážka leží a o kolik je povrch výš než původní terén, stačí obojí spojit. Nad obdélníkem o ploše 4,65 hektaru uvnitř tělesa navážky jsme spočítali průměrnou výšku v obou modelech. Rozdíl je **9,0 metru**. Někde míň, někde víc, průměrně devět metrů nového materiálu na výšku.
 
 Devět metrů krát 4,65 hektaru dává objem **přibližně 419 000 m³**. A protože zemina, kamenivo a stavební suť hutněné v tělese mívají objemovou hmotnost 1,6 až 2,0 tuny na kubík, odpovídá to **řádově 700 000 až 800 000 tun**.
