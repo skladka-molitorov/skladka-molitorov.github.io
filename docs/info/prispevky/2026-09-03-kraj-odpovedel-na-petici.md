@@ -1,5 +1,5 @@
 ---
-date: 2026-09-03 12:00:00
+date: 2026-09-03 11:00:00
 slug: 2026-09-03-kraj-odpovedel-na-petici
 categories:
   - Petice
