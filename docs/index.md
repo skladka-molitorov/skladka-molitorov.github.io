@@ -14,18 +14,19 @@ V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drc
 !!! note "Petice předána kraji - 703 podpisů"
 
     Petici **STOP skládce v Molitorově** podepsalo **703 lidí**, z toho 600 ze Středočeského kraje.
-    28. 8. 2026 jsme ji předali Krajskému úřadu Středočeského kraje, který na ni musí do 30 dnů písemně odpovědět.
-    Děkujeme všem, kdo ji podepsali.
+    28. 8. 2026 jsme ji předali Krajskému úřadu Středočeského kraje a ten odpověděl za pět dní.
+    Kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi - oba na ni teď musí do 30 dnů
+    písemně odpovědět. Děkujeme všem, kdo ji podepsali.
 
-    **[Jak sběr dopadl a co bylo předáno](./info/prispevky/2026-08-28-petice-predana-703-podpisu.md)**
+    **[Co kraj odpověděl](./info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)** · [Jak sběr dopadl a co bylo předáno](./info/prispevky/2026-08-28-petice-predana-703-podpisu.md)
 
 Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., o odpadech. U Krajského úřadu Středočeského kraje teprve probíhá řízení o povolení (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK). Toto řízení bylo v prosinci 2025 přerušeno pro zásadní vady žádosti a lhůta k doplnění byla prodloužena do 31. 10. 2026. Skládka je přesto fakticky provozována.
 
 ![Zařízení žádající teprve o povolení](./assets/img/skladka_20260826.jpg){ align=center }
 
-!!! warning "Stav k 28. 8. 2026"
+!!! warning "Stav k 3. 9. 2026"
 
-    - **28. 8. jsme předali kraji petici se 703 podpisy.** Úřad na ni musí do 30 dnů písemně odpovědět. [Článek o předání](./info/prispevky/2026-08-28-petice-predana-703-podpisu.md)
+    - **Kraj odpověděl na petici se 703 podpisy za pět dní.** Navážení podle svých slov zastavit nemůže, kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi - oba musí do 30 dnů písemně odpovědět. [Co kraj odpověděl](./info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)
     - **26. 8. proběhlo poslední řádné zasedání zastupitelstva před volbami.** Poprvé přišli i zástupci firem, na část otázek odmítli odpovědět a před koncem jednání odešli. Starosta uvedl, že povolení dle § 21 pro Molitorov "není". Dva návrhy usnesení k Molitorovu neprošly, druhému chyběl jediný hlas. [Rekapitulace zasedání](./info/prispevky/2026-08-27-zasedani-rekapitulace.md)
     - Město podle starosty neobdrželo svůj podíl **400 000 Kč** z [pravomocné pokuty ČIŽP](./info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md) a o rozhodnutí "oficiálně neví".
     - **Mimořádné zasedání zastupitelstva bude ve čtvrtek 1. 10. 2026.**

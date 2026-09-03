@@ -458,10 +458,18 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 
 </div>
 
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">do 29. 9. 2026</span><span class="tl-tag">Termín</span>
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">2. 9. 2026</span><span class="tl-tag">Odpovědi</span>
 
-**Odpověď krajského úřadu na petici.** Petiční zákon dává úřadu 30 dnů na to, aby obsah petice posoudil a písemně odpověděl. Odpověď zveřejníme.
+**Kraj odpověděl na petici za pět dní.** Zákon mu dává třicet. Ve stanovisku k jednotlivým požadavkům petice krajský úřad potvrdil, že řízení o povolení provozu vede, navážení podle svých slov zastavit nemůže - k tomu odkázal na stavební úřad v Kouřimi a Českou inspekci životního prostředí - a oběma proto předal kopii petice včetně podpisových archů. O inspekci sám napsal, že se věcí už zabývá.
+
+[Článek o odpovědi kraje](info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">do začátku října 2026</span><span class="tl-tag">Termín</span>
+
+**Odpovědi inspekce a stavebního úřadu na postoupenou petici.** Úřad, kterému byla petice postoupena, musí její obsah posoudit a do třiceti dnů písemně odpovědět. Obě odpovědi zveřejníme.
 </div>
 
 <div class="tl-item tl-budouci" markdown>

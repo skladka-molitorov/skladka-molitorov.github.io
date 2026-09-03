@@ -109,7 +109,7 @@ V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjád
 
 ## Co bude dál
 
-- Petici "STOP skládce v Molitorově" podepsalo **703 lidí, z toho 600 ze Středočeského kraje**. **28. 8. 2026 byla předána** na podatelně krajského úřadu i s originály 44 podpisových archů. Úřad má podle petičního zákona 30 dnů na písemnou odpověď, tedy do konce září.
+- Petici "STOP skládce v Molitorově" podepsalo **703 lidí, z toho 600 ze Středočeského kraje**. **28. 8. 2026 byla předána** na podatelně krajského úřadu i s originály 44 podpisových archů. **Kraj odpověděl za pět dní** (stanovisko z 2. 9. 2026): řízení o povolení vede, navážení podle svých slov zastavit nemůže a kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi - oba na ni musí do 30 dnů písemně odpovědět.
 - 26. 8. 2026 **uplynula prodloužená lhůta k dokončení terénních úprav**. Závěrečná kontrolní prohlídka dosud neproběhla, ptáme se stavebního úřadu, zda stavebník dokončení oznámil.
 - do 10. 9. 2026 - město musí vyhotovit zápis ze zasedání 26. 8. a uložit ho k nahlédnutí. Porovnáme ho s vlastním záznamem.
 - začátek září 2026 - starosta na zasedání slíbil "během příštího týdne" písemně sdělit kraji, že město souhlasné vyjádření nevydalo, a vyžádat si kopii listiny ze spisu. Sledujeme.
