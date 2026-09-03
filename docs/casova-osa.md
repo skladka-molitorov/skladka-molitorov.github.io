@@ -223,6 +223,14 @@ Odpověď Dopravního podniku hl. m. Prahy (č. j. DP/1320/26/900200/JK). **Popr
 </div>
 
 <div class="tl-item tl-podani" markdown>
+<span class="tl-date">4. 8. 2026</span><span class="tl-tag">Voda</span>
+
+**Vodoprávní úřad se poprvé vyjádřil k vodě.** MěÚ Kolín ve sdělení č. j. MUKOLIN/OZPZ 125794/26-Gl potvrdil, že území je zranitelnou oblastí v hydrogeologické pozici křídových sedimentů, na které je vázáno i jímací území města Kouřim. K navážce uvedl, že podle místních šetření stavebního úřadu navážené materiály neobsahovaly látky nebezpečné vodám, a přislíbil, že se věcí bude dále zabývat. Šetření, o která se ujištění opírá, proběhla v prosinci 2022 a v listopadu 2023 - před navezením podstatné části vykázaných 425 389 tun.
+
+[Článek o vodě pod Molitorovem](info/prispevky/2026-09-03-voda-pod-molitorovem.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
 <span class="tl-date">6. 8. 2026</span><span class="tl-tag">106</span>
 
 Rozhodnutí Ministerstva životního prostředí (č. j. MZP/2026/270/816 z 5. 8. 2026) o žádosti ze 16. 7. **Ministerstvo potvrdilo, že roční hlášení o odpadech v systému ISPOP má - a odmítlo je vydat** s odkazem na § 96 odst. 6 zákona o odpadech, stejně jako předtím pražský magistrát. K plnění podmínek EIA stavby metra D podle svých slov nemá žádné informace.
@@ -464,6 +472,20 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 **Kraj odpověděl na petici za pět dní.** Zákon mu dává třicet. Ve stanovisku k jednotlivým požadavkům petice krajský úřad potvrdil, že řízení o povolení provozu vede, navážení podle svých slov zastavit nemůže - k tomu odkázal na stavební úřad v Kouřimi a Českou inspekci životního prostředí - a oběma proto předal kopii petice včetně podpisových archů. O inspekci sám napsal, že se věcí už zabývá.
 
 [Článek o odpovědi kraje](info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">2. 9. 2026</span><span class="tl-tag">106</span>
+
+**Ptáme se na postsanační monitoring podzemních vod.** Po sanaci bývalého Strojobalu Molitorov (2017 až 2023, 53,8 mil. Kč) běží v území monitoring podzemních vod. Požádali jsme vodoprávní úřad v Kolíně o jeho program - které vrty, jaké ukazatele a jak často se měří - o výsledky za roky 2020 až 2026, o seznam vrtů se souřadnicemi a o směr proudění podzemní vody. Z odpovědi bude zřejmé, jestli monitoring vypovídá i o navážce, nebo jen o staré zátěži. Lhůta na odpověď běží do 17. září.
+
+[Článek o vodě pod Molitorovem](info/prispevky/2026-09-03-voda-pod-molitorovem.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">3. 9. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Hygiena upřesnila podobu měření hluku.** Ke kontrole zahájené 13. srpna nám KHS na nabídku součinnosti z 28. srpna sdělila, že měření zajistí na své náklady kontrolovaná firma prostřednictvím akreditované nebo autorizované laboratoře, že musí proběhnout za standardních provozních podmínek a že se ho hygienici po projednání podmínek osobně zúčastní (č. j. KHSSC 63759/2026). Termín měření úřad nestanovuje ani předem neoznamuje. Výsledek kontroly zveřejníme.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
