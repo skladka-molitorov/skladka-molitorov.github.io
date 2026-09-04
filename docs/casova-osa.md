@@ -35,6 +35,14 @@ Více viz zápisek [Územní plán](info/prispevky/2026-07-15-uzemni-plan.md)
 </div>
 
 
+<div class="tl-item tl-kontext" markdown>
+<span class="tl-date">26. 3. 2021</span><span class="tl-tag">Soud</span>
+
+Rozšířený senát Nejvyššího správního soudu rozhodl ve sporu o golfové hřiště Molitorov (č. j. 6 As 108/2019-39): **kdo je nepovolenou stavbou nebo terénní úpravou dotčen na svých právech, může se proti nečinnosti stavebního úřadu bránit žalobou.** Spor začal dopisem stavebního úřadu Kouřim ze 17. 1. 2019, že pro hřiště žádné povolení netřeba. Soud o legalitě hřiště nerozhodl, jen otevřel cestu k soudu. O dnešní navážce rozsudek nic neříká.
+
+[Článek: Kvůli golfu v Molitorově se změnilo české správní právo](info/prispevky/2026-09-04-nss-golf-molitorov.md)
+</div>
+
 <div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">17. 8. 2021</span><span class="tl-tag">Stavební úřad</span>
 
