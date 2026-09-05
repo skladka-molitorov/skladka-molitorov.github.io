@@ -45,9 +45,9 @@ Mezi nimi je i to úplně první potvrzení ze 2. února 2023, podle kterého je
 
 Kdyby šlo o jedno potvrzení, dalo by se odbýt jako omyl. Jenže potvrzení ke stavbě "Provozní úsek I.D pražského metra, úsek Pankrác - Olbrachtova" jsou v protokolech tři, od tří různých subjektů a v rozmezí osmnácti měsíců:
 
-- 2. února 2023 - ŠTOCHL GROUP s.r.o., tedy potvrzení sobě samému,
-- 2. listopadu 2023 - Metrostav Infrastrukture a.s.,
-- 17. srpna 2024 - MI Roads a.s.
+- 2.2. 2023 - ŠTOCHL GROUP s.r.o., tedy potvrzení sobě samému,
+- 2.11. 2023 - Metrostav Infrastrukture a.s.,
+- 17.8. 2024 - MI Roads a.s.
 
 Další dvě potvrzení se týkají rekonstrukce stropní desky stanice metra Florenc, z 23. května 2023 a 25. února 2025. Obě si vydala ŠTOCHL GROUP invest sama sobě.
 
