@@ -84,7 +84,7 @@ Krajský úřad **oznamuje zahájení řízení** (č. j. 135287/2025/KUSK). Mě
 
 Krajský úřad uzavírá kontrolu protokoly (č. j. 150678/2025/KUSK a 127350/2025/KUSK): zařízení je **provozováno bez povolení**, potvrzení o "staveništi" byla vydána **"pouze obcházením zákona"** a jen za roky 2023-2024 bylo navezeno **425 389 tun** odpadu. Protokoly předává ČIŽP a pražskému magistrátu. Zveřejněno až 27. 7. 2026 na základě žádosti dle z. 106.
 
-[Zápisek k protokolům](info/prispevky/2026-07-27-protokoly-krajskeho-uradu.md)
+[Zápisek k protokolům](info/prispevky/2026-07-27-protokoly-krajskeho-uradu.md) · [Dvanáct potvrzení, která si firmy vydaly samy sobě](info/prispevky/2026-09-05-potvrzeni-sobe-samemu.md)
 </div>
 
 <div class="tl-item tl-mesto" markdown>
