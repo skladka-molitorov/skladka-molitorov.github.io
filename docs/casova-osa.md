@@ -44,6 +44,30 @@ Rozšířený senát Nejvyššího správního soudu rozhodl ve sporu o golfové
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">25. 2. 2021</span><span class="tl-tag">Stavební úřad</span>
+
+Stavební úřad v Kouřimi vede **řízení o nařízení odstranění terénních úprav provedených bez povolení** (§ 129 stavebního zákona). Odbor životního prostředí v Kolíně k němu vydává vyjádření (č. j. MUKOLIN/OZPZ 12856/21). Řízení skončilo o půl roku později dodatečným povolením úprav.
+
+[Vyjádření MěÚ Kolín (PDF)](assets/info/files/106_zp_kolin_20260806/MUKOLIN_12856_21_vyjadreni_20210225.pdf) · [Článek: Povoleno 10 000 tun, nahlášeno 425 389 tun](info/prispevky/2026-08-14-limit-10000-tun.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">24. 3. 2021</span><span class="tl-tag">MěÚ Kolín</span>
+
+Odbor životního prostředí v Kolíně vydává **závazné stanovisko s podmínkou, že odpady (zemina a kamení) smí být použity nejvýše v množství 10 000 tun** (č. j. MUKOLIN/OZPZ 26582/21-Ze). Na tuto podmínku se odvolává bod 9 pozdějšího dodatečného povolení. Spolek stanovisko získal až 7. 8. 2026.
+
+[Závazné stanovisko (PDF)](assets/info/files/106_zp_kolin_20260806/ZS_MUKOLIN_26582_21_Ze_20210324.pdf) · [Článek: Povoleno 10 000 tun, nahlášeno 425 389 tun](info/prispevky/2026-08-14-limit-10000-tun.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">6. a 7. 4. 2021</span><span class="tl-tag">Řízení KÚ</span>
+
+Krajský úřad vydává **souhlas s odnětím zemědělské půdy** pro část dnes zavezených pozemků (sp. zn. SZ_032848/2021/KUSK), jeho přílohou je výkres C.02 Situace z ledna 2021, jediná část projektové dokumentace, kterou dosud některý úřad poskytl. Den poté kraj investorovi písemně sděluje (č. j. 035959/2021/KUSK), že do 10 000 tun neznečištěné zeminy nepotřebuje povolení k zasypávání, ale záměr je významnou změnou a musí projít zjišťovacím řízením EIA.
+
+[Souhlas s odnětím půdy (PDF)](assets/info/files/eia-golf-vystavba/KUSK_SZ_032848_2021_souhlas_odneti_ZPF_20210406.pdf) · [Výkres C.02 (PDF)](assets/info/files/eia-golf-vystavba/PD_vykres_C02_situace_012021.pdf) · [Sdělení kraje (PDF)](assets/info/files/eia-golf-vystavba/KUSK_035959_2021_sdeleni_k_terennim_upravam_20210407.pdf) · [Článek: EIA na golfovou akademii - k čemu vlastně je?](info/prispevky/2026-09-06-eia-golf-akademie.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">17. 5. až 2. 7. 2021</span><span class="tl-tag">Řízení KÚ</span>
 
 Zjišťovací řízení EIA k záměru **"Rozšíření stávajícího golfového areálu v k.ú. Kouřim"** (kód STC2385). Investor oznámil tři cvičné jamky, nejvýše 10 000 tun dovezené zeminy, práce jen ve všední dny, dvě stě stromů a dokončení v říjnu 2023. Krajský úřad 2. 7. 2021 rozhodl (č. j. 061707/2021/KUSK), že takto popsaný záměr nebude dále posuzován. Rozhodnutí nestanoví žádné podmínky. O drcení a třídění odpadů oznámení nemluví.
