@@ -44,6 +44,14 @@ Rozšířený senát Nejvyššího správního soudu rozhodl ve sporu o golfové
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">17. 5. až 2. 7. 2021</span><span class="tl-tag">Řízení KÚ</span>
+
+Zjišťovací řízení EIA k záměru **"Rozšíření stávajícího golfového areálu v k.ú. Kouřim"** (kód STC2385). Investor oznámil tři cvičné jamky, nejvýše 10 000 tun dovezené zeminy, práce jen ve všední dny, dvě stě stromů a dokončení v říjnu 2023. Krajský úřad 2. 7. 2021 rozhodl (č. j. 061707/2021/KUSK), že takto popsaný záměr nebude dále posuzován. Rozhodnutí nestanoví žádné podmínky. O drcení a třídění odpadů oznámení nemluví.
+
+[Článek: EIA na golfovou akademii - k čemu vlastně je?](info/prispevky/2026-09-06-eia-golf-akademie.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
 <span class="tl-date">17. 8. 2021</span><span class="tl-tag">Stavební úřad</span>
 
 Stavební úřad v Kouřimi vydává **dodatečné povolení terénních úprav "golfové hřiště"** (č. j. KOU-487/2021), právní moc 26. 8. 2021. Podle protokolů krajského úřadu se rozhodnutí vztahuje jen na část dnes zavezených pozemků.
