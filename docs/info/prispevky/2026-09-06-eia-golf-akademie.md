@@ -107,3 +107,39 @@ Z golfové části projektu tedy podle všeho nestojí nic kromě samotného tě
 - [Dodatečné povolení terénních úprav č. j. KOU-487/2021 ze 17. 8. 2021](../../assets/info/files/uredni_deska_20260813/45-2026-stavebni-urad.pdf) (pdf, sken zveřejněný městem Kouřim)
 - [Závazné stanovisko MUKOLIN/OZPZ 26582/21-Ze ze 24. 3. 2021](../../assets/info/files/106_zp_kolin_20260806/ZS_MUKOLIN_26582_21_Ze_20210324.pdf) (pdf)
 - Celý spis EIA včetně vyjádření ostatních úřadů je v [Informačním systému EIA pod kódem STC2385](https://portal.cenia.cz/eiasea/detail/EIA_STC2385)
+
+## Doplnění 7. 9. 2026: fotografie z veřejně přístupných míst
+
+V pondělí jsme doplnili fotografie aktuálního stavu.
+
+![Odbočka ze silnice III/33420 na cestu](../../assets/img/20260907-1440-cesta-2646-1-odbocka.jpg){ align=center }
+
+*Parcela 2646/1 - příjezdová cesta podle projektu, kterou oznámení EIA i dodatečné povolení uvádějí mezi dotčenými pozemky a stanovisko z roku 2021 popisuje jako příjezd k valu zpevněný štěrkem "jako příprava pro budoucí pojezdovou vrstvu z asfaltobetonu".*
+
+![Zavřená závora na cestě 2646/1](../../assets/img/20260907-1441-cesta-2646-1-zavora.jpg){ align=center }
+
+*Cestu uzavírá zarostlá závora. Doprava do areálu jezdí jiným vjezdem - sjezdem přímo ze silnice.*
+
+![Sjezd ze silnice III/33420 do areálu](../../assets/img/20260907-1444-vjezd-hromady.jpg){ align=center }
+
+*Sjezd ze silnice III/33420 do areálu. Za vjezdem hromady betonového recyklátu a stavební suti. Oznámení z roku 2021 počítá s dovozem nejvýše 10 000 tun neznečištěné zeminy.*
+
+![Pohled do areálu přes vjezd, buňka s váhou, hromady kameniva](../../assets/img/20260907-1446-vjezd-bunka-vaha.jpg){ align=center }
+
+*Pohled do areálu přes vjezd. Obytná buňka s váhou. Oznámení z roku 2021 popisuje zařízení staveniště jako "tři stavební buňky a plochu pro mechanizaci o velikosti cca 35 m²".*
+
+![Billboard u vjezdu se strženou plachtou](../../assets/img/20260907-1446-vjezd-billboard.jpg){ align=center }
+
+*Stržená plachta "Výstavba golfového tréninkového centra pro mládež, Molitorov" (zachycena třeba na Street View z července 2025).*
+
+![Celá délka navážky od Bulánky, v pozadí Kouřim](../../assets/img/20260907-1449-bulanka-cela-plocha.jpg){ align=center }
+
+*Pohled na "staveniště" z pole od Bulánky. Na povrchu hromady materiálu roztříděného po frakcích. Žádná zatravněná plocha, odpaliště ani green, které měly být hotové v říjnu 2023.*
+
+!["Stavba" v akci s obvyklým prachovým oblakem nad sebou](../../assets/img/20260907-1453-bulanka-drtic-prach.jpg){ align=center }
+
+*Z téhož místa, červený drtič se zeleným pásovým třídičem, nad areálem oblak prachu. Oznámení z roku 2021: "Nepřibude žádný nový stacionární ani mobilní zdroj znečištění ovzduší."*
+
+![Oblak prachu nad "stavbou", pohled od domů v Molitorově](../../assets/img/20260907-1403-molitorov-oblak-nad-plochou.jpg){ align=center }
+
+*Pohled od domů v Molitorově. Prachový oblak nad "stavbou" je obvyklý doplněk.*
