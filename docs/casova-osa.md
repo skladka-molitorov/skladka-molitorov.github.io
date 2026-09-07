@@ -528,6 +528,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 **Hygiena upřesnila podobu měření hluku.** Ke kontrole zahájené 13. srpna nám KHS na nabídku součinnosti z 28. srpna sdělila, že měření zajistí na své náklady kontrolovaná firma prostřednictvím akreditované nebo autorizované laboratoře, že musí proběhnout za standardních provozních podmínek a že se ho hygienici po projednání podmínek osobně zúčastní (č. j. KHSSC 63759/2026). Termín měření úřad nestanovuje ani předem neoznamuje. Výsledek kontroly zveřejníme.
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">7. 9. 2026</span><span class="tl-tag">Volby</span>
+
+**Sedm otázek kandidátům do Senátu a sedm otázek lídrům kouřimských kandidátek.** Před volbami 9. a 10. října jsme poslali stejné otázky všem sedmi kandidátům do Senátu za obvod 42 Kolín a jiných sedm otázek lídrům všech tří kandidátek do Zastupitelstva města Kouřim. Otázky jsme zveřejnili v den odeslání, odpovědi zveřejníme doslova a v plném znění po lhůtě 21. září, včetně toho, kdo neodpověděl. Spolek nikoho nedoporučuje.
+
+[Otázky kandidátům do Senátu](info/prispevky/2026-09-07-otazky-kandidatum-do-senatu.md) · [Otázky kouřimským kandidátům](info/prispevky/2026-09-07-otazky-kandidatum-v-kourimi.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do začátku října 2026</span><span class="tl-tag">Termín</span>
 
