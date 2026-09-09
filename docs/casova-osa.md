@@ -429,7 +429,9 @@ automobily se zeminou z metra mířící do areálu golfového hřiště.
 
 Krajský úřad potvrdil, že **město podalo 4. srpna do obou povolovacích spisů nesouhlasná vyjádření** (č. j. 115752/2026/KUSK). Město pak přiložilo jejich kopie k vlastní odpovědi (č. j. KOU-2332/2026) a je z nich vidět, jak věc popsalo jako účastník řízení: zařízení podle města „jsou fakticky provozována bez povolení" a terénní úpravy jsou „v nesouladu s územním plánem města".
 
-Součástí odpovědi města je i **třináct listů ohlášení mobilních zařízení z let 2023 až 2026** - každý rok předem ohlášený celoroční provoz na týchž pozemcích.
+Součástí odpovědi města je i **třináct listů ohlášení mobilních zařízení z let 2023 až 2026**, celkem deset ohlášení - každý rok předem ohlášený celoroční provoz na týchž třech pozemcích. Proti sadě z 10. srpna přibyla čtyři, mezi nimi ohlášení **čtvrté firmy, MUR PORTANT s.r.o.**, která na tytéž pozemky ohlásila provoz zařízení CZA01493 od února 2023. Město podle své odpovědi ohlášení nikam nepostoupilo a vzalo je na vědomí.
+
+[Článek o ohlášeních](info/prispevky/2026-09-09-ohlaseni-mobilnich-zarizeni.md)
 </div>
 
 <div class="tl-item tl-podani" markdown>
