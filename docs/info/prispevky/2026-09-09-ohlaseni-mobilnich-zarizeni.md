@@ -47,6 +47,8 @@ Ve všech je stejná trojice pozemků, parcely 1454, 1455 a 1457 v katastrální
 
 Zkuste si u toho představit stavbu, na kterou drtič přijede na dva týdny. Tady se každý rok v lednu dopředu oznamuje, že zařízení bude na týchž třech pozemcích v provozu do konce roku. Pro rok 2026 to platí pro tři zařízení současně.
 
+Ohlášení má přitom dvě strany. Provozovatel oznámí, že technika přijela, a stejně tak oznamuje, že skončila. V každém z těch papírů je jako předpokládané ukončení uveden konec kalendářního roku. **Krajský úřad nám v září napsal, že oznámení o ukončení provozu nedostal za celou dobu ani jedno, u žádného ze zařízení v této lokalitě.** První ohlášení umístění je z ledna 2023.
+
 Česká inspekce životního prostředí došla ve svém pravomocném rozhodnutí k závěru, že v Molitorově šlo o [fakticky stacionární zařízení bez povolení](./2026-08-25-pokuta-cizp-pravomocna.md). To vlastně prokazují i papíry, které o vlastním provozu napsali sami provozovatelé, a to čtyři roky po sobě.
 
 A hlavně: **od ledna 2023 přichází městu Kouřim každý rok papír o tom, že v Molitorově poběží zpracování odpadů po celý rok.** Zeptali jsme se, co s těmi papíry udělalo. Odpovědělo doslova: "ohlášení nebyla nikam postoupena, město vzalo ohlášení na vědomí".

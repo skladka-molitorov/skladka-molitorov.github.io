@@ -538,6 +538,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Otázky kandidátům do Senátu](info/prispevky/2026-09-07-otazky-kandidatum-do-senatu.md) · [Otázky kouřimským kandidátům](info/prispevky/2026-09-07-otazky-kandidatum-v-kourimi.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">9. 9. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Kraj potvrdil tři drtičky a to, že konec provozu neohlásil nikdo.** Ze spisu kontroly nám poslal listiny, o které jsme žádali v srpnu: protokol z prohlídky na místě z 10. července 2025 s fotodokumentací, výzvu, kterou po provozovateli chtěl doložit, co v Molitorově dělá, a ohlášení zařízení CZA01703 na roky 2025 a 2026. Na otázku, zda někdy dostal oznámení o ukončení provozu některého ze zařízení v lokalitě, odpověděl jednou větou: **"Taková hlášení krajský úřad neobdržel."** První ohlášení umístění je přitom z ledna 2023.
+
+[Článek o ohlášeních](info/prispevky/2026-09-09-ohlaseni-mobilnich-zarizeni.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do začátku října 2026</span><span class="tl-tag">Termín</span>
 

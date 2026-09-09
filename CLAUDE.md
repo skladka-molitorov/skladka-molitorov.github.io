@@ -28,6 +28,8 @@
 3. Případně doplnit `docs/casova-osa.md` - **a při každé úpravě časové osy zvážit i doplnění „Příběhu skládky"** (viz níže). Je-li událost vhodná pro laiky, doplnit vždy.
 4. `mkdocs build` a commit včetně `site/`.
 
+**Kde build stavět (pravidlo z 9. 9. 2026, po havárii sandboxu).** Claude staví web do tohoto repa, tedy do připojené složky, ne do pracovního adresáře sandboxu. Dosavadní praxe „buildovat přes `/tmp` a rsyncnout do `site/`" existuje jen proto, že sandbox neumí v `site/` mazat - **výstup se ale nesmí nechat ležet ve VM**, uklidit ho ve stejné session. Disk sandboxu pro pracovní adresáře má 9,8 GB, nic si mezi sessiony nemaže sám a nakumulované buildy ho 9. 9. 2026 zaplnily tak, že sandbox nešel spustit vůbec (`useradd: exit status 12`) a musel se zahodit celý virtuální stroj. Předzvěsti jsou v zápisech u 6. a 9. 9., kde `site/` nešel přegenerovat, „protože sandboxu došlo místo na disku". Pravidlo, že před commitem má Zdeněk spustit lokální čistý `mkdocs build`, platí dál.
+
 ## Příběh skládky - aktualizace (docs/pribeh/index.html)
 
 Zdroj dat je v repu **spolek**, tady se jen přijímá vygenerované HTML. Postup:
