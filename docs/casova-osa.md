@@ -539,11 +539,25 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 </div>
 
 <div class="tl-item tl-podani" markdown>
+<span class="tl-date">7. 9. 2026</span><span class="tl-tag">106</span>
+
+**Ptáme se města, co po zasedání poslalo kraji.** V kontrolním spisu krajského úřadu je vedena listina označená jako souhlasné vyjádření města ke zřízení stacionárního zařízení (protokol č. j. 150678/2025/KUSK). Starosta na zasedání zastupitelstva 26. srpna řekl, že podle jeho vědomí město nic takového nevydalo, a slíbil, že to kraji písemně sdělí a vyžádá si kopii listiny ze spisu. Žádostí o informace jsme se zeptali, zda se to stalo. Město má odpovědět do 22. září a odpověď zveřejníme.
+
+[Článek o slibu starosty](info/prispevky/2026-09-10-slib-starosty-vyjadreni-mesta.md)
+</div>
+
+<div class="tl-item tl-podani" markdown>
 <span class="tl-date">9. 9. 2026</span><span class="tl-tag">Odpovědi</span>
 
 **Kraj potvrdil tři drtičky a to, že konec provozu neohlásil nikdo.** Ze spisu kontroly nám poslal listiny, o které jsme žádali v srpnu: protokol z prohlídky na místě z 10. července 2025 s fotodokumentací, výzvu, kterou po provozovateli chtěl doložit, co v Molitorově dělá, a ohlášení zařízení CZA01703 na roky 2025 a 2026. Na otázku, zda někdy dostal oznámení o ukončení provozu některého ze zařízení v lokalitě, odpověděl jednou větou: **"Taková hlášení krajský úřad neobdržel."** První ohlášení umístění je přitom z ledna 2023.
 
 [Článek o ohlášeních](info/prispevky/2026-09-09-ohlaseni-mobilnich-zarizeni.md)
+</div>
+
+<div class="tl-item tl-budouci" markdown>
+<span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
+
+**Odpověď města na žádost ze 7. září.** Patnáctidenní lhůta pro odpověď na to, co město po zasedání zastupitelstva poslalo krajskému úřadu ve věci souhlasného vyjádření ke stacionárnímu zařízení. Odpověď zveřejníme, ať dopadne jakkoli.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
