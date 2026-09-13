@@ -554,6 +554,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Článek o ohlášeních](info/prispevky/2026-09-09-ohlaseni-mobilnich-zarizeni.md)
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">13. 9. 2026</span><span class="tl-tag">Rozbor</span>
+
+**Územní plán dává té ploše jediné hlavní využití, a tím je golfový areál.** Porovnali jsme regulativy ve všech třech verzích územního plánu Kouřimi. Hlavní využití "specifické využití pro golfový areál" i nepřípustné využití "skládky a skládkování materiálu" jsou od původního územního plánu z roku 2013 znak po znaku totožné. Pravidlo o zpevněných plochách do 1 % přinesla až Změna č. 1/2019, účinná od 5. ledna 2023. Povolení Magistrátu pro tři mobilní zařízení, největší s kapacitou **1 022 000 tun ročně a 2 800 tun denně**, přitom určují dvě místa, kde smějí pracovat, a stacionární zařízení v Molitorově zatím není. Právě o ně se u kraje žádá.
+
+[Článek o územním plánu a obou žádostech](info/prispevky/2026-09-13-uzemni-plan-golfovy-areal.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
 
