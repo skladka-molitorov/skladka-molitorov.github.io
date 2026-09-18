@@ -562,6 +562,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Článek o územním plánu a obou žádostech](info/prispevky/2026-09-13-uzemni-plan-golfovy-areal.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">15. 9. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Dopravní podnik odpověděl, že Molitorov jako staveniště svých staveb nikdo nevymezil.** Ptali jsme se na dvě stavby, které jsou v protokolech krajského úřadu mezi doloženými zakázkami: metro I.D v úseku Pankrác-Olbrachtova a rekonstrukci stropní desky stanice Florenc. Rozhodnutím č. j. DP/1618/26/900200/JK u obou uvádí, že **pozemky v katastrálním území Kouřim nebyly vymezeny jako staveniště ani jeho součást** v žádném rozhodnutí stavebního úřadu, že žádný vlastník pozemků v Kouřimi nebyl účastníkem řízení, v němž se staveniště vymezovalo, že **stavební deník neobsahuje zápis o drcení nebo recyklaci odpadů v Molitorově** a že sám žádné potvrzení o zařazení areálu do staveniště nevydal.
+
+[Článek o odpovědi Dopravního podniku](info/prispevky/2026-09-18-dopravni-podnik-staveniste.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
 
