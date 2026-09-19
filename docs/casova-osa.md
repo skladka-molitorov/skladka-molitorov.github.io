@@ -81,6 +81,14 @@ Zjišťovací řízení EIA k záměru **"Rozšíření stávajícího golfovéh
 Stavební úřad v Kouřimi vydává **dodatečné povolení terénních úprav "golfové hřiště"** (č. j. KOU-487/2021), právní moc 26. 8. 2021. Podle protokolů krajského úřadu se rozhodnutí vztahuje jen na část dnes zavezených pozemků.
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">5. 6. 2024</span><span class="tl-tag">MěÚ Kolín</span>
+
+Městský úřad Kolín vydává **závazné stanovisko ke změně stavby před dokončením** (č. j. MUKOLIN/OIÚP 72680/24-sindv1): rozšíření golfového hřiště z 32 603 m² o dalších 14 510 m² na celkovou plochu 47 113 m². Žádost přišla 28. 5. 2024, necelé tři měsíce před uplynutím původní lhůty k dokončení terénních úprav. Úřad záměr posoudil jako přípustný a nestanovil žádné podmínky.
+
+[Článek](info/prispevky/2026-09-19-rozsireni-hriste-2024.md) · [Závazné stanovisko (PDF)](assets/info/files/rozsireni_2024/MUKOLIN_OIUP_72680_24_zavazne_stanovisko_20240605.pdf)
+</div>
+
 <div class="tl-item tl-kontext" markdown>
 <span class="tl-date">2. 1. 2025</span><span class="tl-tag">Kontext</span>
 
@@ -200,6 +208,14 @@ včetně návrhu usnesení.
 Zastupitelstvo **schvaluje navržené usnesení 9 hlasy z 11 přítomných**. Město má podat nesouhlasné stanovisko kraji a podněty dozorovým orgánům do 30 dnů.
 
 [Zápisek ze zasedání](info/prispevky/2026-07-08-zasedani-zastupitelstva.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">13. 7. 2026</span><span class="tl-tag">Stavební úřad</span>
+
+Stavebník podal u stavebního úřadu v Kouřimi žádost, kterou úřad označuje jako **"žádost o prodloužení platnosti stavebního povolení"** a vede pod č. j. KOU-2081/2026. Údaj pochází ze sdělení stavebního úřadu č. j. KOU-2465/2026 ze dne 2. 9. 2026.
+
+[Článek](info/prispevky/2026-09-19-rozsireni-hriste-2024.md)
 </div>
 
 <div class="tl-item tl-rizeni" markdown>
