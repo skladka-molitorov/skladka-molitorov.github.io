@@ -141,6 +141,12 @@ Krajský úřad **přerušuje řízení pro zásadní vady žádosti** (č. j. 1
 [Výzva KÚSK (PDF)](assets/info/files/04_130814_2025_KUSK_20251209.pdf)
 </div>
 
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">29. 12. 2025</span><span class="tl-tag">ČIŽP</span>
+
+**Inspekce vrací věc krajskému úřadu k došetření** (sp. zn. SZ_089019/2025). Protokol z kontroly podle ní neuvádí původce odpadů, jejich množství ani druhy, což je pro přestupkové řízení a pro výši pokuty stěžejní.
+</div>
+
 <div class="tl-item tl-mesto" markdown>
 <span class="tl-date">25. 2. 2026</span><span class="tl-tag">Město</span>
 
@@ -194,6 +200,12 @@ včetně návrhu usnesení.
 Zastupitelstvo **schvaluje navržené usnesení 9 hlasy z 11 přítomných**. Město má podat nesouhlasné stanovisko kraji a podněty dozorovým orgánům do 30 dnů.
 
 [Zápisek ze zasedání](info/prispevky/2026-07-08-zasedani-zastupitelstva.md)
+</div>
+
+<div class="tl-item tl-rizeni" markdown>
+<span class="tl-date">15. 7. 2026</span><span class="tl-tag">Řízení KÚ</span>
+
+**Krajský úřad svůj závěr o přestupku jedné z firem zrušil.** Dodatkem k protokolu o kontrole č. j. 101134/2026/KUSK vzal zpět zjištění, že se společnost ŠTOCHL GROUP recyklace dopustila přestupku: odpady podle dodatku nepřevzala do vlastnictví a drcení prováděla jako službu na základě nabídky bez písemné smlouvy. Dodatek zároveň uvádí, že odpady byly přijímány "zejména však evidenčně" a "předávány další osobě k zasypávání".
 </div>
 
 <div class="tl-item tl-podani" markdown>
