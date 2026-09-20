@@ -8,13 +8,15 @@ hide:
 
 # Molitorov - stovky tisíc tun odpadu v zařízení, které nikdo nepovolil
 
-Stav k 27. 8. 2026
+Stav k 20. 9. 2026
 
 Všechny informace jsou průběžně zveřejňované na webu [https://skladka-molitorov.cz](https://skladka-molitorov.cz)
 
 ## Kauza v kostce
 
-Na pole u Molitorova se několik let vozí stavební odpad z okolí i z Prahy - oficiálně kvůli stavbě golfového hřiště. Závazné stanovisko z roku 2021 povolilo použít odpady v maximálním množství **do 10 000 tun** zemin a kamení. Jen za dva roky sem podle vlastních hlášení firem přijelo **425 389 tun** odpadů, tedy dvaačtyřicetkrát víc. Zařízení, které odpad za peníze přijímá a drtí, **nikdy nedostalo povolení** - to písemně konstatoval sám krajský úřad. Jedna z firem za to už dostala **pravomocnou pokutu 800 000 Kč**. Provoz přesto běží dál, pár set metrů od domů.
+Na pole u Molitorova se několik let vozí stavební odpad z okolí a z Prahy - oficiálně kvůli stavbě golfového hřiště. Závazné stanovisko z roku 2021 povolilo použít odpady v maximálním množství **do 10 000 tun** zemin a kamení. Jen za dva roky sem podle vlastních hlášení firem přijelo **425 389 tun** odpadů, tedy dvaačtyřicetkrát víc.
+
+Firmy co to v Molitorově provozují mají povolení **mobilních** zařízení od Magistrátu hl. m. Prahy, která platí jen pro dočasné nasazení na staveništi konkrétní stavby. **Pro trvale usazené zařízení v Molitorově, které odpad za peníze přijímá a drtí, povolení vydáno nebylo**. Jedna z firem za to už dostala **pravomocnou pokutu 800 000 Kč**. Provoz přesto běží dál, pár set metrů od domů.
 
 ## Kdo je kdo
 
@@ -29,6 +31,8 @@ V kauze vystupuje pět firem a šest úřadů:
 - **Academy Golf Molitorov s.r.o.** - objednatel stavby hřiště.
 
 O dodatečné povolení stacionárního zařízení požádaly u krajského úřadu **dvě** z nich, ŠTOCHL GROUP invest a ŠTOCHL GROUP recyklace, každá ve svém řízení.
+
+Z ohlášení provozu, která město poskytlo v srpnu 2026, vyplynulo jméno další firmy: **MUR PORTANT s.r.o.** ohlásila na tytéž pozemky mobilní zařízení s číslem CZA01493. Podrobně v článku [Deset ohlášení na třinácti listech](./info/prispevky/2026-09-09-ohlaseni-mobilnich-zarizeni.md).
 
 **Úřady:** Stavební úřad Kouřim dodatečně povolil „terénní úpravy" (2021). Magistrát hl. m. Prahy povolil mobilní drtičky - jen pro dočasné nasazení na staveništích. Krajský úřad Středočeského kraje kontroluje odpady a vede řízení o povolení. Česká inspekce životního prostředí trestá přestupky. Krajská hygienická stanice má na starosti hluk. A město Kouřim je účastníkem řízení.
 
@@ -59,7 +63,15 @@ Potvrzení stavebních firem, že areál Molitorov je "součástí staveniště"
 
 **Metro D a "papírová staveniště"**: podle protokolu byl na hlukový val směrem ke Kouřimi použit materiál ze stavby metra D (dokumentace Metrostav a.s. z 24. 6. 2022). Hlavně ale firma úřadu předložila přes dvacet potvrzení, že pole u Molitorova je "součástí staveniště" staveb od metra D přes klášter Sázava po ulice v Kolíně - tak obcházela podmínku, že mobilní drtička smí pracovat jen na staveništi konkrétní stavby. Podrobně v článku [Metro D končí v Kouřimi](./info/prispevky/2026-07-29-metro-d-konci-v-kourimi.md).
 
-**Územní plán a dodatečné povolení terénních úprav**: úplné znění územního plánu po Změně č. 2/2023 řadí u plochy, na které skládka leží, „skládky a skládkování materiálu" mezi nepřípustné využití. Nepřípustné je i zpevňování ploch mimo nezbytné komunikace. Terénní úpravy povolil stavební úřad v Kouřimi dodatečně rozhodnutím č. j. KOU-487/2021 (17. 8. 2021, právní moc 26. 8. 2021), a to podle protokolů krajského úřadu jen na části dnes zavezených pozemků.
+Dvanáct z těch potvrzení si vydaly firmy skupiny samy sobě a u metra I.D potvrzovaly staveniště tři různé firmy během osmnácti měsíců. Staveniště přitom vymezuje stavební úřad, ne firma. Podrobně v článku [Dvanáct potvrzení, která si firmy vydaly samy sobě](./info/prispevky/2026-09-05-potvrzeni-sobe-samemu.md).
+
+**Investor metra odpověděl: staveniště v Kouřimi nikdo nevymezil.** Dopravní podnik hl. m. Prahy rozhodnutím z 15. 9. 2026 u staveb metra I.D Pankrác - Olbrachtova a stropní desky Florenc uvedl, že pozemky v katastru Kouřim nebyly vymezeny jako staveniště, že žádný vlastník pozemků v Kouřimi nebyl účastníkem řízení o vymezení staveniště, že stavební deník neobsahuje zápis o drcení odpadů v Molitorově a že sám žádné potvrzení nevydal. Je to první vyjádření druhé strany těch potvrzení, tedy stavebníka. Podrobně v článku [Zeptali jsme se investora metra](./info/prispevky/2026-09-18-dopravni-podnik-staveniste.md).
+
+**Územní plán a dodatečné povolení terénních úprav**: úplné znění územního plánu po Změně č. 2/2023 řadí u plochy, na které skládka leží, „skládky a skládkování materiálu" mezi nepřípustné využití. Nepřípustné je i zpevňování ploch mimo nezbytné komunikace. Terénní úpravy povolil stavební úřad v Kouřimi dodatečně rozhodnutím č. j. KOU-487/2021 (17. 8. 2021, právní moc 26. 8. 2021), a to podle protokolů krajského úřadu jen na části dnes zavezených pozemků. Jak spolu souvisí plocha golfového areálu podle územního plánu, tři povolení Magistrátu pro mobilní zařízení a dvě žádosti o stacionární zařízení u kraje, rozebírá článek [Podle územního plánu je to golfový areál](./info/prispevky/2026-09-13-uzemni-plan-golfovy-areal.md). Jedno z těch povolení má roční kapacitu 1 022 000 tun a 2 800 tun denně.
+
+**Kontrolní prohlídka po třech letech.** Stavebník požádal 13. 7. 2026 o prodloužení platnosti dodatečného povolení (č. j. KOU-2081/2026). Stavební úřad v té souvislosti svolal výzvou z 28. 8. 2026 kontrolní prohlídku za účelem prověření rozsahu už provedených zemních prací a **prohlídka proběhla 15. 9. 2026**. Je to první kontrolní prohlídka od listopadu 2023. Protokol z ní zatím nemáme.
+
+**Rozšíření hřiště o hektar a půl.** V roce 2024 vydal odbor územního plánování MěÚ Kolín závazné stanovisko ke změně stavby před dokončením, kterým se plocha stavby golfového hřiště měla zvětšit z 32 603 m² o 14 510 m² na 47 113 m². Zda se o tu změnu někdo u stavebního úřadu ucházel a jak to dopadlo, nevíme. Podrobně v článku [V roce 2024 se řešilo rozšíření hřiště](./info/prispevky/2026-09-19-rozsireni-hriste-2024.md).
 
 ## Proč to ještě běží
 
@@ -71,7 +83,7 @@ Na pravomocné rozhodnutí jsme navázali: **24. 8. jsme Magistrátu hl. m. Prah
 
 **Magistrát předtím, 14. 8. 2026, podnět krajského úřadu ke změně nebo zrušení povolení mobilních drtiček zamítl** (č. j. MHMP 806869/2026). Obě povolení dál platí a řízení o jejich zrušení zahájeno nebylo. V téže listině ale úřad napsal, že mají-li být v místě drceny zeminy z jiných staveb, "nelze tak činit v režimu mobilních zařízení povolených OCP MHMP", a že navážet lze "pouze v množství odpovídajícím potřebě dané povoleným projektem stavebního záměru". Kontrolu u firem stavějících metro I.D nemá v plánu kontrol na rok 2026. Podrobně v článku [Magistrát zamítl podnět](./info/prispevky/2026-08-18-magistrat-zamitl-podnet.md).
 Magistrát 30. 7. 2026 sdělil, že **od 1. 1. 2022 dosud neprovedl u zhotovitelů stavby metra I.D ani u investora žádnou kontrolu** na úseku odpadového hospodářství. Roční hlášení o tom, kam odpad z metra odjel, odmítl vydat s odkazem na zákon o odpadech, proti čemuž jsme podali odvolání k Ministerstvu životního prostředí. Stejná hlášení odepřelo i samotné ministerstvo (5. 8. 2026) - podali jsme rozklad k ministrovi (7. 8. 2026). Podrobně v článku [Magistrát Prahy neudělal ani jednu kontrolu](./info/prispevky/2026-07-31-odpoved-magistratu-prahy.md).
-Krajská hygienická stanice písemně potvrdila (6. 8. 2026, č. j. KHSSC 56113/2026), že za celou dobu provozu **neproběhlo žádné měření hluku**, žádné není v plánu - a že o hygienické stanovisko, které je povinným podkladem běžících řízení o povolení, dosud nikdo nepožádal.
+Krajská hygienická stanice písemně potvrdila (6. 8. 2026, č. j. KHSSC 56113/2026), že **do té doby neproběhlo za celou dobu provozu žádné měření hluku** - a že o hygienické stanovisko, které je povinným podkladem běžících řízení o povolení, dosud nikdo nepožádal. Kontrolu u provozovatele zahájila 13. 8. 2026, měření hluku proběhlo **4. 9. 2026** a na jeho výsledek čekáme.
 Drtička v Molitorově jela i v červenci a srpnu 2026, včetně sobot a státního svátku, hluk je slyšet 1,4 km daleko v Kouřimi. [Video provozu drtičky/třídičky](./info/prispevky/2026-07-17-provoz-drticky.md)
 Souběžně u krajského úřadu běží dvě řízení o dodatečné povolení provozu (sp. zn. SZ_130814/2025/KUSK a SZ_130820/2025/KUSK) - obě přerušená, protože žádosti mají zásadní vady. Krajský úřad v protokolech uvedl, že "společenská škodlivost nemusí být značná".
 
@@ -104,21 +116,20 @@ V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjád
 - 32 603 m² - rozsah řešeného území záměru podle dokumentace EIA, tedy plocha, na kterou se vztahuje dodatečné povolení. Není to plocha navážky, tu z veřejných listin zjistit nelze
 - odhad krajského úřadu: celkem až ~640 000 tun
 - více než 8 měsíců komerčního příjmu odpadu před podáním žádosti o povolení (ceník účinný 2. 1. 2025, žádost 22. 9. 2025)
-- 0 kontrol Magistrátu hl. m. Prahy u zhotovitelů metra I.D na úseku odpadů od 1. 1. 2022, 0 kontrol živnostenského úřadu u firem skupiny od 2022, 0 měření hluku za celou dobu provozu
+- 0 kontrol Magistrátu hl. m. Prahy u zhotovitelů metra I.D na úseku odpadů od 1. 1. 2022, 0 kontrol živnostenského úřadu u firem skupiny od 2022. Měření hluku neproběhlo za celou dobu provozu ani jednou až do srpna 2026, první proběhlo 4. 9. 2026 v rámci kontroly hygienické stanice
+- 1 022 000 tun ročně - kapacita jednoho z povolení Magistrátu hl. m. Prahy pro mobilní zařízení, 2 800 tun denně
+- 5,06 ha - plocha bez vegetačního krytu podle družicových snímků Sentinel-2 v srpnu 2026, objem navážky orientačně 419 000 m³
 - 1,4 km - vzdálenost, na kterou je slyšet drtička i přes zavřená okna. Nejbližší domy v Molitorově jsou 300-400 m od zdroje
 
 ## Co bude dál
 
-- Petici "STOP skládce v Molitorově" podepsalo **703 lidí, z toho 600 ze Středočeského kraje**. **28. 8. 2026 byla předána** na podatelně krajského úřadu i s originály 44 podpisových archů. **Kraj odpověděl za pět dní** (stanovisko z 2. 9. 2026): řízení o povolení vede, navážení podle svých slov zastavit nemůže a kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi - oba na ni musí do 30 dnů písemně odpovědět.
-- 26. 8. 2026 **uplynula prodloužená lhůta k dokončení terénních úprav**. Závěrečná kontrolní prohlídka dosud neproběhla, ptáme se stavebního úřadu, zda stavebník dokončení oznámil.
-- do 10. 9. 2026 - město musí vyhotovit zápis ze zasedání 26. 8. a uložit ho k nahlédnutí. Porovnáme ho s vlastním záznamem.
-- začátek září 2026 - starosta na zasedání slíbil "během příštího týdne" písemně sdělit kraji, že město souhlasné vyjádření nevydalo, a vyžádat si kopii listiny ze spisu. Žádostí o informace ze 7. 9. jsme se města zeptali, zda se to stalo. Odpověď má přijít do 22. 9. a zveřejníme ji.
-- konec srpna 2026 - živnostenské úřady v Kolíně a na Praze 4 nám mají sdělit, jak naložily s podnětem k provedení kontroly provozovny (doplněn 10. 8. o sedm ohlášení provozu, která firmy samy podaly krajskému úřadu).
-- konec srpna nebo září 2026 - rozhodnutí Ministerstva životního prostředí o našem odvolání a rozhodnutí ministra o rozkladu ve věci hlášení o odpadech z metra
-- 8.9. 2026 - konec lhůty pro odpovědi na žádosti odeslané 23. 8.: Krajské správě a údržbě silnic k opravám vozovky a Úřadu městské části Praha 4 k dokladům, které mu má stavebník metra I.D průběžně předkládat
-- 23.9. 2026 - Úřad městské části Praha 4 nám má sdělit, jak naložil s podnětem ke kontrole původců odpadu ze stavby metra I.D a provozovatelů zařízení sídlících v jeho obvodu. Do téhož dne žádáme vyrozumění Magistrátu hl. m. Prahy k podnětu na zrušení povolení mobilních drtiček podle § 25 zákona o odpadech
-- 1.10. 2026 - mimořádné zasedání zastupitelstva Kouřimi
-- 31.10. 2026 - končí lhůta provozovatele k doplnění vadných žádostí o povolení
+- Petici "STOP skládce v Molitorově" podepsalo **703 lidí, z toho 600 ze Středočeského kraje**. **28. 8. 2026 byla předána** na podatelně krajského úřadu i s originály 44 podpisových archů. **Kraj odpověděl za pět dní** (stanovisko z 2. 9. 2026): řízení o povolení vede, navážení podle svých slov zastavit nemůže a kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi. Jejich lhůta na písemnou odpověď běží do začátku října.
+- Po 21. 9. 2026 zveřejníme **odpovědi kandidátů** do Senátu i do kouřimského zastupitelstva na otázky, které jsme jim 7. 9. položili. Vyjdou doslova a bez komentáře.
+- do 22. 9. 2026 - město má odpovědět, zda splnilo, co starosta slíbil na zasedání: písemně sdělit kraji, že souhlasné vyjádření nevydalo, a vyžádat si kopii listiny ze spisu. Odpověď zveřejníme.
+- do 23. 9. 2026 - Magistrát hl. m. Prahy nám má sdělit, jak naložil s podnětem na zrušení povolení mobilních drtiček podle § 25 zákona o odpadech, doplněným 7. 9. o přehled ohlášení z let 2023 až 2026. Do téhož dne má odpovědět Úřad městské části Praha 4 na podnět ke kontrole původců odpadu ze stavby metra I.D.
+- **1. 10. 2026** - mimořádné zasedání zastupitelstva Kouřimi. Na programu je mimo jiné zápis z posledního řádného zasedání.
+- říjen 2026 - protokol z kontrolní prohlídky z 15. 9. Podle kontrolního řádu se vyhotovuje do 30 dnů od posledního kontrolního úkonu.
+- **31. 10. 2026** - končí lhůta provozovatele k doplnění vadných žádostí o povolení.
 - Podle protokolu krajského úřadu z podzimu 2025 zpracovatel avizoval přípravu upravené dokumentace pro nové zjišťovací řízení EIA. Krajský úřad 5. 8. 2026 potvrdil, že žádnou dosud neobdržel (č. j. 111303/2026/KUSK). Sledujeme to - a až se objeví, spolek se zapojí a bude požadovat plné posouzení vlivů.
 
 ## Spis - klíčové dokumenty s č. j.
@@ -148,7 +159,8 @@ V protokolu krajského úřadu se přitom objevuje zmínka o "souhlasném vyjád
 - **Město Kouřim podruhé:** kdo vydal "souhlasné vyjádření města ke zřízení stacionárního zařízení", které je v kontrolním spisu kraje, když starosta na zasedání uvedl, že město žádné nevydalo? Proč je usnesení 16/2026 půl roku nesplněné?
 - **Stavební úřad Kouřim:** jak se navážka srovnává se zákazem skládkování v územním plánu?
 - **Krajský úřad Středočeského kraje:** proč vede řízení o dodatečné povolení, místo aby vymohl zastavení nepovoleného provozu? Co znamená formulace "společenská škodlivost nemusí být značná"?
-- **Metrostav / Dopravní podnik hl. m. Prahy:** kolik materiálu ze stavby metra D skončilo v Molitorově a v jakém režimu?
+- **Zhotovitelé stavby metra I.D:** investor 15. 9. 2026 sdělil, že pozemky v Kouřimi jako staveniště nevymezil a že stavební deník zápis o drcení odpadů v Molitorově neobsahuje. Kdo tedy vydal potvrzení, že Molitorov je "součástí staveniště", a kolik materiálu ze stavby sem skutečně odjelo?
+- **Stavební úřad Kouřim:** co ukázala kontrolní prohlídka z 15. 9. 2026 a jak se její zjištění srovnávají s rozsahem, který dodatečné povolení z roku 2021 připouští?
 
 ## Kdo jsme
 
