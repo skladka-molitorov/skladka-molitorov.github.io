@@ -9,7 +9,7 @@ hide:
 
 ## O co jde
 
-V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drcení stavebního odpadu, které nikdy nedostalo povolení podle zákona o odpadech. Jen za roky 2023 a 2024 sem podle vlastních hlášení firem přijelo **425 389 tun** odpadů, terén má podle projektové dokumentace vyrůst až o 27 metrů. Hluk a prašnost obtěžují obyvatele Molitorova, Kouřimi a Bulánky. Nejbližší domy v Molitorově jsou 300 až 400 metrů od zdroje, do Kouřimi je drtičku slyšet na 1,4 kilometru.
+V areálu Golf Molitorov u Kouřimi je provozováno zařízení k příjmu a drcení stavebního odpadu, které funguje bez povolení podle zákona o odpadech. Jen za roky 2023 a 2024 sem podle vlastních hlášení firem přijelo **425 389 tun** odpadů, terén má podle projektové dokumentace vyrůst až o 27 metrů. Hluk a prašnost obtěžují obyvatele Molitorova, Kouřimi a Bulánky. Nejbližší domy v Molitorově jsou 300 až 400 metrů od zdroje, do Kouřimi je drtičku slyšet na 1,4 kilometru.
 
 !!! note "Petice předána kraji - 703 podpisů"
 
@@ -24,17 +24,16 @@ Zařízení dosud nemá povolení provozu podle § 21 zákona č. 541/2020 Sb., 
 
 ![Zařízení žádající teprve o povolení](./assets/img/skladka_20260826.jpg){ align=center }
 
-!!! warning "Stav k 3. 9. 2026"
+!!! warning "Stav k 20. 9. 2026"
 
-    - **Kraj odpověděl na petici se 703 podpisy za pět dní.** Navážení podle svých slov zastavit nemůže, kopii petice postoupil inspekci a stavebnímu úřadu v Kouřimi - oba musí do 30 dnů písemně odpovědět. [Co kraj odpověděl](./info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)
-    - **26. 8. proběhlo poslední řádné zasedání zastupitelstva před volbami.** Poprvé přišli i zástupci firem, na část otázek odmítli odpovědět a před koncem jednání odešli. Starosta uvedl, že povolení dle § 21 pro Molitorov "není". Dva návrhy usnesení k Molitorovu neprošly, druhému chyběl jediný hlas. [Rekapitulace zasedání](./info/prispevky/2026-08-27-zasedani-rekapitulace.md)
-    - Město podle starosty neobdrželo svůj podíl **400 000 Kč** z [pravomocné pokuty ČIŽP](./info/prispevky/2026-08-25-pokuta-cizp-pravomocna.md) a o rozhodnutí "oficiálně neví".
-    - **Mimořádné zasedání zastupitelstva bude ve čtvrtek 1. 10. 2026.**
-    - 26. 8. uplynula lhůta k dokončení terénních úprav podle dodatečného povolení z roku 2021. Ptáme se stavebního úřadu, co bude dál.
-    - Zařízení nemá povolení provozu dle § 21 zákona o odpadech, řízení u KÚSK je přerušeno. Lhůta pro doplnění žádosti běží do **31. 10. 2026**.
-    - Magistrát hl. m. Prahy [14. 8. zamítl podnět](./info/prispevky/2026-08-18-magistrat-zamitl-podnet.md) ke změně nebo zrušení povolení mobilních drtiček. Obě povolení dál platí.
-    - Kraj v roce 2024 zaplatil za opravy silnice do Molitorova [10,15 milionu korun](./info/prispevky/2026-08-23-silnice-kourim-molitorov.md). 1.8. jsme se správy silnic zeptali, co má k příčině poškození.
-    - 16.8. o kauze psaly [Novinky.cz](./info/prispevky/2026-08-19-molitorov-na-novinkach.md)
+    - **15. 9. byl stavební úřad na místě.** Kontrolní prohlídku svolal výzvou z 28. 8. a jejím účelem bylo prověřit rozsah už provedených zemních prací. Je to první kontrolní prohlídka od listopadu 2023. Protokol z ní zatím nemáme.
+    - **Stavebník požádal 13. 7. o prodloužení povolení terénních úprav.** Ve stejném období se podle listin z roku 2024 řešilo i rozšíření golfového hřiště o hektar a půl. [Jak to bylo s rozšířením](./info/prispevky/2026-09-19-rozsireni-hriste-2024.md)
+    - **Dopravní podnik hl. m. Prahy sdělil, že pozemky v Kouřimi nikdo jako staveniště metra nevymezil.** Odpověděl na naši žádost 15. 9. u obou staveb, u kterých firmy vydávaly potvrzení o "součásti staveniště". [Co odpověděl investor metra](./info/prispevky/2026-09-18-dopravni-podnik-staveniste.md)
+    - **Podle územního plánu je to plocha golfového areálu, u kraje se pro ni žádá o zařízení na odpady.** Povolení, která firmy drží od Magistrátu, platí pro mobilní zařízení u původce odpadů. [Územní plán a žádosti](./info/prispevky/2026-09-13-uzemni-plan-golfovy-areal.md)
+    - **Mimořádné zasedání zastupitelstva bude ve čtvrtek 1. 10. 2026.** Na posledním řádném 26. 8. starosta uvedl, že povolení dle § 21 pro Molitorov "není". Dva návrhy usnesení k Molitorovu neprošly. [Rekapitulace zasedání](./info/prispevky/2026-08-27-zasedani-rekapitulace.md)
+    - Řízení o povolení provozu dle § 21 zákona o odpadech je u krajského úřadu **přerušeno**, lhůta k doplnění žádosti běží do **31. 10. 2026**. 26. 8. zároveň uplynula lhůta k dokončení terénních úprav podle dodatečného povolení z roku 2021.
+    - **Petici se 703 podpisy postoupil kraj inspekci a stavebnímu úřadu**, jejich lhůta na písemnou odpověď běží do začátku října. [Co kraj odpověděl](./info/prispevky/2026-09-03-kraj-odpovedel-na-petici.md)
+    - **Kandidátům do Senátu i do kouřimského zastupitelstva jsme 7. 9. položili otázky ke skládce.** Odpovědi zveřejníme po uplynutí lhůty, tedy po 21. 9. [Otázky kandidátům v Kouřimi](./info/prispevky/2026-09-07-otazky-kandidatum-v-kourimi.md) · [Otázky kandidátům do Senátu](./info/prispevky/2026-09-07-otazky-kandidatum-do-senatu.md)
 
 ![Skladka mezi roky 2023 a 2026](./assets/img/2023-2026.jpg){ align=center }
 
