@@ -229,3 +229,16 @@
 .md-typeset .tl-period .tl-item::before {
   left: calc(var(--tl-axis) - 2.2rem);
 }
+
+/* Video na výšku (např. 9:16 z mobilu): přehrávač se řídí výškou okna,
+   ne šířkou textového sloupce. Plugin mkdocs-video se u těchto videí
+   nepoužívá, v článku je přímo element <video class="video-na-vysku">. */
+.md-typeset video.video-na-vysku {
+  display: block;
+  margin: 1.2rem auto;
+  width: auto;
+  max-width: 100%;
+  max-height: 70vh;
+  background: #000;
+  border-radius: 0.2rem;
+}

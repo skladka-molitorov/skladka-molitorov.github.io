@@ -598,6 +598,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Článek o odpovědi Dopravního podniku](info/prispevky/2026-09-18-dopravni-podnik-staveniste.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">21. 9. 2026</span><span class="tl-tag">Volby</span>
+
+**Na sedm otázek k Molitorovu odpověděli lídři všech tří kouřimských kandidátek.** Otázky jsme rozeslali 7. září ve stejném znění a se stejnou lhůtou, která uplynula v pondělí 21. září. Odpovědi zveřejňujeme doslova a v plném znění, u každého lídra všech sedm otázek a pod nimi jeho text. Součástí je i videoodpověď Jana Buga, zveřejněná nesestříhaná. Spolek nikoho nedoporučuje a odpovědi nehodnotí.
+
+[Odpovědi kouřimských kandidátek](info/prispevky/2026-09-22-odpovedi-kandidatu-v-kourimi.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
 
