@@ -606,6 +606,14 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Odpovědi kouřimských kandidátek](info/prispevky/2026-09-22-odpovedi-kandidatu-v-kourimi.md)
 </div>
 
+<div class="tl-item tl-kontext" markdown>
+<span class="tl-date">23. 9. 2026</span><span class="tl-tag">Média</span>
+
+O Molitorově napsaly **Seznam Zprávy** - druhý text o kauze v celostátním médiu, ráno hlavní zpráva titulní strany. Článek Vojtěcha Blažka stojí mimo jiné na pravomocné pokutě 800 000 Kč pro ŠTOCHL GROUP invest, na podmínkách povolení mobilních drtiček a na petici. Podle jednatele Petra Štochla firma proti pokutě podala správní žalobu.
+
+[Kde najdete listiny, o které se článek opírá](info/prispevky/2026-09-23-molitorov-na-seznam-zpravach.md)
+</div>
+
 <div class="tl-item tl-budouci" markdown>
 <span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
 
