@@ -604,6 +604,10 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 **Na sedm otázek k Molitorovu odpověděli lídři všech tří kouřimských kandidátek.** Otázky jsme rozeslali 7. září ve stejném znění a se stejnou lhůtou, která uplynula v pondělí 21. září. Odpovědi zveřejňujeme doslova a v plném znění, u každého lídra všech sedm otázek a pod nimi jeho text. Součástí je i videoodpověď Jana Buga, zveřejněná nesestříhaná. Spolek nikoho nedoporučuje a odpovědi nehodnotí.
 
 [Odpovědi kouřimských kandidátek](info/prispevky/2026-09-22-odpovedi-kandidatu-v-kourimi.md)
+
+**Z kandidátů do Senátu za obvod 42 Kolín odpověděli čtyři ze sedmi.** Otázky odešly všem sedmi 7. září se stejnou lhůtou. Odpovědi Antonína Duška, Michaela Kašpara, Jiřího Rynekra a Františka Třeštika zveřejňujeme doslova a v plném znění, u zbylých tří kandidátů uvádíme, že odpověď do 21. září nepřišla.
+
+[Odpovědi kandidátů do Senátu](info/prispevky/2026-09-24-odpovedi-kandidatu-do-senatu.md)
 </div>
 
 <div class="tl-item tl-kontext" markdown>

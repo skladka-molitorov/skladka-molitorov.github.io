@@ -186,3 +186,5 @@ Ano, nechceme nic skrývat. Měření hluku a dalších měřitelných negativn�
 K závazkům se po volbách vrátíme, jak jsme slíbili v článku s otázkami.
 
 Stejných sedm otázek, jen položených na roli senátora, dostali 7. září také [kandidáti do Senátu](2026-09-07-otazky-kandidatum-do-senatu.md) za obvod Kolín, do kterého Kouřim patří. Jejich odpovědi zveřejníme v samostatném článku.
+
+*Úprava 24. 9. 2026: odpovědi kandidátů do Senátu jsme zveřejnili v [samostatném článku](2026-09-24-odpovedi-kandidatu-do-senatu.md).*
