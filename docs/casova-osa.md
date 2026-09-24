@@ -605,7 +605,7 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 
 [Odpovědi kouřimských kandidátek](info/prispevky/2026-09-22-odpovedi-kandidatu-v-kourimi.md)
 
-**Z kandidátů do Senátu za obvod 42 Kolín odpověděli čtyři ze sedmi.** Otázky odešly všem sedmi 7. září se stejnou lhůtou. Odpovědi Antonína Duška, Michaela Kašpara, Jiřího Rynekra a Františka Třeštika zveřejňujeme doslova a v plném znění, u zbylých tří kandidátů uvádíme, že odpověď do 21. září nepřišla.
+**Z kandidátů do Senátu za obvod 42 Kolín odpověděli čtyři ze sedmi.** Otázky odešly všem sedmi 7. září se stejnou lhůtou. Odpovědi Antonína Duška, Michaela Kašpara, Jiřího Rynekra a Františka Třeštika zveřejňujeme doslova a v plném znění, u zbylých tří kandidátů uvádíme, že odpověď do 21. září nepřišla. Odpověď Romana Schulze přišla po lhůtě a je v článku doplněna.
 
 [Odpovědi kandidátů do Senátu](info/prispevky/2026-09-24-odpovedi-kandidatu-do-senatu.md)
 </div>

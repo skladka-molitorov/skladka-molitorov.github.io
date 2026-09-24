@@ -10,7 +10,7 @@ tags:
 
 # Odpovědi kandidátů do Senátu na sedm otázek k Molitorovu
 
-Sedm otázek k Molitorovu dostali 7. září všichni kandidáti do Senátu za obvod 42 Kolín. Lhůta uplynula v pondělí 21. září a odpověděli čtyři ze sedmi. Odpovědi zveřejňujeme doslova a v plném znění, u každého kandidáta všech sedm otázek v pořadí a pod nimi jeho odpověď.
+Sedm otázek k Molitorovu dostali 7. září všichni kandidáti do Senátu za obvod 42 Kolín. Lhůta uplynula v pondělí 21. září a odpověděli čtyři ze sedmi, pátá odpověď přišla po lhůtě. Odpovědi zveřejňujeme doslova a v plném znění, u každého kandidáta všech sedm otázek v pořadí a pod nimi jeho odpověď.
 
 <!-- more -->
 
@@ -18,7 +18,7 @@ Sedm otázek k Molitorovu dostali 7. září všichni kandidáti do Senátu za o
 
 Sedmého září šlo e-mailem všem sedmi registrovaným kandidátům [sedm otázek](2026-09-07-otazky-kandidatum-do-senatu.md) s lhůtou do pondělí 21. září 2026.
 
-Čtyři odpovědi dorazily ve lhůtě. Od tří kandidátů jsme do 21. září odpověď neobdrželi.
+Čtyři odpovědi dorazily ve lhůtě. Od tří kandidátů jsme do 21. září odpověď neobdrželi. Odpověď Romana Schulze přišla po lhůtě, do článku jsme ji doplnili dodatečně.
 
 Pořadí v článku je abecední, stejné jako u otázek. Text každé odpovědi přebíráme tak, jak byl napsán. Kde kandidát odpověď k otázkám sám nerozčlenil, uvádíme u otázky, kde jeho text najdete.
 
@@ -219,7 +219,49 @@ Kandidát na tuto otázku odpověděl v rámci odpovědi na otázku 2.
 ---
 ### Roman Schulz (ODS s podporou TOP 09) { #schulz }
 
-Do 21. 9. 2026 jsme odpověď neobdrželi.
+Odpověď přišla po lhůtě.
+
+#### 1. Znalost případu
+
+> Znáte případ navážky v Molitorově? Odkud a jak dlouho?
+
+Nebudu se tvářit, že jsem o tomto problému věděl už dříve. První informaci jsem měl od Vás a pak jsem se vyptával při svých návštěvách regionu. Co jsem zjistil, mě skutečně znepokojuje a jsem připraven pomoci. O věci jsem se bavil s krajským zastupitelem a předsedou Výboru pro životní prostředí a zemědělství Karlem Bendlem. Slíbil mi, že zjistí co nejvíce informací a to, jak se k tomu staví Středočeský kraj.
+
+#### 2. První rok mandátu
+
+> Co konkrétně v této věci uděláte v prvním roce mandátu? Zajímají nás kroky s datem a adresátem, například jednání s ministrem životního prostředí, s ČIŽP nebo s hejtmankou, ne obecná podpora.
+
+Nechci něco slibovat a čekat, až jestli se senátorem stanu. Připravím dopis už nyní a pošlu ho panu ministru Červenému a panu řediteli ČIŽP Strakovi.
+
+#### 3. Senátní výbor a veřejné slyšení
+
+> Podpoříte projednání případu ve Výboru pro územní rozvoj, veřejnou správu a životní prostředí Senátu, případně veřejné slyšení k ukládání výkopových zemin a stavebních odpadů na terén? (ano/ne)
+
+Ano. To je to nejmenší.
+
+#### 4. Změna zákona
+
+> Zákony dnes neumožňují rychle vymoci odstranění odpadu uloženého v rozporu se zákonem, řízení běží roky a materiál přibývá. Jakou změnu zákona byste podpořil(a)? A jak byste hlasoval(a) o novele stavebního zákona, kterou Senát 20. srpna zamítl a Sněmovna o ní tento týden znovu rozhoduje?
+
+Přiznám se, že nejsem odborník na stavební zákon. Neumím proto říct, s jakou úpravou bych přišel. Hovořil jsem o hlasování s paní senátorkou Smotlachovou a musím souhlasit s jejím názorem, že zvolená cesta nebyla dobře připravená z mnoha důvodů, a proto hlasovala proti. Mně osobně vadí i zvolená forma, kdy se tzv. poslaneckým návrhem znemožnilo mnoha subjektům k tak složitému návrhu vůbec vyjádřit.
+
+#### 5. Zásypy a terénní úpravy
+
+> Zásypy a terénní úpravy jsou nejlevnější cesta, kudy mizí zemina z velkých staveb, aniž kdokoli průběžně kontroluje množství a původ. Co s tím jako senátor(ka) uděláte?
+
+Opět nechci slibovat, protože nejsem na toto odborník a nebylo by to fér.
+
+#### 6. Aby úřady konaly
+
+> Obyvatelé podali za dva měsíce desítky podnětů a žádostí, od města po ministerstvo. Část úřadů odpovídá formálně nebo věc přeposílá jinam. Jak konkrétně můžete jako senátor(ka) pomoci, aby úřady konaly?
+
+To vím přesně. Být otravný a nenechat se odbýt. Ať už v kontaktu s krajem, inspekcí nebo ministerstvem. Senátor se odmítá hůře, než starosta. Jde o naplnění mé představy senátora jako spojky mezi regionem a tzv. vysokou politikou.
+
+#### 7. Návštěva Molitorova
+
+> Přijedete se do Molitorova podívat a setkat se s obyvateli? Nabízíme prohlídku a podklady kdykoli, před volbami i po nich. (ano/ne, kdy)
+
+Určitě bych se rád podíval na místo. Bohužel nedokážu říct, jestli to zvládnu do voleb, ale slibuji Vám návštěvu minimálně po volbách.
 
 ---
 ### Pavel Sehnal (Aliance pro budoucnost) { #sehnal }
