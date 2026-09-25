@@ -23,11 +23,11 @@ Jinými slovy: pod územím jsou vrstvy, ze kterých se čerpá pitná voda pro 
 
 Obojí se dá ověřit ve veřejném Hydroekologickém informačním systému VÚV TGM ([heis.vuv.cz](https://heis.vuv.cz)). Takhle vypadá vymezení zranitelných oblastí kolem Kouřimi:
 
-[![Zranitelné oblasti kolem Kouřimi podle HEIS VÚV](../../assets/img/voda-heis-zranitelne-oblasti-20260728.jpg)](../../assets/img/voda-heis-zranitelne-oblasti-20260728.jpg)
+![Zranitelné oblasti kolem Kouřimi podle HEIS VÚV](../../assets/img/voda-heis-zranitelne-oblasti-20260728.jpg)
 
 A takhle ochranná pásma vodních zdrojů "Kouřim studny", stanovená rozhodnutím ONV Kolín vod-o/445/1984 už v roce 1984 a platná dodnes:
 
-[![Ochranná pásma vodních zdrojů Kouřim studny podle HEIS VÚV](../../assets/img/voda-heis-ochranna-pasma-20260728.jpg)](../../assets/img/voda-heis-ochranna-pasma-20260728.jpg)
+![Ochranná pásma vodních zdrojů Kouřim studny podle HEIS VÚV](../../assets/img/voda-heis-ochranna-pasma-20260728.jpg)
 
 Oba snímky jsou z 28. července 2026.
 

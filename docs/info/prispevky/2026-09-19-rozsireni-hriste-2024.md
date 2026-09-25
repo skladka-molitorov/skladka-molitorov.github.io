@@ -38,7 +38,7 @@ Podkladem byl podle odůvodnění územní plán Kouřimi po Změně č. 1, úč
 
 Takhle plocha Z19 vypadá v hlavním výkresu územního plánu. Je to šrafované území mezi Molitorovem a Kouřimí po obou stranách silnice III/33420, s kódem využití Rg:
 
-[![Zastavitelná plocha Z19 v hlavním výkresu územního plánu Kouřimi, úplné znění po Změně č. 1](../../assets/img/uzemni-plan-z19-vyrez-20260919.png)](../../assets/img/uzemni-plan-z19-vyrez-20260919.png)
+![Zastavitelná plocha Z19 v hlavním výkresu územního plánu Kouřimi, úplné znění po Změně č. 1](../../assets/img/uzemni-plan-z19-vyrez-20260919.png)
 
 Poslední odstavec listiny je poznámka:
 

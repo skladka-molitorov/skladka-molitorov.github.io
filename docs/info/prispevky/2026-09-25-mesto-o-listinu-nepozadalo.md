@@ -20,13 +20,13 @@ Na zasedání zastupitelstva 26. srpna starosta slíbil, že si město od krajsk
 
 Odpověď se vejde do pár řádků:
 
-[![Výřez z odpovědi města Kouřim sp. zn. KOU-2771/2026 z 22. 9. 2026: "Vážený, k Vašim dotazům: 1. město nevydalo krajskému úřadu žádnou takovou písemnost 2. město nepožádalo krajský úřad o žádnou kopii 3. město nedostalo odpověď od krajského úřadu na body 1. a 2."](../../assets/img/20260922-odpoved-mesto-kou-2771.png)](../../assets/img/20260922-odpoved-mesto-kou-2771.png)
+![Výřez z odpovědi města Kouřim sp. zn. KOU-2771/2026 z 22. 9. 2026: "Vážený, k Vašim dotazům: 1. město nevydalo krajskému úřadu žádnou takovou písemnost 2. město nepožádalo krajský úřad o žádnou kopii 3. město nedostalo odpověď od krajského úřadu na body 1. a 2."](../../assets/img/20260922-odpoved-mesto-kou-2771.png)
 
 ## Na co jsme se ptali
 
 Ptali jsme se jen na to, co starosta na zasedání slíbil. Tedy jestli město po 26. srpnu kraji napsalo, že souhlasné vyjádření nevydalo, jestli si od kraje vyžádalo kopii té listiny a jestli mu kraj už odpověděl. K prvním dvěma bodům jsme připsali, že když písemnost neexistuje, stačí nám to sdělit. Město to sdělilo.
 
-[![Výřez z žádosti spolku podle zákona č. 106/1999 Sb. ze 7. 9. 2026: "Žádám o: 1. kopii písemnosti, kterou město Kouřim po 26. 8. 2026 sdělilo Krajskému úřadu Středočeského kraje, že souhlasné vyjádření ke zřízení stacionárního zařízení k nakládání s odpady v Molitorově nevydalo, s datem odeslání a číslem jednacím, 2. kopii písemnosti, kterou město Kouřim po 26. 8. 2026 požádalo Krajský úřad Středočeského kraje o kopii listiny vedené v kontrolním spisu sp. zn. SZ_089019/2025/KUSK jako vyjádření města, s datem odeslání a číslem jednacím, 3. kopii odpovědi krajského úřadu na písemnosti podle bodů 1 a 2 včetně příloh, pokud městu došla. Nebyla-li některá z písemností podle bodů 1 a 2 vyhotovena nebo odeslána, žádám o sdělení této skutečnosti."](../../assets/img/20260907-zadost-106-mesto-body.png)](../../assets/img/20260907-zadost-106-mesto-body.png)
+![Výřez z žádosti spolku podle zákona č. 106/1999 Sb. ze 7. 9. 2026: "Žádám o: 1. kopii písemnosti, kterou město Kouřim po 26. 8. 2026 sdělilo Krajskému úřadu Středočeského kraje, že souhlasné vyjádření ke zřízení stacionárního zařízení k nakládání s odpady v Molitorově nevydalo, s datem odeslání a číslem jednacím, 2. kopii písemnosti, kterou město Kouřim po 26. 8. 2026 požádalo Krajský úřad Středočeského kraje o kopii listiny vedené v kontrolním spisu sp. zn. SZ_089019/2025/KUSK jako vyjádření města, s datem odeslání a číslem jednacím, 3. kopii odpovědi krajského úřadu na písemnosti podle bodů 1 a 2 včetně příloh, pokud městu došla. Nebyla-li některá z písemností podle bodů 1 a 2 vyhotovena nebo odeslána, žádám o sdělení této skutečnosti."](../../assets/img/20260907-zadost-106-mesto-body.png)
 
 Odpověď se tedy týká období mezi zasedáním a podáním naší žádosti 7. září. O listině z krajského spisu neříká nic. Kdo ji vydal, kdy a co je v ní, dál nevíme.
 
@@ -38,7 +38,7 @@ Kopii té listiny jsme chtěli přímo od kraje. Kraj ji rozhodnutím č. j. 115
 
 Jak slib na zasedání zazněl, jsme popsali [v článku z 10. září](./2026-09-10-slib-starosty-vyjadreni-mesta.md), průběh celého zasedání [v rekapitulaci z 27. srpna](./2026-08-27-zasedani-rekapitulace.md).
 
-[![Výřez z článku z 10. září, oddíl Co řekl starosta: Na zasedání zastupitelstva 26. srpna jsme tu větu z protokolu přečetli nahlas a zeptali se, zda město takové vyjádření vydalo. Starosta odpověděl: "Já si myslím, že asi ne. Určitě, žádný speciální jsme nepodávali." Zeptali jsme se dál, zda město kraji písemně sdělí, že vyjádření nevydalo. Starosta řekl "Určitě". Na otázku, do kdy, odpověděl: "Tak zejtra to určitě dělat nebudem, dáme to na příští týden." Na otázku, zda si město od kraje vyžádá kopii listiny, která je ve spisu vedena pod jménem města, řekl "Vyžádáme". Na otázku, do kdy: "Během příštího týdne." Citace jsou z našeho záznamu z veřejného zasedání.](../../assets/img/20260910-clanek-slib-starosty-citace.png)](../../assets/img/20260910-clanek-slib-starosty-citace.png)
+![Výřez z článku z 10. září, oddíl Co řekl starosta: Na zasedání zastupitelstva 26. srpna jsme tu větu z protokolu přečetli nahlas a zeptali se, zda město takové vyjádření vydalo. Starosta odpověděl: "Já si myslím, že asi ne. Určitě, žádný speciální jsme nepodávali." Zeptali jsme se dál, zda město kraji písemně sdělí, že vyjádření nevydalo. Starosta řekl "Určitě". Na otázku, do kdy, odpověděl: "Tak zejtra to určitě dělat nebudem, dáme to na příští týden." Na otázku, zda si město od kraje vyžádá kopii listiny, která je ve spisu vedena pod jménem města, řekl "Vyžádáme". Na otázku, do kdy: "Během příštího týdne." Citace jsou z našeho záznamu z veřejného zasedání.](../../assets/img/20260910-clanek-slib-starosty-citace.png)
 
 ## Dokumenty
 
