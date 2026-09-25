@@ -610,18 +610,20 @@ Týž den se konalo **poslední řádné zasedání zastupitelstva** před volba
 [Odpovědi kandidátů do Senátu](info/prispevky/2026-09-24-odpovedi-kandidatu-do-senatu.md)
 </div>
 
+<div class="tl-item tl-podani" markdown>
+<span class="tl-date">22. 9. 2026</span><span class="tl-tag">Odpovědi</span>
+
+**Město si listinu z krajského spisu nevyžádalo.** Na žádost ze 7. září odpovědělo v zákonné lhůtě pod sp. zn. KOU-2771/2026, podepsal starosta: krajskému úřadu po zasedání 26. srpna žádnou písemnost neposlalo, o kopii listiny vedené jako souhlasné vyjádření města nepožádalo a odpověď kraje nedostalo. Slíbený týden uplynul 4. září. O samotné listině z krajského spisu odpověď neříká nic.
+
+[Článek o odpovědi města](info/prispevky/2026-09-25-mesto-o-listinu-nepozadalo.md)
+</div>
+
 <div class="tl-item tl-kontext" markdown>
 <span class="tl-date">23. 9. 2026</span><span class="tl-tag">Média</span>
 
 O Molitorově napsaly **Seznam Zprávy** - druhý text o kauze v celostátním médiu, ráno hlavní zpráva titulní strany. Článek Vojtěcha Blažka stojí mimo jiné na pravomocné pokutě 800 000 Kč pro ŠTOCHL GROUP invest, na podmínkách povolení mobilních drtiček a na petici. Podle jednatele Petra Štochla firma proti pokutě podala správní žalobu.
 
 [Kde najdete listiny, o které se článek opírá](info/prispevky/2026-09-23-molitorov-na-seznam-zpravach.md)
-</div>
-
-<div class="tl-item tl-budouci" markdown>
-<span class="tl-date">do 22. 9. 2026</span><span class="tl-tag">Termín</span>
-
-**Odpověď města na žádost ze 7. září.** Patnáctidenní lhůta pro odpověď na to, co město po zasedání zastupitelstva poslalo krajskému úřadu ve věci souhlasného vyjádření ke stacionárnímu zařízení. Odpověď zveřejníme, ať dopadne jakkoli.
 </div>
 
 <div class="tl-item tl-budouci" markdown>
